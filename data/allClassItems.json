@@ -101,11 +101,11 @@
       "id": "credit"
     },
     {
-      "name": "Crusader",
+      "name": "Крестоносец",
       "id": "crusader"
     },
     {
-      "name": "Dark Lady",
+      "name": "Темная Госпожа",
       "id": "dark-lady"
     },
     {
@@ -113,7 +113,7 @@
       "id": "dark-wanderer"
     },
     {
-      "name": "Demolition",
+      "name": "Разрушение",
       "id": "demolition"
     },
     {
@@ -125,15 +125,15 @@
       "id": "dominion"
     },
     {
-      "name": "Dragon Dance",
+      "name": "Дракон",
       "id": "dragon-dance"
     },
     {
-      "name": "Dreidel",
+      "name": "Дрейдл",
       "id": "dreidel"
     },
     {
-      "name": "Drop Pod",
+      "name": "Десантная Капсула",
       "id": "drop-pod"
     },
     {
@@ -145,7 +145,7 @@
       "id": "elephant"
     },
     {
-      "name": "Eyeball",
+      "name": "Глаз",
       "id": "eyeball"
     },
     {
@@ -157,7 +157,7 @@
       "id": "for-the-horde"
     },
     {
-      "name": "Fortune",
+      "name": "Гадание",
       "id": "fortune"
     },
     {
@@ -169,7 +169,7 @@
       "id": "from-beyond-the-moon"
     },
     {
-      "name": "Fuchimari",
+      "name": "Футимари",
       "id": "fuchimari"
     },
     {
@@ -185,15 +185,15 @@
       "id": "ghostymari"
     },
     {
-      "name": "Gingerbread",
+      "name": "Пряничный Домик",
       "id": "gingerbread"
     },
     {
-      "name": "Gingermari",
+      "name": "Пачи-Пряник",
       "id": "gingermari"
     },
     {
-      "name": "Gold",
+      "name": "Золото",
       "id": "gold"
     },
     {
@@ -209,7 +209,7 @@
       "id": "happy-squid"
     },
     {
-      "name": "Have Fish",
+      "name": "Печеная Рыба",
       "id": "have-fish"
     },
     {
@@ -221,11 +221,11 @@
       "id": "hierarch"
     },
     {
-      "name": "Holly",
+      "name": "Остролист",
       "id": "holly"
     },
     {
-      "name": "Hot Cocoa",
+      "name": "Какао",
       "id": "hot-cocoa"
     },
     {
@@ -261,7 +261,7 @@
       "id": "loot-box"
     },
     {
-      "name": "Lord of Candy",
+      "name": "Владыка Сладостей",
       "id": "lord-of-candy"
     },
     {
@@ -269,23 +269,23 @@
       "id": "lord-of-terror"
     },
     {
-      "name": "Los Muertos",
+      "name": "Лос Муэртос",
       "id": "los-muertos"
     },
     {
-      "name": "Lucky Pouch",
+      "name": "Предсказания",
       "id": "lucky-pouch"
     },
     {
-      "name": "Mama Pig's",
+      "name": "Поросеночек",
       "id": "mama-pigs"
     },
     {
-      "name": "Mariachi",
+      "name": "Мариачи",
       "id": "mariachi"
     },
     {
-      "name": "Mech",
+      "name": "Меха",
       "id": "mech"
     },
     {
@@ -293,7 +293,7 @@
       "id": "mexico"
     },
     {
-      "name": "Mochi",
+      "name": "Моти",
       "id": "mochi"
     },
     {
@@ -301,7 +301,7 @@
       "id": "monk"
     },
     {
-      "name": "Na Zdorovie",
+      "name": "На Здоровье!",
       "id": "na-zdorovie"
     },
     {
@@ -309,7 +309,7 @@
       "id": "nepal"
     },
     {
-      "name": "New Year Cake",
+      "name": "Новогодний Торт",
       "id": "new-year-cake"
     },
     {
@@ -473,7 +473,7 @@
       "id": "snow-globe"
     },
     {
-      "name": "Snowman",
+      "name": "Снеговик",
       "id": "snowman"
     },
     {
@@ -485,7 +485,7 @@
       "id": "spider"
     },
     {
-      "name": "Stocking",
+      "name": "Носок",
       "id": "stocking"
     },
     {
@@ -497,7 +497,7 @@
       "id": "summer-games-2017"
     },
     {
-      "name": "Superstition",
+      "name": "Суеверие",
       "id": "superstition"
     },
     {
@@ -513,11 +513,11 @@
       "id": "switzerland"
     },
     {
-      "name": "Tangerines",
+      "name": "Мандаринки",
       "id": "tangerines"
     },
     {
-      "name": "Tannenbaum",
+      "name": "Елочка",
       "id": "tannenbaum"
     },
     {
@@ -525,7 +525,7 @@
       "id": "terran"
     },
     {
-      "name": "Tombstone",
+      "name": "Надгробие",
       "id": "tombstone"
     },
     {
@@ -533,7 +533,7 @@
       "id": "top-500"
     },
     {
-      "name": "Totem",
+      "name": "Тотем",
       "id": "totem"
     },
     {
@@ -569,11 +569,11 @@
       "id": "winter-wonderland-2016"
     },
     {
-      "name": "Witch Doctor",
+      "name": "Колдун",
       "id": "witch-doctor"
     },
     {
-      "name": "Witch's Brew",
+      "name": "Ведьмино Варево",
       "id": "witchs-brew"
     },
     {
