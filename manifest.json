@@ -1,8 +1,8 @@
 {
   "name": "Overwatch Item Tracker",
   "short_name": "Overwatch Item Tracker",
-  "description": "Tracks your progress collecting event items",
-  "lang": "en-US",
+  "description": "Отслеживайте пополнение вашей коллекции внутриигровых предметов",
+  "lang": "ru-RU",
   "start_url": "/",
   "display": "fullscreen",
   "theme_color": "#2d2d2d",

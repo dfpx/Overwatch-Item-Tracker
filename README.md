@@ -1,8 +1,15 @@
 # Overwatch Item Tracker
-##### Overwatch Item Tracker enables you to track your Overwatch collection progess for every hero and event added to the game.
+##### Overwatch Item Tracker позволяет отслеживать прогресс пополнения коллекции для каждого героя или события, добавленного в игру.
 
-###### Current events supported are: Summer Games 2016, Halloween Terror 2016, Winter Wonderland 2016, Year of the Rooster 2017, Uprising 2017 and Anniversary 2017.
+###### Добавленные и переведённые на данный момент события: 
+Летние Игры, Ужасы на Хеллоуин, Зимняя Сказка, Год Петуха, Мятеж и Годовщина.
 
-In order to run locally you will need to run this with a webserver for Angular to work. You can use a simple python webserver or NodeJS.
+Для запуска вам понадобится веб-сервер с рабочим AngularJS. Можно использовать простой веб-сервер Python или NodeJS.
 
-Intial design and concept created by Lalato & Izzepizze on [Reddit](https://www.reddit.com/r/Overwatch/comments/59bo66).
+• Дизайн и первоначальный концепт — [Lalato & Izzepizze](https://www.reddit.com/r/Overwatch/comments/59bo66).
+• Разработчик — [Js41637](https://github.com/Js41637/Overwatch-Item-Tracker).
+• Перевёл на русский язык — [Ravil Sayfutdinov](https://dfpx.ru).
+
+---
+
+Веб-версия доступна на моём сайте — https://ow.dfpx.ru/tracker. По всем вопросам — @quantepulsar.
