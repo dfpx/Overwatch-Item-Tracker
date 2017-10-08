@@ -1,11 +1,11 @@
 {
   "achievements": {
     "die-die-die-die": {
-      "name": "Die Die Die... Die",
+      "name": "Умри, Умри, Умри... Умри!",
       "reward": "Cute",
       "quality": "common",
       "type": "spray",
-      "description": "Kill 4 enemies with a single use of Reaper's Death Blossom in Quick or Competitive Play.",
+      "description": "Убейте 4 противников при помощи одного «Цветка Смерти» Жнеца в быстром или соревновательном матче.",
       "hero": "reaper"
     },
     "centenary": {
@@ -29,7 +29,7 @@
       "reward": "Rise",
       "quality": "common",
       "type": "spray",
-      "description": "Reach level 25.",
+      "description": "Достигните 25-го уровня.",
       "hero": "all"
     },
     "level-50": {
@@ -37,7 +37,7 @@
       "reward": "Respect",
       "quality": "common",
       "type": "spray",
-      "description": "Reach level 50.",
+      "description": "Достигните 50-го уровня.",
       "hero": "all"
     },
     "slice-and-dice": {

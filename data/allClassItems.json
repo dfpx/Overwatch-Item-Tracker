@@ -1,11 +1,11 @@
 {
   "icons": [
     {
-      "name": "...Never Die",
+      "name": "...Не Умирают",
       "id": "never-die"
     },
     {
-      "name": "16-Bit Hero",
+      "name": "16-битный герой",
       "id": "16bit-hero"
     },
     {
@@ -13,15 +13,15 @@
       "id": "2017"
     },
     {
-      "name": "Anniversary 2017",
+      "name": "Годовщина 2017",
       "id": "anniversary-2017"
     },
     {
-      "name": "Anubis",
+      "name": "Анубис",
       "id": "anubis"
     },
     {
-      "name": "Australia",
+      "name": "Австралия",
       "id": "australia"
     },
     {
@@ -29,75 +29,75 @@
       "id": "b73ns"
     },
     {
-      "name": "Bao",
+      "name": "Бао",
       "id": "bao"
     },
     {
-      "name": "Barbarian",
+      "name": "Варвар",
       "id": "barbarian"
     },
     {
-      "name": "Bells",
+      "name": "Колокольчики",
       "id": "bells"
     },
     {
-      "name": "Bewitching",
+      "name": "Чаровница",
       "id": "bewitching"
     },
     {
-      "name": "Bokimari",
+      "name": "Бокимари",
       "id": "bokimari"
     },
     {
-      "name": "Brazil",
+      "name": "Бразилия",
       "id": "brazil"
     },
     {
-      "name": "Bubbly",
+      "name": "Игристое",
       "id": "bubbly"
     },
     {
-      "name": "Calavera",
+      "name": "Калавера",
       "id": "calavera"
     },
     {
-      "name": "Candle",
+      "name": "Свеча",
       "id": "candle"
     },
     {
-      "name": "Candy Cane",
+      "name": "Конфетная Палочка",
       "id": "candy-cane"
     },
     {
-      "name": "Capsule",
+      "name": "Капсула",
       "id": "capsule"
     },
     {
-      "name": "Cheers!",
+      "name": "Выпьем за любовь!",
       "id": "cheers"
     },
     {
-      "name": "China",
+      "name": "Китай",
       "id": "china"
     },
     {
-      "name": "Coin",
+      "name": "Монетка",
       "id": "coin"
     },
     {
-      "name": "Colossus",
+      "name": "Колосс",
       "id": "colossus"
     },
     {
-      "name": "Copa Lúcioball Competitor",
+      "name": "Претендент Кубка Лусио",
       "id": "copa-lucioball-competitor"
     },
     {
-      "name": "Copa Lúcioball Hero",
+      "name": "Герой Кубка Лусио",
       "id": "copa-lucioball-hero"
     },
     {
-      "name": "Credit",
+      "name": "Кредит",
       "id": "credit"
     },
     {
@@ -109,7 +109,7 @@
       "id": "dark-lady"
     },
     {
-      "name": "Dark Wanderer",
+      "name": "Темный Странник",
       "id": "dark-wanderer"
     },
     {
@@ -117,11 +117,11 @@
       "id": "demolition"
     },
     {
-      "name": "Demon Hunter",
+      "name": "Охотница на Демонов",
       "id": "demon-hunter"
     },
     {
-      "name": "Dominion",
+      "name": "Доминион",
       "id": "dominion"
     },
     {
@@ -137,11 +137,11 @@
       "id": "drop-pod"
     },
     {
-      "name": "Egypt",
+      "name": "Египет",
       "id": "egypt"
     },
     {
-      "name": "Elephant",
+      "name": "Слон",
       "id": "elephant"
     },
     {
@@ -149,11 +149,11 @@
       "id": "eyeball"
     },
     {
-      "name": "For the Alliance",
+      "name": "За Альянс!",
       "id": "for-the-alliance"
     },
     {
-      "name": "For the Horde",
+      "name": "За Орду!",
       "id": "for-the-horde"
     },
     {
@@ -161,11 +161,11 @@
       "id": "fortune"
     },
     {
-      "name": "France",
+      "name": "Франция",
       "id": "france"
     },
     {
-      "name": "From Beyond the Moon",
+      "name": "С той стороны Луны",
       "id": "from-beyond-the-moon"
     },
     {
@@ -173,15 +173,15 @@
       "id": "fuchimari"
     },
     {
-      "name": "Garrosh",
+      "name": "Гаррош",
       "id": "garrosh"
     },
     {
-      "name": "Germany",
+      "name": "Германия",
       "id": "germany"
     },
     {
-      "name": "Ghostymari",
+      "name": "Духомари",
       "id": "ghostymari"
     },
     {
@@ -197,15 +197,15 @@
       "id": "gold"
     },
     {
-      "name": "Greece",
+      "name": "Греция",
       "id": "greece"
     },
     {
-      "name": "Halloween Terror 2016",
+      "name": "Ужасы на Хеллоуин 2016",
       "id": "halloween-terror-2016"
     },
     {
-      "name": "Happy Squid",
+      "name": "Кальмарик",
       "id": "happy-squid"
     },
     {
@@ -217,7 +217,7 @@
       "id": "hearthstone"
     },
     {
-      "name": "Hierarch",
+      "name": "Иерарх",
       "id": "hierarch"
     },
     {
@@ -229,15 +229,15 @@
       "id": "hot-cocoa"
     },
     {
-      "name": "Jaina",
+      "name": "Джайночка",
       "id": "jaina"
     },
     {
-      "name": "Japan",
+      "name": "Япония",
       "id": "japan"
     },
     {
-      "name": "Jim",
+      "name": "Джим",
       "id": "jim"
     },
     {
@@ -245,11 +245,11 @@
       "id": "kofi-aromo"
     },
     {
-      "name": "Lantern",
+      "name": "Фонарь",
       "id": "lantern"
     },
     {
-      "name": "Lich King",
+      "name": "Король-Лич",
       "id": "lich-king"
     },
     {
@@ -257,7 +257,7 @@
       "id": "lion-dance"
     },
     {
-      "name": "Loot Box",
+      "name": "Контейнер",
       "id": "loot-box"
     },
     {
@@ -265,7 +265,7 @@
       "id": "lord-of-candy"
     },
     {
-      "name": "Lord of Terror",
+      "name": "Владыка Ужаса",
       "id": "lord-of-terror"
     },
     {
@@ -289,7 +289,7 @@
       "id": "mech"
     },
     {
-      "name": "Mexico",
+      "name": "Мексика",
       "id": "mexico"
     },
     {
@@ -297,7 +297,7 @@
       "id": "mochi"
     },
     {
-      "name": "Monk",
+      "name": "Монах",
       "id": "monk"
     },
     {
@@ -305,7 +305,7 @@
       "id": "na-zdorovie"
     },
     {
-      "name": "Nepal",
+      "name": "Непал",
       "id": "nepal"
     },
     {
@@ -313,19 +313,19 @@
       "id": "new-year-cake"
     },
     {
-      "name": "Nexus",
+      "name": "Нексус",
       "id": "nexus"
     },
     {
-      "name": "Null Sector",
+      "name": "Нуль-Сектор",
       "id": "null-sector"
     },
     {
-      "name": "Nullmari",
+      "name": "Нуль-Мари",
       "id": "nullmari"
     },
     {
-      "name": "Numbani",
+      "name": "Нумбани",
       "id": "numbani"
     },
     {
@@ -333,19 +333,19 @@
       "id": "ornament"
     },
     {
-      "name": "Overwatch Dark",
+      "name": "Overwatch (Темный)",
       "id": "overwatch-dark"
     },
     {
-      "name": "Overwatch Light",
+      "name": "Overwatch (Светлый)",
       "id": "overwatch-light"
     },
     {
-      "name": "Pachilantern",
+      "name": "Пачи-Фонарь",
       "id": "pachilantern"
     },
     {
-      "name": "Pachimari",
+      "name": "Пачимари",
       "id": "pachimari"
     },
     {
@@ -357,11 +357,11 @@
       "id": "pachireindeer"
     },
     {
-      "name": "Pachiversary",
+      "name": "Праздничимари",
       "id": "pachiversary"
     },
     {
-      "name": "Peachimari",
+      "name": "Персикмари",
       "id": "peachimari"
     },
     {
@@ -369,27 +369,27 @@
       "id": "peppermint"
     },
     {
-      "name": "Pharaoh",
+      "name": "Фараон",
       "id": "pharaoh"
     },
     {
-      "name": "Present",
+      "name": "Подарок",
       "id": "present"
     },
     {
-      "name": "Protoss",
+      "name": "Протоссы",
       "id": "protoss"
     },
     {
-      "name": "Queen of Blades",
+      "name": "Королева Клинков",
       "id": "queen-of-blades"
     },
     {
-      "name": "Ramen",
+      "name": "Рамен",
       "id": "ramen"
     },
     {
-      "name": "Red Envelope",
+      "name": "Красный Конверт",
       "id": "red-envelope"
     },
     {
@@ -401,15 +401,15 @@
       "id": "rikimaru"
     },
     {
-      "name": "Route 66",
+      "name": "Шоссе 66",
       "id": "route-66"
     },
     {
-      "name": "Russia",
+      "name": "Россия",
       "id": "russia"
     },
     {
-      "name": "Sakura",
+      "name": "Сакура",
       "id": "sakura"
     },
     {
@@ -421,7 +421,7 @@
       "id": "season-1-competitor"
     },
     {
-      "name": "Season 1 Hero",
+      "name": "Герой Season 1",
       "id": "season-1-hero"
     },
     {
@@ -477,11 +477,11 @@
       "id": "snowman"
     },
     {
-      "name": "South Korea",
+      "name": "Южная Корея",
       "id": "south-korea"
     },
     {
-      "name": "Spider",
+      "name": "Варис. Паук.",
       "id": "spider"
     },
     {
@@ -489,11 +489,11 @@
       "id": "stocking"
     },
     {
-      "name": "Summer Games 2016",
+      "name": "Летние Игры 2016",
       "id": "summer-games-2016"
     },
     {
-      "name": "Summer Games 2017",
+      "name": "Летние Игры 2017",
       "id": "summer-games-2017"
     },
     {
@@ -501,15 +501,15 @@
       "id": "superstition"
     },
     {
-      "name": "Svyatogor",
+      "name": "Святогор",
       "id": "svyatogor"
     },
     {
-      "name": "Sweden",
+      "name": "Швеция",
       "id": "sweden"
     },
     {
-      "name": "Switzerland",
+      "name": "Швейцария",
       "id": "switzerland"
     },
     {
@@ -521,7 +521,7 @@
       "id": "tannenbaum"
     },
     {
-      "name": "Terran",
+      "name": "Терраны",
       "id": "terran"
     },
     {
@@ -529,7 +529,7 @@
       "id": "tombstone"
     },
     {
-      "name": "Top 500",
+      "name": "500 лучших",
       "id": "top-500"
     },
     {
@@ -537,27 +537,27 @@
       "id": "totem"
     },
     {
-      "name": "Training Bot",
+      "name": "Тренировочный Робот",
       "id": "training-bot"
     },
     {
-      "name": "United Kingdom",
+      "name": "Великобритания",
       "id": "united-kingdom"
     },
     {
-      "name": "United States of America",
+      "name": "США",
       "id": "united-states-of-america"
     },
     {
-      "name": "Uprising 2017",
+      "name": "Мятеж 2017",
       "id": "uprising-2017"
     },
     {
-      "name": "Vampachimari",
+      "name": "Вампачимари",
       "id": "vampachimari"
     },
     {
-      "name": "Varian",
+      "name": "Вариан",
       "id": "varian"
     },
     {
@@ -565,7 +565,7 @@
       "id": "vivi"
     },
     {
-      "name": "Winter Wonderland 2016",
+      "name": "Зимняя Сказка 2016",
       "id": "winter-wonderland-2016"
     },
     {
@@ -577,31 +577,31 @@
       "id": "witchs-brew"
     },
     {
-      "name": "Witch's Hat",
+      "name": "Ведьмина шляпа",
       "id": "witchs-hat"
     },
     {
-      "name": "Wizard",
+      "name": "Чародейка",
       "id": "wizard"
     },
     {
-      "name": "Wolf",
+      "name": "Волк",
       "id": "wolf"
     },
     {
-      "name": "Wreath",
+      "name": "Венок",
       "id": "wreath"
     },
     {
-      "name": "Year of the Rooster 2017",
+      "name": "Год Хандзо 2017",
       "id": "year-of-the-rooster-2017"
     },
     {
-      "name": "You are not prepared",
+      "name": "Вы не готовы",
       "id": "you-are-not-prepared"
     },
     {
-      "name": "Zerg",
+      "name": "Зерги",
       "id": "zerg"
     }
   ],
@@ -971,7 +971,7 @@
       "id": "well-played"
     },
     {
-      "name": "Winter Wonderland",
+      "name": "Зимняя Сказка",
       "id": "winter-wonderland"
     },
     {
@@ -987,11 +987,11 @@
       "id": "wizard"
     },
     {
-      "name": "Year of the Rooster",
+      "name": "Год Хандзо",
       "id": "year-of-the-rooster"
     },
     {
-      "name": "You are not prepared!",
+      "name": "Вы не готовы!",
       "id": "you-are-not-prepared"
     }
   ]

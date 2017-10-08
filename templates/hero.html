@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="options">
-      <div class="btn btn-default" ng-show="hero.filtering" uib-tooltip="Clear Filters" ng-click="hero.clearFilters()" tooltip-append-to-body="true">Clear Filters</div>
+      <div class="btn btn-default" ng-show="hero.filtering" uib-tooltip="Clear Filters" ng-click="hero.clearFilters()" tooltip-append-to-body="true">Очистить фильтр</div>
       <div class="btn-group" uib-dropdown is-open="showDropdown" auto-close="outsideClick">
         <div class="btn btn-default" uib-dropdown-toggle uib-tooltip="Filter Items" tooltip-append-to-body="true">
           Filter <span class="caret"></span>
@@ -52,7 +52,7 @@
           </li>
         </ul>
       </div>
-      <div class="toggle-grid btn btn-default" uib-tooltip="Toggle Grid View" ng-click="hero.toggleGrid()" tooltip-append-to-body="true">Toggle Grid</div>
+      <div class="toggle-grid btn btn-default" uib-tooltip="Toggle Grid View" ng-click="hero.toggleGrid()" tooltip-append-to-body="true">Включить сетку</div>
       <div class="select-all btn btn-default" uib-tooltip="Select all items currently in view" ng-click="hero.selectModal(false, 'select')" tooltip-append-to-body="true">Select All</div>
       <div class="select-all btn btn-default" uib-tooltip="Unselect all items currently in view" ng-click="hero.selectModal(false, 'unselect')" tooltip-append-to-body="true">Unselect All</div>
     </div>
@@ -90,8 +90,8 @@
               <span class="glyphicon glyphicon-cog"></span>
             </div>
             <ul class="dropdown-menu dropdown-menu-right" uib-dropdown-menu>
-              <li><a ng-click="hero.selectModal(type, 'select')">Select All</a></li>
-              <li><a ng-click="hero.selectModal(type, 'unselect')">Unselect All</a></li>
+              <li><a ng-click="hero.selectModal(type, 'select')">Выбрать все</a></li>
+              <li><a ng-click="hero.selectModal(type, 'unselect')">Сбросить выбор</a></li>
             </ul>
           </div>
         </div>
