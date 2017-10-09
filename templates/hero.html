@@ -15,27 +15,27 @@
       <div class="btn btn-default" ng-show="hero.filtering" uib-tooltip="Clear Filters" ng-click="hero.clearFilters()" tooltip-append-to-body="true">Очистить фильтр</div>
       <div class="btn-group" uib-dropdown is-open="showDropdown" auto-close="outsideClick">
         <div class="btn btn-default" uib-dropdown-toggle uib-tooltip="Filter Items" tooltip-append-to-body="true">
-          Filter <span class="caret"></span>
+          Фильтр <span class="caret"></span>
         </div>
         <ul class="dropdown-menu dropdown-menu-right" uib-dropdown-menu>
           <li>
             <div>
-              <label for="filterSelected">Selected <input id="filterSelected" type="checkbox" ng-change="hero.filters.unselected = false;hero.updateFilters()" ng-model="hero.filters.selected" ng-disabled="hero.totals.overall.selected == 0 && !hero.filtering"></label>
+              <label for="filterSelected">Выбранные<input id="filterSelected" type="checkbox" ng-change="hero.filters.unselected = false;hero.updateFilters()" ng-model="hero.filters.selected" ng-disabled="hero.totals.overall.selected == 0 && !hero.filtering"></label>
             </div>
           </li>
           <li>
             <div>
-              <label for="filterUnselected">UnSelected <input id="filterUnselected" type="checkbox" ng-change="hero.filters.selected = false;hero.updateFilters()" ng-model="hero.filters.unselected" ng-disabled="hero.totals.overall.selected == 0 && !hero.filtering"></label>
+              <label for="filterUnselected">Невыбранные <input id="filterUnselected" type="checkbox" ng-change="hero.filters.selected = false;hero.updateFilters()" ng-model="hero.filters.unselected" ng-disabled="hero.totals.overall.selected == 0 && !hero.filtering"></label>
             </div>
           </li>
           </li>
           <li class="divider"></li>
           <li>
             <div>
-              <label for="achievementf">Achievement/Special <input id="achievementf" type="checkbox" ng-change="hero.updateFilters()" ng-model="hero.filters.achievement"></label>
+              <label for="achievementf">Достижения / Акции<input id="achievementf" type="checkbox" ng-change="hero.updateFilters()" ng-model="hero.filters.achievement"></label>
             </div>
             <div ng-show="hero.id == 'all'">
-              <label for="herof">Hero Icons <input id="herof" type="checkbox" ng-change="hero.updateFilters()" ng-model="hero.filters.hero"></label>
+              <label for="herof">Иконки Героев <input id="herof" type="checkbox" ng-change="hero.updateFilters()" ng-model="hero.filters.hero"></label>
             </div>
           </li>
           <li class="divider" ng-show="::hero.hasGroups()"></li>
@@ -52,15 +52,15 @@
           </li>
         </ul>
       </div>
-      <div class="toggle-grid btn btn-default" uib-tooltip="Toggle Grid View" ng-click="hero.toggleGrid()" tooltip-append-to-body="true">Включить сетку</div>
-      <div class="select-all btn btn-default" uib-tooltip="Select all items currently in view" ng-click="hero.selectModal(false, 'select')" tooltip-append-to-body="true">Select All</div>
-      <div class="select-all btn btn-default" uib-tooltip="Unselect all items currently in view" ng-click="hero.selectModal(false, 'unselect')" tooltip-append-to-body="true">Unselect All</div>
+      <div class="toggle-grid btn btn-default" uib-tooltip="Переключить представление" ng-click="hero.toggleGrid()" tooltip-append-to-body="true">Переключить сетку</div>
+      <div class="select-all btn btn-default" uib-tooltip="Select all items currently in view" ng-click="hero.selectModal(false, 'select')" tooltip-append-to-body="true">Выбрать все</div>
+      <div class="select-all btn btn-default" uib-tooltip="Unselect all items currently in view" ng-click="hero.selectModal(false, 'unselect')" tooltip-append-to-body="true">Сбросить выбор</div>
     </div>
     <div class="hero-progress">
       <div class="hero-progress-bar" style="width: {{hero.totals.overall.percentage}}%; background-color: {{hero.colors.primary}}; border-top-color: {{hero.colors.highlight}}"></div>
       <span>{{hero.totals.overall.selected}} / {{hero.totals.overall.total}}  Unlocks</span>
     </div>
-    <span class="currentfilter" ng-show="hero.filtering">Currently Filtering: {{hero.currentFilters}}</span>
+    <span class="currentfilter" ng-show="hero.filtering">Выбранный фильтр: {{hero.currentFilters}}</span>
   </div>
   <div class="hero-grid angular-animate" ng-if="hero.gridView">
     <div ng-repeat="(type, items) in hero.filteredItems track by type" id="{{::type}}" class="section">
