@@ -6,7 +6,7 @@
 <div id="row2" class="row space-between">
   <div id="voicelines" class="section flex-column x3">
     <div class="section-header">
-      <h2>Voice Lines <small>75</small></h2>
+      <h2>Реплики <small>75</small></h2>
     </div>
     <div class="items">
       <event-item ng-repeat="item in ::data.items.voicelines track by $index" type="voicelines"></event-item>
@@ -16,7 +16,7 @@
     <div class="top">
       <div id="emotes" class="section flex-column x2">
         <div class="section-header">
-          <h2>Emotes <small>750</small></h2>
+          <h2>Эмоции<small>750</small></h2>
         </div>
         <div class="items">
           <event-item ng-repeat="item in ::data.items.emotes track by $index" type="emotes"></event-item>
@@ -34,7 +34,7 @@
     <div class="bottom">
       <div id="sprays" class="section flex-column x3">
         <div class="section-header">
-          <h2>Sprays <small>75</small></h2>
+          <h2>Граффити <small>75</small></h2>
         </div>
         <div class="items">
           <div class="item" ng-repeat="spray in ::data.items.sprays track by $index" ng-if="::!spray.id.includes('dragon-dance')" achievement="{{::spray.achievement}}" ng-mouseenter="showPreview(spray, 'spray')" ng-mouseleave="hidePreview()">

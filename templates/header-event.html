@@ -1,7 +1,7 @@
 <div ng-show="$ctrl.item.dates.end > $ctrl.currentDate" class="event-active">
-  <h2>Event should end on {{$ctrl.item.dates.end | date:'MMM d'}} local time</h2>
-  <h3>Be sure to get everything you want by {{$ctrl.item.dates.end - 86400000 | date:'MMM d'}} to be safe!</h3>
+  <h2>Событие должно завершиться {{$ctrl.item.dates.end | date:'MMM d'}} по местному времени</h2>
+  <h3>Убедитесь, что приобрели всё, что хотели до {{$ctrl.item.dates.end - 86400000 | date:'MMM d'}}, на всякий случай!</h3>
 </div>
 <div ng-show="$ctrl.item.dates.end < $ctrl.currentDate" class="event-ended">
-  <h2>Event ended on {{$ctrl.item.dates.end | date:'MMM d yyyy'}}  local time</h2>
+  <h2>Событие завершилось {{$ctrl.item.dates.end | date:'MMM d yyyy'}} по местному времени</h2>
 </div>
