@@ -1,8 +1,8 @@
 const CLASSES = {
-  OFFENCE: 'Offense',
-  DEFENCE: 'Defense',
-  TANK: 'Tank',
-  SUPPORT: 'Support'
+  OFFENCE: 'Штурм',
+  DEFENCE: 'Защита',
+  TANK: 'Танк',
+  SUPPORT: 'Поддержка'
 };
 
 const data = {

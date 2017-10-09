@@ -1,12 +1,12 @@
 <div class="event-progress">
   <div class="event-progress-bar progress-bar active" style="width: {{totals.overall.percentage}}%;" ng-class="{'progress-bar-striped': totals.overall.selected === totals.overall.total}"></div>
-  <span>{{totals.overall.selected}} / {{totals.overall.total}}  Unlocks</span>
+  <span>Разблокировано {{totals.overall.selected}} / {{totals.overall.total}}</span>
 </div>
 <div class="col-md-8 col-padding">
   <legendary-skins></legendary-skins>
   <div id="voicelines" class="section">
     <div class="section-header">
-      <h2>Voice Lines <small class="itemTotal">{{totals['voicelines'].selected}}/{{totals['voicelines'].total}}</small></h2>
+      <h2>Реплики <small class="itemTotal">{{totals['voicelines'].selected}}/{{totals['voicelines'].total}}</small></h2>
     </div>
     <div class="items flex-3">
       <div
@@ -28,7 +28,7 @@
   </div>
   <div id="icons" class="section">
     <div class="section-header">
-      <h2>Player Icons <small class="itemTotal">{{totals['icons'].selected}}/{{totals['icons'].total}}</small></h2>
+      <h2>Значки <small class="itemTotal">{{totals['icons'].selected}}/{{totals['icons'].total}}</small></h2>
     </div>
     <div class="items flex-4">
       <div
@@ -53,7 +53,7 @@
 <div class="col-md-4 col-padding">
   <div id="skins" class="section">
     <div class="section-header">
-      <h2>Skins <small class="itemTotal">{{totals['skins'].selected}}/{{totals['skins'].total}}</small></h2>
+      <h2>Облики <small class="itemTotal">{{totals['skins'].selected}}/{{totals['skins'].total}}</small></h2>
     </div>
     <div class="items flex-2">
       <div
@@ -75,7 +75,7 @@
   </div>
   <div id="victoryposes" class="section">
     <div class="section-header">
-      <h2>Victory Poses <small class="itemTotal">{{totals['poses'].selected}}/{{totals['poses'].total}}</small></h2>
+      <h2>Победные позы <small class="itemTotal">{{totals['poses'].selected}}/{{totals['poses'].total}}</small></h2>
     </div>
     <div class="items flex-2">
       <div
@@ -97,7 +97,7 @@
   </div>
   <div id="emotes" class="section">
     <div class="section-header">
-      <h2>Emotes <small class="itemTotal">{{totals['emotes'].selected}}/{{totals['emotes'].total}}</small></h2>
+      <h2>Эмоции <small class="itemTotal">{{totals['emotes'].selected}}/{{totals['emotes'].total}}</small></h2>
     </div>
     <div class="items flex-2">
       <div
@@ -119,7 +119,7 @@
   </div>
     <div id="intros" class="section">
     <div class="section-header">
-      <h2>Highlight Intros <small class="itemTotal">{{totals['intros'].selected}}/{{totals['intros'].total}}</small></h2>
+      <h2>Лучший момент матча <small class="itemTotal">{{totals['intros'].selected}}/{{totals['intros'].total}}</small></h2>
     </div>
     <div class="items flex-2">
       <div
@@ -141,7 +141,7 @@
   </div>
   <div id="sprays" class="section">
     <div class="section-header">
-      <h2>Sprays <small class="itemTotal">{{totals['sprays'].selected}}/{{totals['sprays'].total}}</small></h2>
+      <h2>Граффити <small class="itemTotal">{{totals['sprays'].selected}}/{{totals['sprays'].total}}</small></h2>
     </div>
     <div class="items flex-2">
       <div
