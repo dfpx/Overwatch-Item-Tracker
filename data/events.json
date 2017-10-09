@@ -4044,7 +4044,7 @@
         {
           "heroName": "Маккри",
           "hero": "mccree",
-          "name": "Line Dance",
+          "name": "Ковбойский Танец",
           "id": "mccree-line-dance",
           "quality": "epic",
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/mccree-line-dance.webm"
@@ -4060,7 +4060,7 @@
         {
           "heroName": "Ангел",
           "hero": "mercy",
-          "name": "Hustle",
+          "name": "Хастл",
           "id": "mercy-hustle",
           "quality": "epic",
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/mercy-hustle.webm"
