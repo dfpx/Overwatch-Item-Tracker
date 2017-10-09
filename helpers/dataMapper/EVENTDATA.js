@@ -21,12 +21,12 @@ const EVENTORDER = {
 };
 
 const EVENTNAMES = {
-  [EVENTS.SUMMER]: 'Summer Games',
-  [EVENTS.HALLOWEEN16]: 'Halloween Terror 2016',
-  [EVENTS.CHRISTMAS16]: 'Winter Wonderland 2016',
-  [EVENTS.ROOSTER17]: 'Year of the Rooster 2017',
-  [EVENTS.UPRISING17]: 'Uprising 2017',
-  [EVENTS.ANNIVERSARY17]: 'Anniversary 2017'
+  [EVENTS.SUMMER]: 'Летние Игры',
+  [EVENTS.HALLOWEEN16]: 'Ужасы на Хеллоуин 2016',
+  [EVENTS.CHRISTMAS16]: 'Зимняя Сказка 2016',
+  [EVENTS.ROOSTER17]: 'Год Петуха 2017',
+  [EVENTS.UPRISING17]: 'Мятеж 2017',
+  [EVENTS.ANNIVERSARY17]: 'Годовщина 2017'
 };
 
 const EVENTTIMES = {
