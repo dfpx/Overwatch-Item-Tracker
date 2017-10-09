@@ -1,6 +1,6 @@
 {
   "HALLOWEEN_2016": {
-    "name": "Halloween Terror 2016",
+    "name": "Ужасы на Хеллоуин 2016",
     "id": "HALLOWEEN_2016",
     "dates": {
       "start": "1476208800000",
@@ -9,7 +9,7 @@
     "items": {
       "skinsEpic": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Ghoul",
           "id": "ana-ghoul",
@@ -17,7 +17,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/skinsEpic/ana-ghoul.jpg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Tombstone",
           "id": "bastion-tombstone",
@@ -25,7 +25,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/skinsEpic/bastion-tombstone.jpg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Demon",
           "id": "hanzo-demon",
@@ -33,7 +33,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/skinsEpic/hanzo-demon.jpg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Possessed",
           "id": "pharah-possessed",
@@ -41,7 +41,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/skinsEpic/pharah-possessed.jpg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Coldhardt",
           "id": "reinhardt-coldhardt",
@@ -49,7 +49,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/skinsEpic/reinhardt-coldhardt.jpg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Immortal",
           "id": "soldier-76-immortal",
@@ -57,7 +57,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/skinsEpic/soldier-76-immortal.jpg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Vampire",
           "id": "symmetra-vampire",
@@ -65,7 +65,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/skinsEpic/symmetra-vampire.jpg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Skullyatta",
           "id": "zenyatta-skullyatta",
@@ -75,7 +75,7 @@
       ],
       "emotes": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Candy",
           "id": "ana-candy",
@@ -83,7 +83,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/emotes/ana-candy.webm"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Pumpkin Smash",
           "id": "reinhardt-pumpkin-smash",
@@ -91,7 +91,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/emotes/reinhardt-pumpkin-smash.webm"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Shadow Puppets",
           "id": "winston-shadow-puppets",
@@ -101,7 +101,7 @@
       ],
       "sprays": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Trick or Treat",
           "id": "ana-trick-or-treat",
@@ -109,7 +109,7 @@
           "url": "./resources/heroes/ana/sprays/ana-trick-or-treat.png"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Trick or Treat",
           "id": "bastion-trick-or-treat",
@@ -125,7 +125,7 @@
           "url": "./resources/heroes/dva/sprays/dva-trick-or-treat.png"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Trick or Treat",
           "id": "genji-trick-or-treat",
@@ -133,7 +133,7 @@
           "url": "./resources/heroes/genji/sprays/genji-trick-or-treat.png"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Trick or Treat",
           "id": "hanzo-trick-or-treat",
@@ -141,7 +141,7 @@
           "url": "./resources/heroes/hanzo/sprays/hanzo-trick-or-treat.png"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Trick or Treat",
           "id": "junkrat-trick-or-treat",
@@ -149,7 +149,7 @@
           "url": "./resources/heroes/junkrat/sprays/junkrat-trick-or-treat.png"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Trick or Treat",
           "id": "lucio-trick-or-treat",
@@ -157,7 +157,7 @@
           "url": "./resources/heroes/lucio/sprays/lucio-trick-or-treat.png"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Trick or Treat",
           "id": "mccree-trick-or-treat",
@@ -165,7 +165,7 @@
           "url": "./resources/heroes/mccree/sprays/mccree-trick-or-treat.png"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Trick or Treat",
           "id": "mei-trick-or-treat",
@@ -173,7 +173,7 @@
           "url": "./resources/heroes/mei/sprays/mei-trick-or-treat.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Trick or Treat",
           "id": "mercy-trick-or-treat",
@@ -181,7 +181,7 @@
           "url": "./resources/heroes/mercy/sprays/mercy-trick-or-treat.png"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Trick or Treat",
           "id": "pharah-trick-or-treat",
@@ -189,7 +189,7 @@
           "url": "./resources/heroes/pharah/sprays/pharah-trick-or-treat.png"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Trick or Treat",
           "id": "reaper-trick-or-treat",
@@ -197,7 +197,7 @@
           "url": "./resources/heroes/reaper/sprays/reaper-trick-or-treat.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Trick or Treat",
           "id": "reinhardt-trick-or-treat",
@@ -205,7 +205,7 @@
           "url": "./resources/heroes/reinhardt/sprays/reinhardt-trick-or-treat.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Trick or Treat",
           "id": "roadhog-trick-or-treat",
@@ -213,7 +213,7 @@
           "url": "./resources/heroes/roadhog/sprays/roadhog-trick-or-treat.png"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Trick or Treat",
           "id": "soldier-76-trick-or-treat",
@@ -221,7 +221,7 @@
           "url": "./resources/heroes/soldier-76/sprays/soldier-76-trick-or-treat.png"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Trick or Treat",
           "id": "symmetra-trick-or-treat",
@@ -229,7 +229,7 @@
           "url": "./resources/heroes/symmetra/sprays/symmetra-trick-or-treat.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Trick or Treat",
           "id": "torbjorn-trick-or-treat",
@@ -237,7 +237,7 @@
           "url": "./resources/heroes/torbjorn/sprays/torbjorn-trick-or-treat.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Trick or Treat",
           "id": "tracer-trick-or-treat",
@@ -245,7 +245,7 @@
           "url": "./resources/heroes/tracer/sprays/tracer-trick-or-treat.png"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Trick or Treat",
           "id": "widowmaker-trick-or-treat",
@@ -253,7 +253,7 @@
           "url": "./resources/heroes/widowmaker/sprays/widowmaker-trick-or-treat.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Trick or Treat",
           "id": "winston-trick-or-treat",
@@ -261,7 +261,7 @@
           "url": "./resources/heroes/winston/sprays/winston-trick-or-treat.png"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Trick or Treat",
           "id": "zarya-trick-or-treat",
@@ -269,7 +269,7 @@
           "url": "./resources/heroes/zarya/sprays/zarya-trick-or-treat.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Trick or Treat",
           "id": "zenyatta-trick-or-treat",
@@ -381,7 +381,7 @@
       ],
       "voicelines": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Are you scared?",
           "id": "ana-are-you-scared",
@@ -389,7 +389,7 @@
           "url": "./resources/heroes/ana/voicelines/ana-are-you-scared.ogg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "W-W-Wooooo...?",
           "id": "bastion-wwwooooo",
@@ -405,7 +405,7 @@
           "url": "./resources/heroes/dva/voicelines/dva-happy-halloween.ogg"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "My Halloween costume?",
           "id": "genji-my-halloween-costume",
@@ -413,7 +413,7 @@
           "url": "./resources/heroes/genji/voicelines/genji-my-halloween-costume.ogg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "You are already dead",
           "id": "hanzo-you-are-already-dead",
@@ -421,7 +421,7 @@
           "url": "./resources/heroes/hanzo/voicelines/hanzo-you-are-already-dead.ogg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Happy Halloween",
           "id": "junkrat-happy-halloween",
@@ -429,7 +429,7 @@
           "url": "./resources/heroes/junkrat/voicelines/junkrat-happy-halloween.ogg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Killed it!",
           "id": "lucio-killed-it",
@@ -437,7 +437,7 @@
           "url": "./resources/heroes/lucio/voicelines/lucio-killed-it.ogg"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "It's your funeral",
           "id": "mccree-its-your-funeral",
@@ -445,7 +445,7 @@
           "url": "./resources/heroes/mccree/voicelines/mccree-its-your-funeral.ogg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Scary!",
           "id": "mei-scary",
@@ -453,7 +453,7 @@
           "url": "./resources/heroes/mei/voicelines/mei-scary.ogg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Superstition",
           "id": "mercy-superstition",
@@ -461,7 +461,7 @@
           "url": "./resources/heroes/mercy/voicelines/mercy-superstition.ogg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Dead or alive",
           "id": "pharah-dead-or-alive",
@@ -469,7 +469,7 @@
           "url": "./resources/heroes/pharah/voicelines/pharah-dead-or-alive.ogg"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "I work the graveyard shift",
           "id": "reaper-i-work-the-graveyard-shift",
@@ -477,7 +477,7 @@
           "url": "./resources/heroes/reaper/voicelines/reaper-i-work-the-graveyard-shift.ogg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Smashing",
           "id": "reinhardt-smashing",
@@ -485,7 +485,7 @@
           "url": "./resources/heroes/reinhardt/voicelines/reinhardt-smashing.ogg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Want some candy?",
           "id": "roadhog-want-some-candy",
@@ -493,7 +493,7 @@
           "url": "./resources/heroes/roadhog/voicelines/roadhog-want-some-candy.ogg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Knock knock",
           "id": "soldier-76-knock-knock",
@@ -501,7 +501,7 @@
           "url": "./resources/heroes/soldier-76/voicelines/soldier-76-knock-knock.ogg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "A frightening thought",
           "id": "symmetra-a-frightening-thought",
@@ -509,7 +509,7 @@
           "url": "./resources/heroes/symmetra/voicelines/symmetra-a-frightening-thought.ogg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "If you build it",
           "id": "torbjorn-if-you-build-it",
@@ -517,7 +517,7 @@
           "url": "./resources/heroes/torbjorn/voicelines/torbjorn-if-you-build-it.ogg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Ooh, Scary!",
           "id": "tracer-ooh-scary",
@@ -525,7 +525,7 @@
           "url": "./resources/heroes/tracer/voicelines/tracer-ooh-scary.ogg"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "The party is over",
           "id": "widowmaker-the-party-is-over",
@@ -533,7 +533,7 @@
           "url": "./resources/heroes/widowmaker/voicelines/widowmaker-the-party-is-over.ogg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "This is not a costume",
           "id": "winston-this-is-not-a-costume",
@@ -541,7 +541,7 @@
           "url": "./resources/heroes/winston/voicelines/winston-this-is-not-a-costume.ogg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Never forget the fallen",
           "id": "zarya-never-forget-the-fallen",
@@ -549,7 +549,7 @@
           "url": "./resources/heroes/zarya/voicelines/zarya-never-forget-the-fallen.ogg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Trick or treat?",
           "id": "zenyatta-trick-or-treat",
@@ -559,7 +559,7 @@
       ],
       "poses": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "R.I.P.",
           "id": "ana-rip",
@@ -567,7 +567,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/ana-rip.jpg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "R.I.P.",
           "id": "bastion-rip",
@@ -584,7 +584,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/dva-rip.jpg"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "R.I.P.",
           "id": "genji-rip",
@@ -592,7 +592,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/genji-rip.jpg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "R.I.P.",
           "id": "hanzo-rip",
@@ -600,7 +600,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/hanzo-rip.jpg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "R.I.P.",
           "id": "junkrat-rip",
@@ -608,7 +608,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/junkrat-rip.jpg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "R.I.P.",
           "id": "lucio-rip",
@@ -616,7 +616,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/lucio-rip.jpg"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "R.I.P.",
           "id": "mccree-rip",
@@ -624,7 +624,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/mccree-rip.jpg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "R.I.P.",
           "id": "mei-rip",
@@ -632,7 +632,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/mei-rip.jpg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "R.I.P.",
           "id": "mercy-rip",
@@ -640,7 +640,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/mercy-rip.jpg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "R.I.P.",
           "id": "pharah-rip",
@@ -648,7 +648,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/pharah-rip.jpg"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "R.I.P.",
           "id": "reaper-rip",
@@ -656,7 +656,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/reaper-rip.jpg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "R.I.P.",
           "id": "reinhardt-rip",
@@ -664,7 +664,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/reinhardt-rip.jpg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "R.I.P.",
           "id": "roadhog-rip",
@@ -672,7 +672,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/roadhog-rip.jpg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "R.I.P.",
           "id": "soldier-76-rip",
@@ -680,7 +680,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/soldier-76-rip.jpg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "R.I.P.",
           "id": "symmetra-rip",
@@ -688,7 +688,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/symmetra-rip.jpg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "R.I.P.",
           "id": "torbjorn-rip",
@@ -696,7 +696,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/torbjorn-rip.jpg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "R.I.P.",
           "id": "tracer-rip",
@@ -704,7 +704,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/tracer-rip.jpg"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "R.I.P.",
           "id": "widowmaker-rip",
@@ -712,7 +712,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/widowmaker-rip.jpg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "R.I.P.",
           "id": "winston-rip",
@@ -720,7 +720,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/winston-rip.jpg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "R.I.P.",
           "id": "zarya-rip",
@@ -728,7 +728,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/poses/zarya-rip.jpg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "R.I.P.",
           "id": "zenyatta-rip",
@@ -738,7 +738,7 @@
       ],
       "intros": [
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Pumpkin Carving",
           "id": "genji-pumpkin-carving",
@@ -746,7 +746,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/intros/genji-pumpkin-carving.webm"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Ice Scream",
           "id": "mei-ice-scream",
@@ -754,7 +754,7 @@
           "url": "./resources/updates/HALLOWEEN_2016/intros/mei-ice-scream.webm"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Eternal Rest",
           "id": "reaper-eternal-rest",
@@ -764,7 +764,7 @@
       ],
       "skinsLegendary": [
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Dr. Junkenstein",
           "id": "junkrat-dr-junkenstein",
@@ -773,7 +773,7 @@
           "description": "As the tale goes, Dr. Junkenstein made a deal with the Witch of the Wilds in exchange for the secret to creating life. But his triumph was short lived as he was slain by four wanderers in Adlersbrunn."
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Witch",
           "id": "mercy-witch",
@@ -782,7 +782,7 @@
           "description": "The Witch of the Wilds is a mysterious figure who appears in the tale of Dr. Junkenstein and others, offering people the object of their desire, for a price."
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Pumpkin",
           "id": "reaper-pumpkin",
@@ -791,7 +791,7 @@
           "description": "In the tale of Dr. Junkenstein, the Reaper was a servant to the Witch of the Wilds, bound to serve her for some unknown reason."
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Junkenstein's Monster",
           "id": "roadhog-junkensteins-monster",
@@ -856,28 +856,28 @@
           "url": "./resources/heroes/all/icons/superstition.png"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "The Doctor",
           "id": "junkrat-the-doctor",
           "url": "./resources/heroes/junkrat/icons/junkrat-the-doctor.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "The Monster",
           "id": "roadhog-the-monster",
           "url": "./resources/heroes/roadhog/icons/roadhog-the-monster.png"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "The Reaper",
           "id": "reaper-the-reaper",
           "url": "./resources/heroes/reaper/icons/reaper-the-reaper.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "The Witch",
           "id": "mercy-the-witch",
@@ -926,7 +926,7 @@
     "items": {
       "sprays": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Ornament",
           "id": "ana-ornament",
@@ -936,7 +936,7 @@
           "ornamentURL": "./resources/heroes/ana/sprays/ana-ornament.png"
         },
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Warm",
           "id": "ana-warm",
@@ -946,7 +946,7 @@
           "ornamentURL": "./resources/heroes/ana/sprays/ana-ornament.png"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "FESTIVE",
           "id": "bastion-festive",
@@ -956,7 +956,7 @@
           "ornamentURL": "./resources/heroes/bastion/sprays/bastion-ornament.png"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "ORNAMENT",
           "id": "bastion-ornament",
@@ -986,7 +986,7 @@
           "ornamentURL": "./resources/heroes/dva/sprays/dva-ornament.png"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Kadomatsu",
           "id": "genji-kadomatsu",
@@ -996,7 +996,7 @@
           "ornamentURL": "./resources/heroes/genji/sprays/genji-ornament.png"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Ornament",
           "id": "genji-ornament",
@@ -1006,7 +1006,7 @@
           "ornamentURL": "./resources/heroes/genji/sprays/genji-ornament.png"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Kadomatsu",
           "id": "hanzo-kadomatsu",
@@ -1016,7 +1016,7 @@
           "ornamentURL": "./resources/heroes/hanzo/sprays/hanzo-ornament.png"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Ornament",
           "id": "hanzo-ornament",
@@ -1026,7 +1026,7 @@
           "ornamentURL": "./resources/heroes/hanzo/sprays/hanzo-ornament.png"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "\"WINTER\"",
           "id": "junkrat-winter",
@@ -1036,7 +1036,7 @@
           "ornamentURL": "./resources/heroes/junkrat/sprays/junkrat-ornament.png"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Ornament",
           "id": "junkrat-ornament",
@@ -1046,7 +1046,7 @@
           "ornamentURL": "./resources/heroes/junkrat/sprays/junkrat-ornament.png"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Hockey",
           "id": "lucio-hockey",
@@ -1056,7 +1056,7 @@
           "ornamentURL": "./resources/heroes/lucio/sprays/lucio-ornament.png"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Ornament",
           "id": "lucio-ornament",
@@ -1066,7 +1066,7 @@
           "ornamentURL": "./resources/heroes/lucio/sprays/lucio-ornament.png"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Ornament",
           "id": "mccree-ornament",
@@ -1076,7 +1076,7 @@
           "ornamentURL": "./resources/heroes/mccree/sprays/mccree-ornament.png"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Ugly Sweater",
           "id": "mccree-ugly-sweater",
@@ -1086,7 +1086,7 @@
           "ornamentURL": "./resources/heroes/mccree/sprays/mccree-ornament.png"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Ornament",
           "id": "mei-ornament",
@@ -1096,7 +1096,7 @@
           "ornamentURL": "./resources/heroes/mei/sprays/mei-ornament.png"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Sculpting",
           "id": "mei-sculpting",
@@ -1106,7 +1106,7 @@
           "ornamentURL": "./resources/heroes/mei/sprays/mei-ornament.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Ornament",
           "id": "mercy-ornament",
@@ -1116,7 +1116,7 @@
           "ornamentURL": "./resources/heroes/mercy/sprays/mercy-ornament.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Snow Angel",
           "id": "mercy-snow-angel",
@@ -1126,7 +1126,7 @@
           "ornamentURL": "./resources/heroes/mercy/sprays/mercy-ornament.png"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Ice Fishing",
           "id": "pharah-ice-fishing",
@@ -1136,7 +1136,7 @@
           "ornamentURL": "./resources/heroes/pharah/sprays/pharah-ornament.png"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Ornament",
           "id": "pharah-ornament",
@@ -1146,7 +1146,7 @@
           "ornamentURL": "./resources/heroes/pharah/sprays/pharah-ornament.png"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Ornament",
           "id": "reaper-ornament",
@@ -1156,7 +1156,7 @@
           "ornamentURL": "./resources/heroes/reaper/sprays/reaper-ornament.png"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Stocking",
           "id": "reaper-stocking",
@@ -1166,7 +1166,7 @@
           "ornamentURL": "./resources/heroes/reaper/sprays/reaper-ornament.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Ice Fishing",
           "id": "reinhardt-ice-fishing",
@@ -1176,7 +1176,7 @@
           "ornamentURL": "./resources/heroes/reinhardt/sprays/reinhardt-ornament.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Ornament",
           "id": "reinhardt-ornament",
@@ -1186,7 +1186,7 @@
           "ornamentURL": "./resources/heroes/reinhardt/sprays/reinhardt-ornament.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "\"Winter\"",
           "id": "roadhog-winter",
@@ -1196,7 +1196,7 @@
           "ornamentURL": "./resources/heroes/roadhog/sprays/roadhog-ornament.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Ornament",
           "id": "roadhog-ornament",
@@ -1206,7 +1206,7 @@
           "ornamentURL": "./resources/heroes/roadhog/sprays/roadhog-ornament.png"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Army Man: 76",
           "id": "soldier-76-army-man-76",
@@ -1216,7 +1216,7 @@
           "ornamentURL": "./resources/heroes/soldier-76/sprays/soldier-76-ornament.png"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Ornament",
           "id": "soldier-76-ornament",
@@ -1226,7 +1226,7 @@
           "ornamentURL": "./resources/heroes/soldier-76/sprays/soldier-76-ornament.png"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Ornament",
           "id": "sombra-ornament",
@@ -1236,7 +1236,7 @@
           "ornamentURL": "./resources/heroes/sombra/sprays/sombra-ornament.png"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Puppet",
           "id": "sombra-puppet",
@@ -1246,7 +1246,7 @@
           "ornamentURL": "./resources/heroes/sombra/sprays/sombra-ornament.png"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Ornament",
           "id": "symmetra-ornament",
@@ -1256,7 +1256,7 @@
           "ornamentURL": "./resources/heroes/symmetra/sprays/symmetra-ornament.png"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Snowflake",
           "id": "symmetra-snowflake",
@@ -1266,7 +1266,7 @@
           "ornamentURL": "./resources/heroes/symmetra/sprays/symmetra-ornament.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Ornament",
           "id": "torbjorn-ornament",
@@ -1276,7 +1276,7 @@
           "ornamentURL": "./resources/heroes/torbjorn/sprays/torbjorn-ornament.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Workshop",
           "id": "torbjorn-workshop",
@@ -1286,7 +1286,7 @@
           "ornamentURL": "./resources/heroes/torbjorn/sprays/torbjorn-ornament.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Ornament",
           "id": "tracer-ornament",
@@ -1296,7 +1296,7 @@
           "ornamentURL": "./resources/heroes/tracer/sprays/tracer-ornament.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Snowboarding",
           "id": "tracer-snowboarding",
@@ -1306,7 +1306,7 @@
           "ornamentURL": "./resources/heroes/tracer/sprays/tracer-ornament.png"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Ornament",
           "id": "widowmaker-ornament",
@@ -1316,7 +1316,7 @@
           "ornamentURL": "./resources/heroes/widowmaker/sprays/widowmaker-ornament.png"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Skiing",
           "id": "widowmaker-skiing",
@@ -1326,7 +1326,7 @@
           "ornamentURL": "./resources/heroes/widowmaker/sprays/widowmaker-ornament.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Ornament",
           "id": "winston-ornament",
@@ -1336,7 +1336,7 @@
           "ornamentURL": "./resources/heroes/winston/sprays/winston-ornament.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Presents",
           "id": "winston-presents",
@@ -1346,7 +1346,7 @@
           "ornamentURL": "./resources/heroes/winston/sprays/winston-ornament.png"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Matryoshka",
           "id": "zarya-matryoshka",
@@ -1356,7 +1356,7 @@
           "ornamentURL": "./resources/heroes/zarya/sprays/zarya-ornament.png"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Ornament",
           "id": "zarya-ornament",
@@ -1366,7 +1366,7 @@
           "ornamentURL": "./resources/heroes/zarya/sprays/zarya-ornament.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Ornament",
           "id": "zenyatta-ornament",
@@ -1376,7 +1376,7 @@
           "ornamentURL": "./resources/heroes/zenyatta/sprays/zenyatta-ornament.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Snowball Fight",
           "id": "zenyatta-snowball-fight",
@@ -1427,7 +1427,7 @@
       ],
       "voicelines": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "I'm watching out for you",
           "id": "ana-im-watching-out-for-you",
@@ -1435,7 +1435,7 @@
           "url": "./resources/heroes/ana/voicelines/ana-im-watching-out-for-you.ogg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "DWEE DOO HOO",
           "id": "bastion-dwee-doo-hoo",
@@ -1451,7 +1451,7 @@
           "url": "./resources/heroes/dva/voicelines/dva-aw-you-shouldnt-have.ogg"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Merry Christmas!",
           "id": "genji-merry-christmas",
@@ -1459,7 +1459,7 @@
           "url": "./resources/heroes/genji/voicelines/genji-merry-christmas.ogg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "A gift for you",
           "id": "hanzo-a-gift-for-you",
@@ -1467,7 +1467,7 @@
           "url": "./resources/heroes/hanzo/voicelines/hanzo-a-gift-for-you.ogg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Merry Christmas",
           "id": "junkrat-merry-christmas",
@@ -1475,7 +1475,7 @@
           "url": "./resources/heroes/junkrat/voicelines/junkrat-merry-christmas.ogg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Happy holidays!",
           "id": "lucio-happy-holidays",
@@ -1483,7 +1483,7 @@
           "url": "./resources/heroes/lucio/voicelines/lucio-happy-holidays.ogg"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Had to break the ice",
           "id": "mccree-had-to-break-the-ice",
@@ -1491,7 +1491,7 @@
           "url": "./resources/heroes/mccree/voicelines/mccree-had-to-break-the-ice.ogg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "I got you something!",
           "id": "mei-i-got-you-something",
@@ -1499,7 +1499,7 @@
           "url": "./resources/heroes/mei/voicelines/mei-i-got-you-something.ogg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Your guardian angel",
           "id": "mercy-your-guardian-angel",
@@ -1507,7 +1507,7 @@
           "url": "./resources/heroes/mercy/voicelines/mercy-your-guardian-angel.ogg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "The forecast",
           "id": "pharah-the-forecast",
@@ -1515,7 +1515,7 @@
           "url": "./resources/heroes/pharah/voicelines/pharah-the-forecast.ogg"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Holiday spirit",
           "id": "reaper-holiday-spirit",
@@ -1523,7 +1523,7 @@
           "url": "./resources/heroes/reaper/voicelines/reaper-holiday-spirit.ogg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "You're on my naughty list",
           "id": "reinhardt-youre-on-my-naughty-list",
@@ -1531,7 +1531,7 @@
           "url": "./resources/heroes/reinhardt/voicelines/reinhardt-youre-on-my-naughty-list.ogg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Ho ho ho",
           "id": "roadhog-ho-ho-ho",
@@ -1539,7 +1539,7 @@
           "url": "./resources/heroes/roadhog/voicelines/roadhog-ho-ho-ho.ogg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Stay frosty",
           "id": "soldier-76-stay-frosty",
@@ -1547,7 +1547,7 @@
           "url": "./resources/heroes/soldier-76/voicelines/soldier-76-stay-frosty.ogg"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "I know who's been naughty",
           "id": "sombra-i-know-whos-been-naughty",
@@ -1555,7 +1555,7 @@
           "url": "./resources/heroes/sombra/voicelines/sombra-i-know-whos-been-naughty.ogg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "I made you something",
           "id": "symmetra-i-made-you-something",
@@ -1563,7 +1563,7 @@
           "url": "./resources/heroes/symmetra/voicelines/symmetra-i-made-you-something.ogg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Made to order",
           "id": "torbjorn-made-to-order",
@@ -1571,7 +1571,7 @@
           "url": "./resources/heroes/torbjorn/voicelines/torbjorn-made-to-order.ogg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "It's in the bag",
           "id": "tracer-its-in-the-bag",
@@ -1579,7 +1579,7 @@
           "url": "./resources/heroes/tracer/voicelines/tracer-its-in-the-bag.ogg"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Exquisite",
           "id": "widowmaker-exquisite",
@@ -1587,7 +1587,7 @@
           "url": "./resources/heroes/widowmaker/voicelines/widowmaker-exquisite.ogg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "I... got you something",
           "id": "winston-i-got-you-something",
@@ -1595,7 +1595,7 @@
           "url": "./resources/heroes/winston/voicelines/winston-i-got-you-something.ogg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "For the Motherland",
           "id": "zarya-for-the-motherland",
@@ -1603,7 +1603,7 @@
           "url": "./resources/heroes/zarya/voicelines/zarya-for-the-motherland.ogg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "No snowflake",
           "id": "zenyatta-no-snowflake",
@@ -1613,7 +1613,7 @@
       ],
       "poses": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Toast",
           "id": "ana-toast",
@@ -1629,7 +1629,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/dva-festive.jpg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Mistletoe",
           "id": "mercy-mistletoe",
@@ -1637,7 +1637,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/mercy-mistletoe.jpg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Toast",
           "id": "pharah-toast",
@@ -1645,7 +1645,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/pharah-toast.jpg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Toast",
           "id": "reinhardt-toast",
@@ -1653,7 +1653,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/reinhardt-toast.jpg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Toast",
           "id": "soldier-76-toast",
@@ -1661,7 +1661,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/soldier-76-toast.jpg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Toast",
           "id": "torbjorn-toast",
@@ -1671,7 +1671,7 @@
       ],
       "skinsEpic": [
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Andes",
           "id": "lucio-andes",
@@ -1680,7 +1680,7 @@
           "description": "When the weather gets cold, Lúcio heads to the Andes to hit the slopes."
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Scrooge",
           "id": "mccree-scrooge",
@@ -1688,7 +1688,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/mccree-scrooge.jpg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Frostbite",
           "id": "pharah-frostbite",
@@ -1696,7 +1696,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/pharah-frostbite.jpg"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Shiver",
           "id": "reaper-shiver",
@@ -1704,7 +1704,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/reaper-shiver.jpg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Rudolph",
           "id": "roadhog-rudolph",
@@ -1712,7 +1712,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/roadhog-rudolph.jpg"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Peppermint",
           "id": "sombra-peppermint",
@@ -1720,7 +1720,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/sombra-peppermint.jpg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Frosted",
           "id": "zarya-frosted",
@@ -1730,7 +1730,7 @@
       ],
       "emotes": [
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Hat Trick",
           "id": "mccree-hat-trick",
@@ -1738,7 +1738,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/emotes/mccree-hat-trick.webm"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Snowman",
           "id": "mei-snowman",
@@ -1746,7 +1746,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/emotes/mei-snowman.webm"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "legendary": true,
           "name": "Mystery Gift",
@@ -1757,7 +1757,7 @@
       ],
       "skinsLegendary": [
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Mei-rry",
           "id": "mei-meirry",
@@ -1765,7 +1765,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/skinsLegendary/mei-meirry.jpg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Santaclad",
           "id": "torbjorn-santaclad",
@@ -1773,7 +1773,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/skinsLegendary/torbjorn-santaclad.jpg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Jingle",
           "id": "tracer-jingle",
@@ -1781,7 +1781,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/skinsLegendary/tracer-jingle.jpg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Yeti",
           "id": "winston-yeti",
@@ -1789,7 +1789,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/skinsLegendary/winston-yeti.jpg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Nutcracker",
           "id": "zenyatta-nutcracker",
@@ -1799,7 +1799,7 @@
       ],
       "intros": [
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Snowflakes",
           "id": "symmetra-snowflakes",
@@ -1807,7 +1807,7 @@
           "url": "./resources/updates/WINTER_WONDERLAND_2016/intros/symmetra-snowflakes.webm"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Under the Mistletoe",
           "id": "widowmaker-under-the-mistletoe",
@@ -1877,7 +1877,7 @@
           "url": "./resources/heroes/all/icons/hot-cocoa.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Jingle",
           "id": "tracer-jingle",
@@ -1890,7 +1890,7 @@
           "url": "./resources/heroes/all/icons/mochi.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Nutcracker",
           "id": "zenyatta-nutcracker",
@@ -1927,7 +1927,7 @@
           "url": "./resources/heroes/all/icons/present.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Santaclad",
           "id": "torbjorn-santaclad",
@@ -1970,7 +1970,7 @@
           "url": "./resources/heroes/all/icons/wreath.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Yeti",
           "id": "winston-yeti",
@@ -1989,7 +1989,7 @@
     "items": {
       "skinsEpic": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Tal",
           "id": "ana-tal",
@@ -1997,7 +1997,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/ana-tal.jpg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Rooster",
           "id": "bastion-rooster",
@@ -2005,7 +2005,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/bastion-rooster.jpg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Firework",
           "id": "junkrat-firework",
@@ -2013,7 +2013,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/junkrat-firework.jpg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Fortune",
           "id": "mercy-fortune",
@@ -2021,7 +2021,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/mercy-fortune.jpg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Qipao",
           "id": "symmetra-qipao",
@@ -2029,7 +2029,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/symmetra-qipao.jpg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Rose",
           "id": "tracer-rose",
@@ -2039,7 +2039,7 @@
       ],
       "sprays": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Dance",
           "id": "ana-dance",
@@ -2049,7 +2049,7 @@
           "dragonURL": "./resources/heroes/ana/sprays/ana-dragon-dance.png"
         },
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Dragon Dance",
           "id": "ana-dragon-dance",
@@ -2059,7 +2059,7 @@
           "dragonURL": "./resources/heroes/ana/sprays/ana-dragon-dance.png"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Bast-yum",
           "id": "bastion-bastyum",
@@ -2069,7 +2069,7 @@
           "dragonURL": "./resources/heroes/bastion/sprays/bastion-dragon-dance.png"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Dragon Dance",
           "id": "bastion-dragon-dance",
@@ -2099,7 +2099,7 @@
           "dragonURL": "./resources/heroes/dva/sprays/dva-dragon-dance.png"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Dragon Dance",
           "id": "genji-dragon-dance",
@@ -2109,7 +2109,7 @@
           "dragonURL": "./resources/heroes/genji/sprays/genji-dragon-dance.png"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Green Dragon",
           "id": "genji-green-dragon",
@@ -2119,7 +2119,7 @@
           "dragonURL": "./resources/heroes/genji/sprays/genji-dragon-dance.png"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Blue Dragon",
           "id": "hanzo-blue-dragon",
@@ -2129,7 +2129,7 @@
           "dragonURL": "./resources/heroes/hanzo/sprays/hanzo-dragon-dance.png"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Dragon Dance",
           "id": "hanzo-dragon-dance",
@@ -2139,7 +2139,7 @@
           "dragonURL": "./resources/heroes/hanzo/sprays/hanzo-dragon-dance.png"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Dragon Dance",
           "id": "junkrat-dragon-dance",
@@ -2149,7 +2149,7 @@
           "dragonURL": "./resources/heroes/junkrat/sprays/junkrat-dragon-dance.png"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "I'm flying!",
           "id": "junkrat-im-flying",
@@ -2159,7 +2159,7 @@
           "dragonURL": "./resources/heroes/junkrat/sprays/junkrat-dragon-dance.png"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Dragon Dance",
           "id": "lucio-dragon-dance",
@@ -2169,7 +2169,7 @@
           "dragonURL": "./resources/heroes/lucio/sprays/lucio-dragon-dance.png"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Keep Ups",
           "id": "lucio-keep-ups",
@@ -2179,7 +2179,7 @@
           "dragonURL": "./resources/heroes/lucio/sprays/lucio-dragon-dance.png"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Call It",
           "id": "mccree-call-it",
@@ -2189,7 +2189,7 @@
           "dragonURL": "./resources/heroes/mccree/sprays/mccree-dragon-dance.png"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Dragon Dance",
           "id": "mccree-dragon-dance",
@@ -2199,7 +2199,7 @@
           "dragonURL": "./resources/heroes/mccree/sprays/mccree-dragon-dance.png"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Dragon Dance",
           "id": "mei-dragon-dance",
@@ -2209,7 +2209,7 @@
           "dragonURL": "./resources/heroes/mei/sprays/mei-dragon-dance.png"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Fortune",
           "id": "mei-fortune",
@@ -2219,7 +2219,7 @@
           "dragonURL": "./resources/heroes/mei/sprays/mei-dragon-dance.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Dragon Dance",
           "id": "mercy-dragon-dance",
@@ -2229,7 +2229,7 @@
           "dragonURL": "./resources/heroes/mercy/sprays/mercy-dragon-dance.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Parasol",
           "id": "mercy-parasol",
@@ -2239,7 +2239,7 @@
           "dragonURL": "./resources/heroes/mercy/sprays/mercy-dragon-dance.png"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Dragon Dance",
           "id": "pharah-dragon-dance",
@@ -2249,7 +2249,7 @@
           "dragonURL": "./resources/heroes/pharah/sprays/pharah-dragon-dance.png"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Happy New Year",
           "id": "pharah-happy-new-year",
@@ -2259,7 +2259,7 @@
           "dragonURL": "./resources/heroes/pharah/sprays/pharah-dragon-dance.png"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Dragon Dance",
           "id": "reaper-dragon-dance",
@@ -2269,7 +2269,7 @@
           "dragonURL": "./resources/heroes/reaper/sprays/reaper-dragon-dance.png"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Fire Blossom",
           "id": "reaper-fire-blossom",
@@ -2279,7 +2279,7 @@
           "dragonURL": "./resources/heroes/reaper/sprays/reaper-dragon-dance.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Dragon Dance",
           "id": "reinhardt-dragon-dance",
@@ -2289,7 +2289,7 @@
           "dragonURL": "./resources/heroes/reinhardt/sprays/reinhardt-dragon-dance.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Lion Dance",
           "id": "reinhardt-lion-dance",
@@ -2299,7 +2299,7 @@
           "dragonURL": "./resources/heroes/reinhardt/sprays/reinhardt-dragon-dance.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Dragon Dance",
           "id": "roadhog-dragon-dance",
@@ -2309,7 +2309,7 @@
           "dragonURL": "./resources/heroes/roadhog/sprays/roadhog-dragon-dance.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Steamed Buns",
           "id": "roadhog-steamed-buns",
@@ -2319,7 +2319,7 @@
           "dragonURL": "./resources/heroes/roadhog/sprays/roadhog-dragon-dance.png"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Dragon Dance",
           "id": "soldier-76-dragon-dance",
@@ -2329,7 +2329,7 @@
           "dragonURL": "./resources/heroes/soldier-76/sprays/soldier-76-dragon-dance.png"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Folded Hands",
           "id": "soldier-76-folded-hands",
@@ -2339,7 +2339,7 @@
           "dragonURL": "./resources/heroes/soldier-76/sprays/soldier-76-dragon-dance.png"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Dragon Dance",
           "id": "sombra-dragon-dance",
@@ -2349,7 +2349,7 @@
           "dragonURL": "./resources/heroes/sombra/sprays/sombra-dragon-dance.png"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Fortunate",
           "id": "sombra-fortunate",
@@ -2359,7 +2359,7 @@
           "dragonURL": "./resources/heroes/sombra/sprays/sombra-dragon-dance.png"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Dragon Dance",
           "id": "symmetra-dragon-dance",
@@ -2369,7 +2369,7 @@
           "dragonURL": "./resources/heroes/symmetra/sprays/symmetra-dragon-dance.png"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Lantern",
           "id": "symmetra-lantern",
@@ -2379,7 +2379,7 @@
           "dragonURL": "./resources/heroes/symmetra/sprays/symmetra-dragon-dance.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Dragon Dance",
           "id": "torbjorn-dragon-dance",
@@ -2389,7 +2389,7 @@
           "dragonURL": "./resources/heroes/torbjorn/sprays/torbjorn-dragon-dance.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Gold",
           "id": "torbjorn-gold",
@@ -2399,7 +2399,7 @@
           "dragonURL": "./resources/heroes/torbjorn/sprays/torbjorn-dragon-dance.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Dragon Dance",
           "id": "tracer-dragon-dance",
@@ -2409,7 +2409,7 @@
           "dragonURL": "./resources/heroes/tracer/sprays/tracer-dragon-dance.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Fan Dance",
           "id": "tracer-fan-dance",
@@ -2419,7 +2419,7 @@
           "dragonURL": "./resources/heroes/tracer/sprays/tracer-dragon-dance.png"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Dragon Dance",
           "id": "widowmaker-dragon-dance",
@@ -2429,7 +2429,7 @@
           "dragonURL": "./resources/heroes/widowmaker/sprays/widowmaker-dragon-dance.png"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Hairpin",
           "id": "widowmaker-hairpin",
@@ -2439,7 +2439,7 @@
           "dragonURL": "./resources/heroes/widowmaker/sprays/widowmaker-dragon-dance.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Dragon Dance",
           "id": "winston-dragon-dance",
@@ -2449,7 +2449,7 @@
           "dragonURL": "./resources/heroes/winston/sprays/winston-dragon-dance.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Kite",
           "id": "winston-kite",
@@ -2459,7 +2459,7 @@
           "dragonURL": "./resources/heroes/winston/sprays/winston-dragon-dance.png"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Calories",
           "id": "zarya-calories",
@@ -2469,7 +2469,7 @@
           "dragonURL": "./resources/heroes/zarya/sprays/zarya-dragon-dance.png"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Dragon Dance",
           "id": "zarya-dragon-dance",
@@ -2479,7 +2479,7 @@
           "dragonURL": "./resources/heroes/zarya/sprays/zarya-dragon-dance.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Dragon Dance",
           "id": "zenyatta-dragon-dance",
@@ -2489,7 +2489,7 @@
           "dragonURL": "./resources/heroes/zenyatta/sprays/zenyatta-dragon-dance.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Yut Nori",
           "id": "zenyatta-yut-nori",
@@ -2545,7 +2545,7 @@
       ],
       "voicelines": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "The moon in winter",
           "id": "ana-the-moon-in-winter",
@@ -2553,7 +2553,7 @@
           "url": "./resources/heroes/ana/voicelines/ana-the-moon-in-winter.ogg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Woop doo woo dun woop",
           "id": "bastion-woop-doo-woo-dun-woop",
@@ -2569,7 +2569,7 @@
           "url": "./resources/heroes/dva/voicelines/dva-the-best-things-in-life.ogg"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "To know yourself",
           "id": "genji-to-know-yourself",
@@ -2577,7 +2577,7 @@
           "url": "./resources/heroes/genji/voicelines/genji-to-know-yourself.ogg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "When the moon is full",
           "id": "hanzo-when-the-moon-is-full",
@@ -2585,7 +2585,7 @@
           "url": "./resources/heroes/hanzo/voicelines/hanzo-when-the-moon-is-full.ogg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Gong Xi Fa Cai",
           "id": "junkrat-gong-xi-fa-cai",
@@ -2593,7 +2593,7 @@
           "url": "./resources/heroes/junkrat/voicelines/junkrat-gong-xi-fa-cai.ogg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "I make this look good...",
           "id": "lucio-i-make-this-look-good",
@@ -2601,7 +2601,7 @@
           "url": "./resources/heroes/lucio/voicelines/lucio-i-make-this-look-good.ogg"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Calls for a celebration",
           "id": "mccree-calls-for-a-celebration",
@@ -2609,7 +2609,7 @@
           "url": "./resources/heroes/mccree/voicelines/mccree-calls-for-a-celebration.ogg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Wishing you prosperity",
           "id": "mei-wishing-you-prosperity",
@@ -2617,7 +2617,7 @@
           "url": "./resources/heroes/mei/voicelines/mei-wishing-you-prosperity.ogg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "A most impressive display",
           "id": "mercy-a-most-impressive-display",
@@ -2625,7 +2625,7 @@
           "url": "./resources/heroes/mercy/voicelines/mercy-a-most-impressive-display.ogg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "I keep the peace",
           "id": "pharah-i-keep-the-peace",
@@ -2633,7 +2633,7 @@
           "url": "./resources/heroes/pharah/voicelines/pharah-i-keep-the-peace.ogg"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Now those are fireworks",
           "id": "reaper-now-those-are-fireworks",
@@ -2641,7 +2641,7 @@
           "url": "./resources/heroes/reaper/voicelines/reaper-now-those-are-fireworks.ogg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Are you chicken?",
           "id": "reinhardt-are-you-chicken",
@@ -2649,7 +2649,7 @@
           "url": "./resources/heroes/reinhardt/voicelines/reinhardt-are-you-chicken.ogg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "You chicken?",
           "id": "roadhog-you-chicken",
@@ -2657,7 +2657,7 @@
           "url": "./resources/heroes/roadhog/voicelines/roadhog-you-chicken.ogg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "The rooster crows",
           "id": "soldier-76-the-rooster-crows",
@@ -2665,7 +2665,7 @@
           "url": "./resources/heroes/soldier-76/voicelines/soldier-76-the-rooster-crows.ogg"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "You're easily impressed",
           "id": "sombra-youre-easily-impressed",
@@ -2673,7 +2673,7 @@
           "url": "./resources/heroes/sombra/voicelines/sombra-youre-easily-impressed.ogg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Good fortune",
           "id": "symmetra-good-fortune",
@@ -2681,7 +2681,7 @@
           "url": "./resources/heroes/symmetra/voicelines/symmetra-good-fortune.ogg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Too hot for you?",
           "id": "torbjorn-too-hot-for-you",
@@ -2689,7 +2689,7 @@
           "url": "./resources/heroes/torbjorn/voicelines/torbjorn-too-hot-for-you.ogg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Ready for some fireworks?",
           "id": "tracer-ready-for-some-fireworks",
@@ -2697,7 +2697,7 @@
           "url": "./resources/heroes/tracer/voicelines/tracer-ready-for-some-fireworks.ogg"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "You have my attention",
           "id": "widowmaker-you-have-my-attention",
@@ -2705,7 +2705,7 @@
           "url": "./resources/heroes/widowmaker/voicelines/widowmaker-you-have-my-attention.ogg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "That was awesome!",
           "id": "winston-that-was-awesome",
@@ -2713,7 +2713,7 @@
           "url": "./resources/heroes/winston/voicelines/winston-that-was-awesome.ogg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Get pumped",
           "id": "zarya-get-pumped",
@@ -2721,7 +2721,7 @@
           "url": "./resources/heroes/zarya/voicelines/zarya-get-pumped.ogg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Every rooster crows",
           "id": "zenyatta-every-rooster-crows",
@@ -2731,7 +2731,7 @@
       ],
       "poses": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Folded hands",
           "id": "ana-folded-hands",
@@ -2739,7 +2739,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/ana-folded-hands.jpg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Firework",
           "id": "bastion-firework",
@@ -2755,7 +2755,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/dva-lucky-pouch.jpg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Bad for Your Health",
           "id": "junkrat-bad-for-your-health",
@@ -2763,7 +2763,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/junkrat-bad-for-your-health.jpg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Lucky!",
           "id": "mei-lucky",
@@ -2771,7 +2771,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/mei-lucky.jpg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "What's mine is mine",
           "id": "roadhog-whats-mine-is-mine",
@@ -2779,7 +2779,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/roadhog-whats-mine-is-mine.jpg"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Sparklers",
           "id": "sombra-sparklers",
@@ -2797,7 +2797,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/dva-palanquin.jpg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Chang'e",
           "id": "mei-change",
@@ -2805,7 +2805,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/mei-change.jpg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Luna",
           "id": "mei-luna",
@@ -2813,7 +2813,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/mei-luna.jpg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Wujing",
           "id": "reinhardt-wujing",
@@ -2821,7 +2821,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/reinhardt-wujing.jpg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Bajie",
           "id": "roadhog-bajie",
@@ -2829,7 +2829,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/roadhog-bajie.jpg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Wukong",
           "id": "winston-wukong",
@@ -2837,7 +2837,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/winston-wukong.jpg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Sanzang",
           "id": "zenyatta-sanzang",
@@ -2855,7 +2855,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/emotes/dva-bow.webm"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Dud?",
           "id": "junkrat-dud",
@@ -2863,7 +2863,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/emotes/junkrat-dud.webm"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "So Excited",
           "id": "mei-so-excited",
@@ -2879,7 +2879,7 @@
           "url": "./resources/heroes/all/icons/bokimari.png"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Chang'e",
           "id": "mei-change",
@@ -2947,7 +2947,7 @@
           "url": "./resources/heroes/all/icons/lucky-pouch.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Monkey",
           "id": "winston-monkey",
@@ -2972,7 +2972,7 @@
           "url": "./resources/heroes/all/icons/peachimari.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Pigsy",
           "id": "roadhog-pigsy",
@@ -2985,14 +2985,14 @@
           "url": "./resources/heroes/all/icons/red-envelope.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Sandy",
           "id": "reinhardt-sandy",
           "url": "./resources/heroes/reinhardt/icons/reinhardt-sandy.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Sanzang",
           "id": "zenyatta-sanzang",
@@ -3019,7 +3019,7 @@
       ],
       "intros": [
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Fortune",
           "id": "mercy-fortune",
@@ -3027,7 +3027,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/intros/mercy-fortune.webm"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Feast",
           "id": "roadhog-feast",
@@ -3035,7 +3035,7 @@
           "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/intros/roadhog-feast.webm"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Lion Dance",
           "id": "tracer-lion-dance",
@@ -3055,7 +3055,7 @@
     "items": {
       "sprays": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Newborn",
           "id": "ana-newborn",
@@ -3063,7 +3063,7 @@
           "url": "./resources/heroes/ana/sprays/ana-newborn.png"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Sunken",
           "id": "bastion-sunken",
@@ -3079,7 +3079,7 @@
           "url": "./resources/heroes/dva/sprays/dva-handheld.png"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Ramen",
           "id": "genji-ramen",
@@ -3087,7 +3087,7 @@
           "url": "./resources/heroes/genji/sprays/genji-ramen.png"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Ramen",
           "id": "hanzo-ramen",
@@ -3095,7 +3095,7 @@
           "url": "./resources/heroes/hanzo/sprays/hanzo-ramen.png"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Sidecar",
           "id": "junkrat-sidecar",
@@ -3103,7 +3103,7 @@
           "url": "./resources/heroes/junkrat/sprays/junkrat-sidecar.png"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Skates",
           "id": "lucio-skates",
@@ -3111,7 +3111,7 @@
           "url": "./resources/heroes/lucio/sprays/lucio-skates.png"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Target Practice",
           "id": "mccree-target-practice",
@@ -3119,7 +3119,7 @@
           "url": "./resources/heroes/mccree/sprays/mccree-target-practice.png"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Pajamas",
           "id": "mei-pajamas",
@@ -3127,7 +3127,7 @@
           "url": "./resources/heroes/mei/sprays/mei-pajamas.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Combat Medic",
           "id": "mercy-combat-medic",
@@ -3135,7 +3135,7 @@
           "url": "./resources/heroes/mercy/sprays/mercy-combat-medic.png"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Flower",
           "id": "orisa-flower",
@@ -3143,7 +3143,7 @@
           "url": "./resources/heroes/orisa/sprays/orisa-flower.png"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Target Practice",
           "id": "pharah-target-practice",
@@ -3151,7 +3151,7 @@
           "url": "./resources/heroes/pharah/sprays/pharah-target-practice.png"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Commando",
           "id": "reaper-commando",
@@ -3159,7 +3159,7 @@
           "url": "./resources/heroes/reaper/sprays/reaper-commando.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Poster",
           "id": "reinhardt-poster",
@@ -3167,7 +3167,7 @@
           "url": "./resources/heroes/reinhardt/sprays/reinhardt-poster.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Chopper",
           "id": "roadhog-chopper",
@@ -3175,7 +3175,7 @@
           "url": "./resources/heroes/roadhog/sprays/roadhog-chopper.png"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Commando",
           "id": "soldier-76-commando",
@@ -3183,7 +3183,7 @@
           "url": "./resources/heroes/soldier-76/sprays/soldier-76-commando.png"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Espresso",
           "id": "sombra-espresso",
@@ -3191,7 +3191,7 @@
           "url": "./resources/heroes/sombra/sprays/sombra-espresso.png"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Student",
           "id": "symmetra-student",
@@ -3199,7 +3199,7 @@
           "url": "./resources/heroes/symmetra/sprays/symmetra-student.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Brigitte",
           "id": "torbjorn-brigitte",
@@ -3207,7 +3207,7 @@
           "url": "./resources/heroes/torbjorn/sprays/torbjorn-brigitte.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Slipstream",
           "id": "tracer-slipstream",
@@ -3215,7 +3215,7 @@
           "url": "./resources/heroes/tracer/sprays/tracer-slipstream.png"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Wedding",
           "id": "widowmaker-wedding",
@@ -3223,7 +3223,7 @@
           "url": "./resources/heroes/widowmaker/sprays/widowmaker-wedding.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Building",
           "id": "winston-building",
@@ -3231,7 +3231,7 @@
           "url": "./resources/heroes/winston/sprays/winston-building.png"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "We can!",
           "id": "zarya-we-can",
@@ -3239,7 +3239,7 @@
           "url": "./resources/heroes/zarya/sprays/zarya-we-can.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Shell",
           "id": "zenyatta-shell",
@@ -3304,7 +3304,7 @@
       ],
       "voicelines": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Damn",
           "id": "ana-damn",
@@ -3312,7 +3312,7 @@
           "url": "./resources/heroes/ana/voicelines/ana-damn.ogg"
         },
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "The Ghost Watches",
           "id": "ana-the-ghost-watches",
@@ -3320,7 +3320,7 @@
           "url": "./resources/heroes/ana/voicelines/ana-the-ghost-watches.ogg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "DWEE WEE WOH",
           "id": "bastion-dwee-wee-woh",
@@ -3328,7 +3328,7 @@
           "url": "./resources/heroes/bastion/voicelines/bastion-dwee-wee-woh.ogg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "ZWEE-AH WHEEE DOO WOO",
           "id": "bastion-zweeah-wheee-doo-woo",
@@ -3352,7 +3352,7 @@
           "url": "./resources/heroes/dva/voicelines/dva-try-and-keep-up.ogg"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Another!",
           "id": "genji-another",
@@ -3360,7 +3360,7 @@
           "url": "./resources/heroes/genji/voicelines/genji-another.ogg"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Life and death balance",
           "id": "genji-life-and-death-balance",
@@ -3368,7 +3368,7 @@
           "url": "./resources/heroes/genji/voicelines/genji-life-and-death-balance.ogg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Beauty in simplicity",
           "id": "hanzo-beauty-in-simplicity",
@@ -3376,7 +3376,7 @@
           "url": "./resources/heroes/hanzo/voicelines/hanzo-beauty-in-simplicity.ogg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Unacceptable",
           "id": "hanzo-unacceptable",
@@ -3384,7 +3384,7 @@
           "url": "./resources/heroes/hanzo/voicelines/hanzo-unacceptable.ogg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Come the raw prawn",
           "id": "junkrat-come-the-raw-prawn",
@@ -3392,7 +3392,7 @@
           "url": "./resources/heroes/junkrat/voicelines/junkrat-come-the-raw-prawn.ogg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Too right",
           "id": "junkrat-too-right",
@@ -3400,7 +3400,7 @@
           "url": "./resources/heroes/junkrat/voicelines/junkrat-too-right.ogg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Boop",
           "id": "lucio-boop",
@@ -3408,7 +3408,7 @@
           "url": "./resources/heroes/lucio/voicelines/lucio-boop.ogg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Learn to take it easy",
           "id": "lucio-learn-to-take-it-easy",
@@ -3416,7 +3416,7 @@
           "url": "./resources/heroes/lucio/voicelines/lucio-learn-to-take-it-easy.ogg"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "A man's gotta have rules",
           "id": "mccree-a-mans-gotta-have-rules",
@@ -3424,7 +3424,7 @@
           "url": "./resources/heroes/mccree/voicelines/mccree-a-mans-gotta-have-rules.ogg"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "The Old Fashioned Way",
           "id": "mccree-the-old-fashioned-way",
@@ -3432,7 +3432,7 @@
           "url": "./resources/heroes/mccree/voicelines/mccree-the-old-fashioned-way.ogg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Science this",
           "id": "mei-science-this",
@@ -3440,7 +3440,7 @@
           "url": "./resources/heroes/mei/voicelines/mei-science-this.ogg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Scientific explanation",
           "id": "mei-scientific-explanation",
@@ -3448,7 +3448,7 @@
           "url": "./resources/heroes/mei/voicelines/mei-scientific-explanation.ogg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Not sure why I bother",
           "id": "mercy-not-sure-why-i-bother",
@@ -3456,7 +3456,7 @@
           "url": "./resources/heroes/mercy/voicelines/mercy-not-sure-why-i-bother.ogg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Take care of yourself",
           "id": "mercy-take-care-of-yourself",
@@ -3464,7 +3464,7 @@
           "url": "./resources/heroes/mercy/voicelines/mercy-take-care-of-yourself.ogg"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Error: division by 0",
           "id": "orisa-error-division-by-0",
@@ -3472,7 +3472,7 @@
           "url": "./resources/heroes/orisa/voicelines/orisa-error-division-by-0.ogg"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Functionality still in beta",
           "id": "orisa-functionality-still-in-beta",
@@ -3480,7 +3480,7 @@
           "url": "./resources/heroes/orisa/voicelines/orisa-functionality-still-in-beta.ogg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Don't take it personally",
           "id": "pharah-dont-take-it-personally",
@@ -3488,7 +3488,7 @@
           "url": "./resources/heroes/pharah/voicelines/pharah-dont-take-it-personally.ogg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "I am the Rocket Queen",
           "id": "pharah-i-am-the-rocket-queen",
@@ -3496,7 +3496,7 @@
           "url": "./resources/heroes/pharah/voicelines/pharah-i-am-the-rocket-queen.ogg"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Amateur hour",
           "id": "reaper-amateur-hour",
@@ -3504,7 +3504,7 @@
           "url": "./resources/heroes/reaper/voicelines/reaper-amateur-hour.ogg"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Moving on",
           "id": "reaper-moving-on",
@@ -3512,7 +3512,7 @@
           "url": "./resources/heroes/reaper/voicelines/reaper-moving-on.ogg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Easy does it",
           "id": "reinhardt-easy-does-it",
@@ -3520,7 +3520,7 @@
           "url": "./resources/heroes/reinhardt/voicelines/reinhardt-easy-does-it.ogg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Unstoppable",
           "id": "reinhardt-unstoppable",
@@ -3528,7 +3528,7 @@
           "url": "./resources/heroes/reinhardt/voicelines/reinhardt-unstoppable.ogg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Killed for less than that",
           "id": "roadhog-killed-for-less-than-that",
@@ -3536,7 +3536,7 @@
           "url": "./resources/heroes/roadhog/voicelines/roadhog-killed-for-less-than-that.ogg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "She'll be right",
           "id": "roadhog-shell-be-right",
@@ -3544,7 +3544,7 @@
           "url": "./resources/heroes/roadhog/voicelines/roadhog-shell-be-right.ogg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Not getting any younger",
           "id": "soldier-76-not-getting-any-younger",
@@ -3552,7 +3552,7 @@
           "url": "./resources/heroes/soldier-76/voicelines/soldier-76-not-getting-any-younger.ogg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Whatever you say",
           "id": "soldier-76-whatever-you-say",
@@ -3560,7 +3560,7 @@
           "url": "./resources/heroes/soldier-76/voicelines/soldier-76-whatever-you-say.ogg"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Don't be a coward",
           "id": "sombra-dont-be-a-coward",
@@ -3568,7 +3568,7 @@
           "url": "./resources/heroes/sombra/voicelines/sombra-dont-be-a-coward.ogg"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "I'd love to stay and chat",
           "id": "sombra-id-love-to-stay-and-chat",
@@ -3576,7 +3576,7 @@
           "url": "./resources/heroes/sombra/voicelines/sombra-id-love-to-stay-and-chat.ogg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Kindly adjust",
           "id": "symmetra-kindly-adjust",
@@ -3584,7 +3584,7 @@
           "url": "./resources/heroes/symmetra/voicelines/symmetra-kindly-adjust.ogg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Taken under advisement",
           "id": "symmetra-taken-under-advisement",
@@ -3592,7 +3592,7 @@
           "url": "./resources/heroes/symmetra/voicelines/symmetra-taken-under-advisement.ogg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Just start hammering",
           "id": "torbjorn-just-start-hammering",
@@ -3600,7 +3600,7 @@
           "url": "./resources/heroes/torbjorn/voicelines/torbjorn-just-start-hammering.ogg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Poor craftsman",
           "id": "torbjorn-poor-craftsman",
@@ -3608,7 +3608,7 @@
           "url": "./resources/heroes/torbjorn/voicelines/torbjorn-poor-craftsman.ogg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Don't be daft",
           "id": "tracer-dont-be-daft",
@@ -3616,7 +3616,7 @@
           "url": "./resources/heroes/tracer/voicelines/tracer-dont-be-daft.ogg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Sorry I'm late",
           "id": "tracer-sorry-im-late",
@@ -3624,7 +3624,7 @@
           "url": "./resources/heroes/tracer/voicelines/tracer-sorry-im-late.ogg"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "The performance begins",
           "id": "widowmaker-the-performance-begins",
@@ -3632,7 +3632,7 @@
           "url": "./resources/heroes/widowmaker/voicelines/widowmaker-the-performance-begins.ogg"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Your emotions",
           "id": "widowmaker-your-emotions",
@@ -3640,7 +3640,7 @@
           "url": "./resources/heroes/widowmaker/voicelines/widowmaker-your-emotions.ogg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Have you seen my glasses?",
           "id": "winston-have-you-seen-my-glasses",
@@ -3648,7 +3648,7 @@
           "url": "./resources/heroes/winston/voicelines/winston-have-you-seen-my-glasses.ogg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "I have the right stuff",
           "id": "winston-i-have-the-right-stuff",
@@ -3656,7 +3656,7 @@
           "url": "./resources/heroes/winston/voicelines/winston-i-have-the-right-stuff.ogg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "I was born in battle",
           "id": "zarya-i-was-born-in-battle",
@@ -3664,7 +3664,7 @@
           "url": "./resources/heroes/zarya/voicelines/zarya-i-was-born-in-battle.ogg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Ready to give up?",
           "id": "zarya-ready-to-give-up",
@@ -3672,7 +3672,7 @@
           "url": "./resources/heroes/zarya/voicelines/zarya-ready-to-give-up.ogg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Path to enlightenment",
           "id": "zenyatta-path-to-enlightenment",
@@ -3680,7 +3680,7 @@
           "url": "./resources/heroes/zenyatta/voicelines/zenyatta-path-to-enlightenment.ogg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Where you're headed",
           "id": "zenyatta-where-youre-headed",
@@ -3690,7 +3690,7 @@
       ],
       "skinsEpic": [
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Null Sector",
           "id": "bastion-null-sector",
@@ -3699,7 +3699,7 @@
           "description": "Bastion units were reengineered and upgraded by Null Sector and deployed during the King's Row Uprising."
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Lieutenant Wilhelm",
           "id": "reinhardt-lieutenant-wilhelm",
@@ -3718,7 +3718,7 @@
           "url": "./resources/updates/UPRISING_2017/intros/dva-selfie.webm"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "My baby",
           "id": "torbjorn-my-baby",
@@ -3726,7 +3726,7 @@
           "url": "./resources/updates/UPRISING_2017/intros/torbjorn-my-baby.webm"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Perspective",
           "id": "zenyatta-perspective",
@@ -3736,7 +3736,7 @@
       ],
       "skinsLegendary": [
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Blackwatch",
           "id": "genji-blackwatch",
@@ -3745,7 +3745,7 @@
           "description": "After agreeing to aid the organization, Genji was upgraded extensively by Overwatch's cyberneticists."
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Blackwatch",
           "id": "mccree-blackwatch",
@@ -3754,7 +3754,7 @@
           "description": "A young Jesse McCree was recruited into Blackwatch after Gabriel Reyes saw his potential and gave him a choice: join Blackwatch, or rot in prison."
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Combat Medic Ziegler",
           "id": "mercy-combat-medic-ziegler",
@@ -3763,7 +3763,7 @@
           "description": "When called upon, Mercy would don her Valkyrie swift-response suit to participate in Overwatch missions."
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Null Sector",
           "id": "orisa-null-sector",
@@ -3772,7 +3772,7 @@
           "description": "During the King's Row Uprising, Null Sector employed redesigned and upgraded OR14 Idina bots to secure the power station."
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Chief Engineer Lindholm",
           "id": "torbjorn-chief-engineer-lindholm",
@@ -3781,7 +3781,7 @@
           "description": "For many years, Torbjörn Lindholm served as Overwatch's chief engineer, designing many of the organization's iconic weapons and technologies."
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Ironclad",
           "id": "torbjorn-ironclad",
@@ -3789,7 +3789,7 @@
           "url": "./resources/updates/UPRISING_2017/skinsLegendary/torbjorn-ironclad.jpg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Cadet Oxton",
           "id": "tracer-cadet-oxton",
@@ -3798,7 +3798,7 @@
           "description": "Tracer was put into active duty as an Overwatch agent for the first time during the King's Row uprising."
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Talon",
           "id": "widowmaker-talon",
@@ -3816,35 +3816,35 @@
           "description": "Complete Uprising on Expert difficulty."
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Blackwatch",
           "id": "mccree-blackwatch",
           "url": "./resources/heroes/mccree/icons/mccree-blackwatch.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Cadet",
           "id": "tracer-cadet",
           "url": "./resources/heroes/tracer/icons/tracer-cadet.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Chief Engineer",
           "id": "torbjorn-chief-engineer",
           "url": "./resources/heroes/torbjorn/icons/torbjorn-chief-engineer.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Combat Medic",
           "id": "mercy-combat-medic",
           "url": "./resources/heroes/mercy/icons/mercy-combat-medic.png"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Cyborg",
           "id": "genji-cyborg",
@@ -3857,14 +3857,14 @@
           "url": "./resources/heroes/all/icons/drop-pod.png"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Lacroix",
           "id": "widowmaker-lacroix",
           "url": "./resources/heroes/widowmaker/icons/widowmaker-lacroix.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Lieutenant",
           "id": "reinhardt-lieutenant",
@@ -3885,7 +3885,7 @@
           "description": "Complete Uprising (All Heroes) with 8 different heroes."
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "OR14-NS",
           "id": "orisa-or14ns",
@@ -3900,7 +3900,7 @@
       ],
       "poses": [
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Meditate",
           "id": "genji-meditate",
@@ -3908,7 +3908,7 @@
           "url": "./resources/updates/UPRISING_2017/poses/genji-meditate.jpg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Handstand",
           "id": "lucio-handstand",
@@ -3916,7 +3916,7 @@
           "url": "./resources/updates/UPRISING_2017/poses/lucio-handstand.jpg"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Showdown",
           "id": "mccree-showdown",
@@ -3924,7 +3924,7 @@
           "url": "./resources/updates/UPRISING_2017/poses/mccree-showdown.jpg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Light Reading",
           "id": "symmetra-light-reading",
@@ -3932,7 +3932,7 @@
           "url": "./resources/updates/UPRISING_2017/poses/symmetra-light-reading.jpg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Peanut Butter",
           "id": "winston-peanut-butter",
@@ -3940,7 +3940,7 @@
           "url": "./resources/updates/UPRISING_2017/poses/winston-peanut-butter.jpg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "This is strength",
           "id": "zarya-this-is-strength",
@@ -3950,7 +3950,7 @@
       ],
       "emotes": [
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Training",
           "id": "hanzo-training",
@@ -3958,7 +3958,7 @@
           "url": "./resources/updates/UPRISING_2017/emotes/hanzo-training.webm"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Flair",
           "id": "pharah-flair",
@@ -3966,7 +3966,7 @@
           "url": "./resources/updates/UPRISING_2017/emotes/pharah-flair.webm"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Push-ups",
           "id": "soldier-76-pushups",
@@ -3986,7 +3986,7 @@
     "items": {
       "emotes": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Dance",
           "id": "ana-dance",
@@ -3994,7 +3994,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/ana-dance.webm"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Robo Boogie",
           "id": "bastion-robo-boogie",
@@ -4010,7 +4010,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/dva-dance.webm"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Dance",
           "id": "genji-dance",
@@ -4018,7 +4018,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/genji-dance.webm"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Fisherman Dance",
           "id": "hanzo-fisherman-dance",
@@ -4026,7 +4026,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/hanzo-fisherman-dance.webm"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Running Rat",
           "id": "junkrat-running-rat",
@@ -4034,7 +4034,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/junkrat-running-rat.webm"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Smooth",
           "id": "lucio-smooth",
@@ -4042,7 +4042,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/lucio-smooth.webm"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Line Dance",
           "id": "mccree-line-dance",
@@ -4050,7 +4050,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/mccree-line-dance.webm"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Sunny Dance",
           "id": "mei-sunny-dance",
@@ -4058,7 +4058,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/mei-sunny-dance.webm"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Hustle",
           "id": "mercy-hustle",
@@ -4066,7 +4066,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/mercy-hustle.webm"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Dance",
           "id": "orisa-dance",
@@ -4074,7 +4074,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/orisa-dance.webm"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Rocket Guitar",
           "id": "pharah-rocket-guitar",
@@ -4082,7 +4082,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/pharah-rocket-guitar.webm"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Dance",
           "id": "reaper-dance",
@@ -4090,7 +4090,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/reaper-dance.webm"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Sweethardt",
           "id": "reinhardt-sweethardt",
@@ -4098,7 +4098,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/reinhardt-sweethardt.webm"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Dance",
           "id": "roadhog-dance",
@@ -4106,7 +4106,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/roadhog-dance.webm"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Dance",
           "id": "soldier-76-dance",
@@ -4114,7 +4114,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/soldier-76-dance.webm"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Dance",
           "id": "sombra-dance",
@@ -4122,7 +4122,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/sombra-dance.webm"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Dance",
           "id": "symmetra-dance",
@@ -4130,7 +4130,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/symmetra-dance.webm"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Dance",
           "id": "torbjorn-dance",
@@ -4138,7 +4138,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/torbjorn-dance.webm"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Charleston",
           "id": "tracer-charleston",
@@ -4146,7 +4146,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/tracer-charleston.webm"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Ballet",
           "id": "widowmaker-ballet",
@@ -4154,7 +4154,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/widowmaker-ballet.webm"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Twist",
           "id": "winston-dance",
@@ -4162,7 +4162,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/winston-dance.webm"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Dance",
           "id": "zarya-dance",
@@ -4170,7 +4170,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/emotes/zarya-dance.webm"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Dance",
           "id": "zenyatta-dance",
@@ -4180,14 +4180,14 @@
       ],
       "icons": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Anaversary",
           "id": "ana-anaversary",
           "url": "./resources/heroes/ana/icons/ana-anaversary.png"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Goldbot",
           "id": "bastion-goldbot",
@@ -4201,147 +4201,147 @@
           "url": "./resources/heroes/dva/icons/dva-hanaversary.png"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Goldborg",
           "id": "genji-goldborg",
           "url": "./resources/heroes/genji/icons/genji-goldborg.png"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Kinenbi",
           "id": "hanzo-kinenbi",
           "url": "./resources/heroes/hanzo/icons/hanzo-kinenbi.png"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Goldrat",
           "id": "junkrat-goldrat",
           "url": "./resources/heroes/junkrat/icons/junkrat-goldrat.png"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Lúciouro",
           "id": "lucio-luciouro",
           "url": "./resources/heroes/lucio/icons/lucio-luciouro.png"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "GAMF",
           "id": "mccree-gamf",
           "url": "./resources/heroes/mccree/icons/mccree-gamf.png"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "May",
           "id": "mei-may",
           "url": "./resources/heroes/mei/icons/mei-may.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Jahrestag",
           "id": "mercy-jahrestag",
           "url": "./resources/heroes/mercy/icons/mercy-jahrestag.png"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Aurisa",
           "id": "orisa-aurisa",
           "url": "./resources/heroes/orisa/icons/orisa-aurisa.png"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Anniversareeha",
           "id": "pharah-anniversareeha",
           "url": "./resources/heroes/pharah/icons/pharah-anniversareeha.png"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Reapiversary",
           "id": "reaper-reapiversary",
           "url": "./resources/heroes/reaper/icons/reaper-reapiversary.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Goldhardt",
           "id": "reinhardt-goldhardt",
           "url": "./resources/heroes/reinhardt/icons/reinhardt-goldhardt.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Goldhog",
           "id": "roadhog-goldhog",
           "url": "./resources/heroes/roadhog/icons/roadhog-goldhog.png"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Gold Soldier",
           "id": "soldier-76-gold-soldier",
           "url": "./resources/heroes/soldier-76/icons/soldier-76-gold-soldier.png"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Aniversario",
           "id": "sombra-aniversario",
           "url": "./resources/heroes/sombra/icons/sombra-aniversario.png"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Vaswanniversary",
           "id": "symmetra-vaswanniversary",
           "url": "./resources/heroes/symmetra/icons/symmetra-vaswanniversary.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Goldclad",
           "id": "torbjorn-goldclad",
           "url": "./resources/heroes/torbjorn/icons/torbjorn-goldclad.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Auxton",
           "id": "tracer-auxton",
           "url": "./resources/heroes/tracer/icons/tracer-auxton.png"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "D'or",
           "id": "widowmaker-dor",
           "url": "./resources/heroes/widowmaker/icons/widowmaker-dor.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Goldrilla",
           "id": "winston-goldrilla",
           "url": "./resources/heroes/winston/icons/winston-goldrilla.png"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Zaryanoversary",
           "id": "zarya-zaryanoversary",
           "url": "./resources/heroes/zarya/icons/zarya-zaryanoversary.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Zeniversary",
           "id": "zenyatta-zeniversary",
@@ -4362,7 +4362,7 @@
       ],
       "sprays": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Ace of Hearts",
           "id": "ana-ace-of-hearts",
@@ -4370,7 +4370,7 @@
           "url": "./resources/heroes/ana/sprays/ana-ace-of-hearts.png"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Ten of Clubs",
           "id": "bastion-ten-of-clubs",
@@ -4386,7 +4386,7 @@
           "url": "./resources/heroes/dva/sprays/dva-ten-of-hearts.png"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Jack of Clubs",
           "id": "genji-jack-of-clubs",
@@ -4394,7 +4394,7 @@
           "url": "./resources/heroes/genji/sprays/genji-jack-of-clubs.png"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "King of Diamonds",
           "id": "hanzo-king-of-diamonds",
@@ -4402,7 +4402,7 @@
           "url": "./resources/heroes/hanzo/sprays/hanzo-king-of-diamonds.png"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Joker",
           "id": "junkrat-joker",
@@ -4410,7 +4410,7 @@
           "url": "./resources/heroes/junkrat/sprays/junkrat-joker.png"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Jack of Diamonds",
           "id": "lucio-jack-of-diamonds",
@@ -4418,7 +4418,7 @@
           "url": "./resources/heroes/lucio/sprays/lucio-jack-of-diamonds.png"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Jack of Spades",
           "id": "mccree-jack-of-spades",
@@ -4426,7 +4426,7 @@
           "url": "./resources/heroes/mccree/sprays/mccree-jack-of-spades.png"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Ten of Diamonds",
           "id": "mei-ten-of-diamonds",
@@ -4434,7 +4434,7 @@
           "url": "./resources/heroes/mei/sprays/mei-ten-of-diamonds.png"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Queen of Clubs",
           "id": "mercy-queen-of-clubs",
@@ -4442,7 +4442,7 @@
           "url": "./resources/heroes/mercy/sprays/mercy-queen-of-clubs.png"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Nine of Spades",
           "id": "orisa-nine-of-spades",
@@ -4450,7 +4450,7 @@
           "url": "./resources/heroes/orisa/sprays/orisa-nine-of-spades.png"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Queen of Diamonds",
           "id": "pharah-queen-of-diamonds",
@@ -4458,7 +4458,7 @@
           "url": "./resources/heroes/pharah/sprays/pharah-queen-of-diamonds.png"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Ace of Clubs",
           "id": "reaper-ace-of-clubs",
@@ -4466,7 +4466,7 @@
           "url": "./resources/heroes/reaper/sprays/reaper-ace-of-clubs.png"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "King of Hearts",
           "id": "reinhardt-king-of-hearts",
@@ -4474,7 +4474,7 @@
           "url": "./resources/heroes/reinhardt/sprays/reinhardt-king-of-hearts.png"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Joker",
           "id": "roadhog-joker",
@@ -4482,7 +4482,7 @@
           "url": "./resources/heroes/roadhog/sprays/roadhog-joker.png"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Ace of Spades",
           "id": "soldier-76-ace-of-spades",
@@ -4490,7 +4490,7 @@
           "url": "./resources/heroes/soldier-76/sprays/soldier-76-ace-of-spades.png"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Queen of Spades",
           "id": "sombra-queen-of-spades",
@@ -4498,7 +4498,7 @@
           "url": "./resources/heroes/sombra/sprays/sombra-queen-of-spades.png"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Nine of Diamonds",
           "id": "symmetra-nine-of-diamonds",
@@ -4506,7 +4506,7 @@
           "url": "./resources/heroes/symmetra/sprays/symmetra-nine-of-diamonds.png"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "King of Clubs",
           "id": "torbjorn-king-of-clubs",
@@ -4514,7 +4514,7 @@
           "url": "./resources/heroes/torbjorn/sprays/torbjorn-king-of-clubs.png"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Ace of Diamonds",
           "id": "tracer-ace-of-diamonds",
@@ -4522,7 +4522,7 @@
           "url": "./resources/heroes/tracer/sprays/tracer-ace-of-diamonds.png"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Queen of Hearts",
           "id": "widowmaker-queen-of-hearts",
@@ -4530,7 +4530,7 @@
           "url": "./resources/heroes/widowmaker/sprays/widowmaker-queen-of-hearts.png"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Jack of Hearts",
           "id": "winston-jack-of-hearts",
@@ -4538,7 +4538,7 @@
           "url": "./resources/heroes/winston/sprays/winston-jack-of-hearts.png"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Ten of Spades",
           "id": "zarya-ten-of-spades",
@@ -4546,7 +4546,7 @@
           "url": "./resources/heroes/zarya/sprays/zarya-ten-of-spades.png"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "King of Spades",
           "id": "zenyatta-king-of-spades",
@@ -4563,7 +4563,7 @@
       ],
       "voicelines": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Follow me",
           "id": "ana-follow-me",
@@ -4571,7 +4571,7 @@
           "url": "./resources/heroes/ana/voicelines/ana-follow-me.ogg"
         },
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "The adults are talking",
           "id": "ana-the-adults-are-talking",
@@ -4579,7 +4579,7 @@
           "url": "./resources/heroes/ana/voicelines/ana-the-adults-are-talking.ogg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "BEW-WOO BEW-WOO",
           "id": "bastion-bewwoo-bewwoo",
@@ -4587,7 +4587,7 @@
           "url": "./resources/heroes/bastion/voicelines/bastion-bewwoo-bewwoo.ogg"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "DOO DUN DUN WOO",
           "id": "bastion-doo-dun-dun-woo",
@@ -4611,7 +4611,7 @@
           "url": "./resources/heroes/dva/voicelines/dva-no-way.ogg"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "I'm Not Impressed",
           "id": "genji-im-not-impressed",
@@ -4619,7 +4619,7 @@
           "url": "./resources/heroes/genji/voicelines/genji-im-not-impressed.ogg"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "You seem nice",
           "id": "genji-you-seem-nice",
@@ -4627,7 +4627,7 @@
           "url": "./resources/heroes/genji/voicelines/genji-you-seem-nice.ogg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "An Error in Judgment",
           "id": "hanzo-an-error-in-judgment",
@@ -4635,7 +4635,7 @@
           "url": "./resources/heroes/hanzo/voicelines/hanzo-an-error-in-judgment.ogg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Just so",
           "id": "hanzo-just-so",
@@ -4643,7 +4643,7 @@
           "url": "./resources/heroes/hanzo/voicelines/hanzo-just-so.ogg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Dipstick",
           "id": "junkrat-dipstick",
@@ -4651,7 +4651,7 @@
           "url": "./resources/heroes/junkrat/voicelines/junkrat-dipstick.ogg"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Oops... Dropped Something",
           "id": "junkrat-oops-dropped-something",
@@ -4659,7 +4659,7 @@
           "url": "./resources/heroes/junkrat/voicelines/junkrat-oops-dropped-something.ogg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Everyone gets their +1",
           "id": "lucio-everyone-gets-their-1",
@@ -4667,7 +4667,7 @@
           "url": "./resources/heroes/lucio/voicelines/lucio-everyone-gets-their-1.ogg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Have some Lúcio-oh's!",
           "id": "lucio-have-some-lucioohs",
@@ -4675,7 +4675,7 @@
           "url": "./resources/heroes/lucio/voicelines/lucio-have-some-lucioohs.ogg"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Buckle up",
           "id": "mccree-buckle-up",
@@ -4683,7 +4683,7 @@
           "url": "./resources/heroes/mccree/voicelines/mccree-buckle-up.ogg"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Next round's on me",
           "id": "mccree-next-rounds-on-me",
@@ -4691,7 +4691,7 @@
           "url": "./resources/heroes/mccree/voicelines/mccree-next-rounds-on-me.ogg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "I was only trying to help",
           "id": "mei-i-was-only-trying-to-help",
@@ -4699,7 +4699,7 @@
           "url": "./resources/heroes/mei/voicelines/mei-i-was-only-trying-to-help.ogg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "So mean! Honestly...",
           "id": "mei-so-mean-honestly",
@@ -4707,7 +4707,7 @@
           "url": "./resources/heroes/mei/voicelines/mei-so-mean-honestly.ogg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Questionable Judgment",
           "id": "mercy-questionable-judgment",
@@ -4715,7 +4715,7 @@
           "url": "./resources/heroes/mercy/voicelines/mercy-questionable-judgment.ogg"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "You're welcome",
           "id": "mercy-youre-welcome",
@@ -4723,7 +4723,7 @@
           "url": "./resources/heroes/mercy/voicelines/mercy-youre-welcome.ogg"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Satisfied with protection",
           "id": "orisa-satsified-with-protection",
@@ -4731,7 +4731,7 @@
           "url": "./resources/heroes/orisa/voicelines/orisa-satsified-with-protection.ogg"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Your Compliance",
           "id": "orisa-your-compliance",
@@ -4739,7 +4739,7 @@
           "url": "./resources/heroes/orisa/voicelines/orisa-your-compliance.ogg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Fly casual",
           "id": "pharah-fly-casual",
@@ -4747,7 +4747,7 @@
           "url": "./resources/heroes/pharah/voicelines/pharah-fly-casual.ogg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Try me",
           "id": "pharah-try-me",
@@ -4755,7 +4755,7 @@
           "url": "./resources/heroes/pharah/voicelines/pharah-try-me.ogg"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "I'll see you in hell",
           "id": "reaper-ill-see-you-in-hell",
@@ -4763,7 +4763,7 @@
           "url": "./resources/heroes/reaper/voicelines/reaper-ill-see-you-in-hell.ogg"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "No one left behind",
           "id": "reaper-no-one-left-behind",
@@ -4771,7 +4771,7 @@
           "url": "./resources/heroes/reaper/voicelines/reaper-no-one-left-behind.ogg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Beer!",
           "id": "reinhardt-beer",
@@ -4779,7 +4779,7 @@
           "url": "./resources/heroes/reinhardt/voicelines/reinhardt-beer.ogg"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Honor! Justice! Reinhardt!",
           "id": "reinhardt-honor-justice-reinhardt",
@@ -4787,7 +4787,7 @@
           "url": "./resources/heroes/reinhardt/voicelines/reinhardt-honor-justice-reinhardt.ogg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "I don't like talkers",
           "id": "roadhog-i-dont-like-talkers",
@@ -4795,7 +4795,7 @@
           "url": "./resources/heroes/roadhog/voicelines/roadhog-i-dont-like-talkers.ogg"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "I'm going hog wild!",
           "id": "roadhog-im-going-hog-wild",
@@ -4803,7 +4803,7 @@
           "url": "./resources/heroes/roadhog/voicelines/roadhog-im-going-hog-wild.ogg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "I'm not your father",
           "id": "soldier-76-im-not-your-father",
@@ -4811,7 +4811,7 @@
           "url": "./resources/heroes/soldier-76/voicelines/soldier-76-im-not-your-father.ogg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "You're the boss",
           "id": "soldier-76-youre-the-boss",
@@ -4819,7 +4819,7 @@
           "url": "./resources/heroes/soldier-76/voicelines/soldier-76-youre-the-boss.ogg"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "I need a drink",
           "id": "sombra-i-need-a-drink",
@@ -4827,7 +4827,7 @@
           "url": "./resources/heroes/sombra/voicelines/sombra-i-need-a-drink.ogg"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Were you done talking?",
           "id": "sombra-were-you-done-talking",
@@ -4835,7 +4835,7 @@
           "url": "./resources/heroes/sombra/voicelines/sombra-were-you-done-talking.ogg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Setting up the car wash",
           "id": "symmetra-setting-up-the-car-wash",
@@ -4843,7 +4843,7 @@
           "url": "./resources/heroes/symmetra/voicelines/symmetra-setting-up-the-car-wash.ogg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Your mind works",
           "id": "symmetra-your-mind-works",
@@ -4851,7 +4851,7 @@
           "url": "./resources/heroes/symmetra/voicelines/symmetra-your-mind-works.ogg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Hear me, baby?",
           "id": "torbjorn-hear-me-baby",
@@ -4859,7 +4859,7 @@
           "url": "./resources/heroes/torbjorn/voicelines/torbjorn-hear-me-baby.ogg"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Trust me",
           "id": "torbjorn-trust-me",
@@ -4867,7 +4867,7 @@
           "url": "./resources/heroes/torbjorn/voicelines/torbjorn-trust-me.ogg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Did I miss something?",
           "id": "tracer-did-i-miss-something",
@@ -4875,7 +4875,7 @@
           "url": "./resources/heroes/tracer/voicelines/tracer-did-i-miss-something.ogg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Too slow!",
           "id": "tracer-too-slow",
@@ -4883,7 +4883,7 @@
           "url": "./resources/heroes/tracer/voicelines/tracer-too-slow.ogg"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Sorry",
           "id": "widowmaker-sorry",
@@ -4891,7 +4891,7 @@
           "url": "./resources/heroes/widowmaker/voicelines/widowmaker-sorry.ogg"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "What a bore",
           "id": "widowmaker-what-a-bore",
@@ -4899,7 +4899,7 @@
           "url": "./resources/heroes/widowmaker/voicelines/widowmaker-what-a-bore.ogg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "It's my time to shine!",
           "id": "winston-its-my-time-to-shine",
@@ -4907,7 +4907,7 @@
           "url": "./resources/heroes/winston/voicelines/winston-its-my-time-to-shine.ogg"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Oh yeah!",
           "id": "winston-oh-yeah",
@@ -4915,7 +4915,7 @@
           "url": "./resources/heroes/winston/voicelines/winston-oh-yeah.ogg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Is that all?",
           "id": "zarya-is-that-all",
@@ -4923,7 +4923,7 @@
           "url": "./resources/heroes/zarya/voicelines/zarya-is-that-all.ogg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Peace through firepower",
           "id": "zarya-peace-through-firepower",
@@ -4931,7 +4931,7 @@
           "url": "./resources/heroes/zarya/voicelines/zarya-peace-through-firepower.ogg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Existence is mysterious",
           "id": "zenyatta-existence-is-mysterious",
@@ -4939,7 +4939,7 @@
           "url": "./resources/heroes/zenyatta/voicelines/zenyatta-existence-is-mysterious.ogg"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "How disappointing",
           "id": "zenyatta-how-disappointing",
@@ -4949,7 +4949,7 @@
       ],
       "skinsLegendary": [
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Dune Buggy",
           "id": "bastion-dune-buggy",
@@ -4965,7 +4965,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/skinsLegendary/dva-cruiser.jpg"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Sentai",
           "id": "genji-sentai",
@@ -4973,7 +4973,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/skinsLegendary/genji-sentai.jpg"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Cyberninja",
           "id": "hanzo-cyberninja",
@@ -4981,7 +4981,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/skinsLegendary/hanzo-cyberninja.jpg"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Jazzy",
           "id": "lucio-jazzy",
@@ -4989,7 +4989,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/skinsLegendary/lucio-jazzy.jpg"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Beekeeper",
           "id": "mei-beekeeper",
@@ -4997,7 +4997,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/skinsLegendary/mei-beekeeper.jpg"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Bedouin",
           "id": "pharah-bedouin",
@@ -5005,7 +5005,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/skinsLegendary/pharah-bedouin.jpg"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Cyborg: 76",
           "id": "soldier-76-cyborg-76",
@@ -5013,7 +5013,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/skinsLegendary/soldier-76-cyborg-76.jpg"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Oasis",
           "id": "symmetra-oasis",
@@ -5021,7 +5021,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/skinsLegendary/symmetra-oasis.jpg"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Graffiti",
           "id": "tracer-graffiti",
@@ -5029,7 +5029,7 @@
           "url": "./resources/updates/ANNIVERSARY_2017/skinsLegendary/tracer-graffiti.jpg"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Cyberian",
           "id": "zarya-cyberian",
@@ -5040,7 +5040,7 @@
     }
   },
   "SUMMER_GAMES": {
-    "name": "Summer Games",
+    "name": "Летние Игры",
     "id": "SUMMER_GAMES",
     "dates": {
       "start": "1502204400000",
@@ -5049,7 +5049,7 @@
     "items": {
       "emotes": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Beach Ball",
           "id": "ana-beach-ball",
@@ -5058,7 +5058,7 @@
           "isNew": true
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Boxing",
           "id": "bastion-boxing",
@@ -5067,7 +5067,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Juggle",
           "id": "lucio-juggle",
@@ -5076,7 +5076,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Ribbon",
           "id": "symmetra-ribbon",
@@ -5087,7 +5087,7 @@
       ],
       "icons": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Shooting",
           "id": "ana-shooting",
@@ -5095,7 +5095,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Boxing",
           "id": "bastion-boxing",
@@ -5111,7 +5111,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Doomfist",
+          "heroName": "Кулак Смерти",
           "hero": "doomfist",
           "name": "Shotput",
           "id": "doomfist-shotput",
@@ -5119,7 +5119,7 @@
           "isNew": true
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Fencing",
           "id": "genji-fencing",
@@ -5127,7 +5127,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Archery",
           "id": "hanzo-archery",
@@ -5135,7 +5135,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Tennis",
           "id": "junkrat-tennis",
@@ -5143,7 +5143,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Football",
           "id": "lucio-football",
@@ -5151,7 +5151,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Equestrian",
           "id": "mccree-equestrian",
@@ -5159,7 +5159,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Table Tennis",
           "id": "mei-table-tennis",
@@ -5167,7 +5167,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Badminton",
           "id": "mercy-badminton",
@@ -5175,7 +5175,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Javelin",
           "id": "orisa-javelin",
@@ -5183,7 +5183,7 @@
           "isNew": true
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Basketball",
           "id": "pharah-basketball",
@@ -5191,7 +5191,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "BMX",
           "id": "reaper-bmx",
@@ -5199,7 +5199,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Wrestling",
           "id": "reinhardt-wrestling",
@@ -5207,7 +5207,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Diving",
           "id": "roadhog-diving",
@@ -5215,7 +5215,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Golf",
           "id": "soldier-76-golf",
@@ -5223,7 +5223,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "High Jump",
           "id": "sombra-high-jump",
@@ -5231,7 +5231,7 @@
           "isNew": true
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Rhythmic Gymnastics",
           "id": "symmetra-rhythmic-gymnastics",
@@ -5239,7 +5239,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Water Polo",
           "id": "torbjorn-water-polo",
@@ -5247,7 +5247,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Track",
           "id": "tracer-track",
@@ -5255,7 +5255,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Gymnastics",
           "id": "widowmaker-gymnastics",
@@ -5263,7 +5263,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Volleyball",
           "id": "winston-volleyball",
@@ -5271,7 +5271,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Weightlifting",
           "id": "zarya-weightlifting",
@@ -5279,7 +5279,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Taekwondo",
           "id": "zenyatta-taekwondo",
@@ -5354,7 +5354,7 @@
         },
         {
           "hero": "all",
-          "name": "Russia",
+          "name": "Россия",
           "id": "russia",
           "url": "./resources/heroes/all/icons/russia.png"
         },
@@ -5403,7 +5403,7 @@
       ],
       "sprays": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Shooting",
           "id": "ana-shooting",
@@ -5412,7 +5412,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Boxing",
           "id": "bastion-boxing",
@@ -5430,7 +5430,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Doomfist",
+          "heroName": "Кулак Смерти",
           "hero": "doomfist",
           "name": "Shot Put",
           "id": "doomfist-shot-put",
@@ -5439,7 +5439,7 @@
           "isNew": true
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Fencing",
           "id": "genji-fencing",
@@ -5448,7 +5448,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Archery",
           "id": "hanzo-archery",
@@ -5457,7 +5457,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Tennis",
           "id": "junkrat-tennis",
@@ -5466,7 +5466,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Football",
           "id": "lucio-football",
@@ -5475,7 +5475,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Equestrian",
           "id": "mccree-equestrian",
@@ -5484,7 +5484,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Table Tennis",
           "id": "mei-table-tennis",
@@ -5493,7 +5493,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Badminton",
           "id": "mercy-badminton",
@@ -5502,7 +5502,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Javelin",
           "id": "orisa-javelin",
@@ -5511,7 +5511,7 @@
           "isNew": true
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Basketball",
           "id": "pharah-basketball",
@@ -5520,7 +5520,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "BMX",
           "id": "reaper-bmx",
@@ -5529,7 +5529,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Wrestling",
           "id": "reinhardt-wrestling",
@@ -5538,7 +5538,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Diving",
           "id": "roadhog-diving",
@@ -5547,7 +5547,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Golf",
           "id": "soldier-76-golf",
@@ -5556,7 +5556,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "High Jump",
           "id": "sombra-high-jump",
@@ -5565,7 +5565,7 @@
           "isNew": true
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Rhythmic",
           "id": "symmetra-rhythmic",
@@ -5574,7 +5574,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Water Polo",
           "id": "torbjorn-water-polo",
@@ -5583,7 +5583,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Track",
           "id": "tracer-track",
@@ -5592,7 +5592,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Gymnastics",
           "id": "widowmaker-gymnastics",
@@ -5601,7 +5601,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Volleyball",
           "id": "winston-volleyball",
@@ -5610,7 +5610,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Weightlifting",
           "id": "zarya-weightlifting",
@@ -5619,7 +5619,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Taekwondo",
           "id": "zenyatta-taekwondo",
@@ -5629,7 +5629,7 @@
         },
         {
           "hero": "all",
-          "name": "Summer Games ",
+          "name": "Летние игры ",
           "id": "summer-games",
           "url": "./resources/heroes/all/sprays/summer-games.png",
           "quality": "common"
@@ -5668,7 +5668,7 @@
       ],
       "voicelines": [
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Better than retirement",
           "id": "ana-better-than-retirement",
@@ -5677,7 +5677,7 @@
           "isNew": true
         },
         {
-          "heroName": "Ana",
+          "heroName": "Ана",
           "hero": "ana",
           "name": "Learn from the Pain",
           "id": "ana-learn-from-the-pain",
@@ -5686,7 +5686,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Doo-do-doo Dee!",
           "id": "bastion-doododoo-dee",
@@ -5695,7 +5695,7 @@
           "isNew": true
         },
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "WHOO-VWEEEEEE",
           "id": "bastion-whoovweeeeee",
@@ -5722,7 +5722,7 @@
           "isNew": true
         },
         {
-          "heroName": "Doomfist",
+          "heroName": "Кулак Смерти",
           "hero": "doomfist",
           "name": "I make medicine sick",
           "id": "doomfist-i-make-medicine-sick",
@@ -5731,7 +5731,7 @@
           "isNew": true
         },
         {
-          "heroName": "Doomfist",
+          "heroName": "Кулак Смерти",
           "hero": "doomfist",
           "name": "Make you punch drunk",
           "id": "doomfist-make-you-punch-drunk",
@@ -5740,7 +5740,7 @@
           "isNew": true
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Hoping for a challenge",
           "id": "genji-i-was-hoping-for-a-challenge",
@@ -5749,7 +5749,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Touché",
           "id": "genji-touche",
@@ -5758,7 +5758,7 @@
           "isNew": true
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Defeat is the first step",
           "id": "hanzo-defeat-is-the-first-step",
@@ -5767,7 +5767,7 @@
           "isNew": true
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Ignore all distractions",
           "id": "hanzo-ignore-all-distractions",
@@ -5776,7 +5776,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "I give it a 10!",
           "id": "junkrat-i-give-it-a-10",
@@ -5785,7 +5785,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "I give it a 3!",
           "id": "junkrat-i-give-it-a-3",
@@ -5794,7 +5794,7 @@
           "isNew": true
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Be champions",
           "id": "lucio-be-champions",
@@ -5803,7 +5803,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Suboptimal",
           "id": "lucio-suboptimal",
@@ -5812,7 +5812,7 @@
           "isNew": true
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "Boom goes the dynamite",
           "id": "mccree-boom-goes-the-dynamite",
@@ -5821,7 +5821,7 @@
           "isNew": true
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "I don't much like losing",
           "id": "mccree-i-dont-much-like-losing",
@@ -5830,7 +5830,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "I tried my best",
           "id": "mei-i-tried-my-best",
@@ -5839,7 +5839,7 @@
           "isNew": true
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Overcome all obstacles",
           "id": "mei-overcome-all-obstacles",
@@ -5848,7 +5848,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Piece of cake",
           "id": "mercy-piece-of-cake",
@@ -5857,7 +5857,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Sponge or spray?",
           "id": "mercy-sponge-or-spray",
@@ -5866,7 +5866,7 @@
           "isNew": true
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Golden",
           "id": "orisa-golden",
@@ -5875,7 +5875,7 @@
           "isNew": true
         },
         {
-          "heroName": "Orisa",
+          "heroName": "Ориса",
           "hero": "orisa",
           "name": "Grease to your elbow",
           "id": "orisa-grease-to-your-elbow",
@@ -5884,7 +5884,7 @@
           "isNew": true
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Clear skies, full hearts",
           "id": "pharah-clear-skies-full-hearts",
@@ -5893,7 +5893,7 @@
           "isNew": true
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "We are in this together",
           "id": "pharah-we-are-in-this-together",
@@ -5902,7 +5902,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "It's in the refrigerator",
           "id": "reaper-its-in-the-refrigerator",
@@ -5911,7 +5911,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Just win",
           "id": "reaper-just-win",
@@ -5920,7 +5920,7 @@
           "isNew": true
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "100% German power",
           "id": "reinhardt-100-german-power",
@@ -5929,7 +5929,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Reinhardt",
+          "heroName": "Райнхардт",
           "hero": "reinhardt",
           "name": "Glittering prizes!",
           "id": "reinhardt-glittering-prizes",
@@ -5938,7 +5938,7 @@
           "isNew": true
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "There's no \"I\" in team",
           "id": "roadhog-theres-no-i-in-team",
@@ -5947,7 +5947,7 @@
           "isNew": true
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "What's mine is mine",
           "id": "roadhog-whats-mine-is-mine",
@@ -5956,7 +5956,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Bring the noise",
           "id": "soldier-76-bring-the-noise",
@@ -5965,7 +5965,7 @@
           "isNew": true
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "You want a medal?",
           "id": "soldier-76-you-want-a-medal",
@@ -5974,7 +5974,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Try and keep up",
           "id": "sombra-try-and-keep-up",
@@ -5983,7 +5983,7 @@
           "isNew": true
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "What's up?",
           "id": "sombra-whats-up",
@@ -5992,7 +5992,7 @@
           "isNew": true
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Hard work and dedication",
           "id": "symmetra-hard-work-and-dedication",
@@ -6001,7 +6001,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Victory is everything",
           "id": "symmetra-victory-is-everything",
@@ -6010,7 +6010,7 @@
           "isNew": true
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "More where that came from",
           "id": "torbjorn-more-where-that-came-from",
@@ -6019,7 +6019,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "There's no prize for second",
           "id": "torbjorn-theres-no-prize-for-second",
@@ -6028,7 +6028,7 @@
           "isNew": true
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Eat my dust",
           "id": "tracer-eat-my-dust",
@@ -6037,7 +6037,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Time out!",
           "id": "tracer-time-out",
@@ -6046,7 +6046,7 @@
           "isNew": true
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "A perfect 10",
           "id": "widowmaker-a-perfect-10",
@@ -6055,7 +6055,7 @@
           "isNew": true
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "I don't miss",
           "id": "widowmaker-i-dont-miss",
@@ -6064,7 +6064,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Oh, it's on!",
           "id": "winston-oh-its-on",
@@ -6073,7 +6073,7 @@
           "isNew": true
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Playtime's over",
           "id": "winston-playtimes-over",
@@ -6082,7 +6082,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "It's only a game",
           "id": "zarya-its-only-a-game",
@@ -6091,7 +6091,7 @@
           "isNew": true
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "No pain, no gain",
           "id": "zarya-no-pain-no-gain",
@@ -6100,7 +6100,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Form is temporary",
           "id": "zenyatta-form-is-temporary",
@@ -6109,7 +6109,7 @@
           "isNew": true
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Strive for improvement",
           "id": "zenyatta-strive-for-improvement",
@@ -6120,7 +6120,7 @@
       ],
       "poses": [
         {
-          "heroName": "Bastion",
+          "heroName": "Бастион",
           "hero": "bastion",
           "name": "Medal",
           "id": "bastion-medal",
@@ -6129,7 +6129,7 @@
           "isNew": true
         },
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
           "name": "Medal",
           "id": "hanzo-medal",
@@ -6138,7 +6138,7 @@
           "isNew": true
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Medal",
           "id": "junkrat-medal",
@@ -6147,7 +6147,7 @@
           "isNew": true
         },
         {
-          "heroName": "Mei",
+          "heroName": "Мэй",
           "hero": "mei",
           "name": "Medal",
           "id": "mei-medal",
@@ -6156,7 +6156,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Medal",
           "id": "mercy-medal",
@@ -6165,7 +6165,7 @@
           "isNew": true
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Medal",
           "id": "pharah-medal",
@@ -6174,7 +6174,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
           "name": "Medal",
           "id": "reaper-medal",
@@ -6183,7 +6183,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Roadhog",
+          "heroName": "Турбосвин",
           "hero": "roadhog",
           "name": "Medal",
           "id": "roadhog-medal",
@@ -6192,7 +6192,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
           "name": "Golf Swing",
           "id": "soldier-76-golf-swing",
@@ -6201,7 +6201,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
           "name": "Medal",
           "id": "sombra-medal",
@@ -6210,7 +6210,7 @@
           "isNew": true
         },
         {
-          "heroName": "Symmetra",
+          "heroName": "Симметра",
           "hero": "symmetra",
           "name": "Medal",
           "id": "symmetra-medal",
@@ -6219,7 +6219,7 @@
           "isNew": true
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Medal",
           "id": "torbjorn-medal",
@@ -6228,7 +6228,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Medal",
           "id": "tracer-medal",
@@ -6237,7 +6237,7 @@
           "isNew": true
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Medal",
           "id": "widowmaker-medal",
@@ -6246,7 +6246,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Winston",
+          "heroName": "Уинстон",
           "hero": "winston",
           "name": "Medal",
           "id": "winston-medal",
@@ -6255,7 +6255,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Zenyatta",
+          "heroName": "Дзенъятта",
           "hero": "zenyatta",
           "name": "Medals",
           "id": "zenyatta-medals",
@@ -6276,7 +6276,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Genji",
+          "heroName": "Гэндзи",
           "hero": "genji",
           "name": "Nihon",
           "id": "genji-nihon",
@@ -6285,7 +6285,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
           "name": "American",
           "id": "mccree-american",
@@ -6294,7 +6294,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
           "name": "Eidgenossin",
           "id": "mercy-eidgenossin",
@@ -6304,7 +6304,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Torbjörn",
+          "heroName": "Торбьорн",
           "hero": "torbjorn",
           "name": "Tre Kronor",
           "id": "torbjorn-tre-kronor",
@@ -6313,7 +6313,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
           "name": "Tricolore",
           "id": "widowmaker-tricolore",
@@ -6322,7 +6322,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Seleção",
           "id": "lucio-selecao",
@@ -6332,7 +6332,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Striker",
           "id": "lucio-striker",
@@ -6342,7 +6342,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Sprinter",
           "id": "tracer-sprinter",
@@ -6351,7 +6351,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Track and Field",
           "id": "tracer-track-and-field",
@@ -6360,7 +6360,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Champion",
           "id": "zarya-champion",
@@ -6370,7 +6370,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Zarya",
+          "heroName": "Заря",
           "hero": "zarya",
           "name": "Weightlifter",
           "id": "zarya-weightlifter",
@@ -6382,16 +6382,16 @@
       ],
       "intros": [
         {
-          "heroName": "Hanzo",
+          "heroName": "Хандзо",
           "hero": "hanzo",
-          "name": "Target Practice",
+          "name": "В яблочко",
           "id": "hanzo-target-practice",
           "quality": "epic",
           "url": "./resources/updates/SUMMER_GAMES/intros/hanzo-target-practice.webm",
           "isNew": true
         },
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
           "name": "Shot Put",
           "id": "junkrat-shot-put",
@@ -6400,7 +6400,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Lúcio",
+          "heroName": "Лусио",
           "hero": "lucio",
           "name": "Bicycle Kick",
           "id": "lucio-bicycle-kick",
@@ -6409,7 +6409,7 @@
           "group": "SUMMER_GAMES_2016"
         },
         {
-          "heroName": "Pharah",
+          "heroName": "Фарра",
           "hero": "pharah",
           "name": "Slam Dunk",
           "id": "pharah-slam-dunk",
@@ -6418,7 +6418,7 @@
           "isNew": true
         },
         {
-          "heroName": "Tracer",
+          "heroName": "Трейсер",
           "hero": "tracer",
           "name": "Hurdle",
           "id": "tracer-hurdle",
@@ -6429,64 +6429,64 @@
       ],
       "skinsLegendary": [
         {
-          "heroName": "Junkrat",
+          "heroName": "Крысавчик",
           "hero": "junkrat",
-          "name": "Cricket",
+          "name": "Крикет",
           "id": "junkrat-cricket",
           "quality": "legendary",
           "url": "./resources/updates/SUMMER_GAMES/skinsLegendary/junkrat-cricket.jpg",
-          "description": "Junkrat gives new meaning to \"the Ashes.\"",
+          "description": "«Я – герой, которого вы заслуживаете. Я — Бэтсмен!»",
           "isNew": true
         },
         {
-          "heroName": "McCree",
+          "heroName": "Маккри",
           "hero": "mccree",
-          "name": "Lifeguard",
+          "name": "Спасатель",
           "id": "mccree-lifeguard",
           "quality": "legendary",
           "url": "./resources/updates/SUMMER_GAMES/skinsLegendary/mccree-lifeguard.jpg",
           "isNew": true
         },
         {
-          "heroName": "Mercy",
+          "heroName": "Ангел",
           "hero": "mercy",
-          "name": "Winged Victory",
+          "name": "Богиня Победы",
           "id": "mercy-winged-victory",
           "quality": "legendary",
           "url": "./resources/updates/SUMMER_GAMES/skinsLegendary/mercy-winged-victory.jpg",
           "isNew": true
         },
         {
-          "heroName": "Reaper",
+          "heroName": "Жнец",
           "hero": "reaper",
-          "name": "Biker",
+          "name": "Мотогонщик",
           "id": "reaper-biker",
           "quality": "legendary",
           "url": "./resources/updates/SUMMER_GAMES/skinsLegendary/reaper-biker.jpg",
           "isNew": true
         },
         {
-          "heroName": "Soldier: 76",
+          "heroName": "Солдат-76",
           "hero": "soldier-76",
-          "name": "Grillmaster: 76",
+          "name": "Барбекю-76",
           "id": "soldier-76-grillmaster-76",
           "quality": "legendary",
           "url": "./resources/updates/SUMMER_GAMES/skinsLegendary/soldier-76-grillmaster-76.jpg",
           "isNew": true
         },
         {
-          "heroName": "Sombra",
+          "heroName": "Сомбра",
           "hero": "sombra",
-          "name": "Tulum",
+          "name": "Ныряльщица",
           "id": "sombra-tulum",
           "quality": "legendary",
           "url": "./resources/updates/SUMMER_GAMES/skinsLegendary/sombra-tulum.jpg",
           "isNew": true
         },
         {
-          "heroName": "Widowmaker",
+          "heroName": "Роковая Вдова",
           "hero": "widowmaker",
-          "name": "Côte d'Azur",
+          "name": "Лазурный Берег",
           "id": "widowmaker-cote-dazur",
           "quality": "legendary",
           "url": "./resources/updates/SUMMER_GAMES/skinsLegendary/widowmaker-cote-dazur.jpg",
