@@ -35,26 +35,26 @@ try {
   raw.rawData = fs.readFileSync(`${__dirname}/rawData.txt`, "utf8");
   
 } catch(e) {
-  console.error("Failed to find allClassData or rawData!!");
+  console.error("Не найден файл allClassData или rawData!");
   process.exit();
 }
 
 try {
   raw.newRawData = fs.readFileSync(`${__dirname}/newRawData.txt`, "utf8");
 } catch(e) {
-  console.info("No newRawData??");
+  console.info("Нет свежих данных? :(");
 }
 
 try {
   missingAllClassData = require('../data/missingAllClassData.json');
 } catch(e) {
-  console.log("missing data");
+  console.log("Найдены неопределённые данные.");
 } // eslint-disable-line
 
 var data = {};
 var things = ['rawData', 'newRawData'];
 things.forEach((thingy, i) => {
-  console.info('Parsing', thingy);
+  console.info('Запускаем парсер...', thingy);
   if (!raw[thingy]) return;
   const itemGroupRegex = /\t(.+)(\n\t{2}.+)*/g;
   const heroGroups = raw[thingy].replace(/\r\n/g, '\n').split('\n').filter(a => !a.includes("Error unknown")).join('\n').split('\n\n');
@@ -83,7 +83,7 @@ things.forEach((thingy, i) => {
       for (var group in items) {
         for (var item of items[group]) {
           if (!data[hero]) {
-            console.warn(hero, "doesn't exist in data");
+            console.warn(hero, "— данный герой отсутствует!");
             continue;
           }
           data[hero].items[group].push(item);
@@ -97,7 +97,7 @@ things.forEach((thingy, i) => {
 
 // AllClassData that isn't automatically generated can be manually added in missingAllClassData.json
 // parsing missing items and if they have a name, add them to an object similar to allClassData
-console.info('Parsing missingAllClassData');
+console.info('Парсим missingAllClassData...');
 var noLongerMissingAllClassData = reduce(missingAllClassData, (result, items, type) => {
   if (!result[type]) result[type] = [];
   items = reduce(items, (newItems = [], item) => {
@@ -113,7 +113,7 @@ forEach(noLongerMissingAllClassData, (items, type) => allClassData[type] = [...a
 
 // Create object containing allclass item names by key so we can easily map event ids to items.
 // also check if any items are in allClassEventItems and mark them as event items
-console.info('Generating allClass data');
+console.info('Генерируем данные allClass...');
 allClassData = reduce(allClassData, (result, items, type) => {
   let idCache = {};
   if (!result[type]) {
@@ -132,7 +132,7 @@ allClassData = reduce(allClassData, (result, items, type) => {
       return r;
     }, {});
 
-    if (idCache[item.id]) console.warn("Duplicate allClassData detected", item.id);
+    if (idCache[item.id]) console.warn("Обнаружены дубликаты в allClassData.", item.id);
     idCache[item.id] = true;
 
     // Check if the spray or icon is a Competitive reward
@@ -180,7 +180,7 @@ allClassData = reduce(allClassData, (result, items, type) => {
 }, {});
 
 // Goes through every hero and their item lists
-console.info('Generating hero data');
+console.info('Генерируем данные героев...');
 var heroes = {};
 for (var hero in data) {
   const itemGroups = data[hero].items;
@@ -263,7 +263,7 @@ for (var hero in data) {
 heroes = sortObject(heroes);
 
 // Go through every heros items and create a seperate object containing every item added in events
-console.info('Generating event data');
+console.info('Генерируем данные событий...');
 var updates = {};
 forEach(heroes, hero => {
   forEach(hero.items, (items, tKey) => {
@@ -331,13 +331,13 @@ updates[EVENTS.ROOSTER17].items.sprays = updates[EVENTS.ROOSTER17].items.sprays.
 }).filter(Boolean);
 
 // Add allClassEventItems items (which aren't detected by item extrator) manually to events
-console.info('Mapping allClassEventItems to events data');
+console.info('Соединяем allClassEventItems с данными событий...');
 const missingKeys = [];
 forEach(allClassEventItems, (types, type) => {
   forEach(types, (events, event) => {
     events.forEach(itemID => {
       if (!allClassDataKeys[type][itemID]) {
-        console.warn("Missing key for", itemID);
+        console.warn("Неопределённый ключ для", itemID);
         missingKeys.push({ type, itemID });
         return;
       }
@@ -368,7 +368,7 @@ forEach(allClassEventItems, (types, type) => {
         Object.assign(out, { quality: 'common' });
       }
       if (!updates[event]) {
-        console.warn("Missing event!!", event);
+        console.warn("Неопределённое событие!", event);
         return;
       }
       if (!updates[event].items[type]) updates[event].items[type] = [];
@@ -379,7 +379,7 @@ forEach(allClassEventItems, (types, type) => {
 
 if (missingKeys.length) {
   if (!mode || mode !== 'missing') {
-    console.warn("Missing itemIDs detected, run 'gen-missing-data' to generate a template of missing items");
+    console.warn("Обнаружены неопределённые itemID, запустите 'gen-missing-data' для генерации шаблонов для них.");
   } else {
     const out = {};
     missingKeys.forEach(item => {
@@ -395,12 +395,12 @@ if (missingKeys.length) {
       }
     }
     fs.writeFileSync(`${__dirname}/../data/missingAllClassData.json`, JSON.stringify(missingAllClassData, null, 2));
-    console.info("Wrote missing data to data dir");
+    console.info("Неопределённые данные записаны в файл.");
   }
 }
 
 // Sort event items by hero, name or name depending on type
-console.info('Sorting event items');
+console.info('Сортируем предметы событий...');
 forEach(updates, update => forEach(update.items, (items, type) => {
   switch (type) {
     case 'icons':
@@ -416,7 +416,7 @@ forEach(updates, update => forEach(update.items, (items, type) => {
 
 // Add allClassData (Sprays, Icons) to items.json file
 heroes["all"] = Object.assign({
-  name: 'All Class',
+  name: 'Общие',
   id: 'all'
 }, HERODATA['all'], {
   items: allClassData
@@ -428,7 +428,7 @@ updates = sortObject(updates, true);
 heroes = sortObject(heroes);
 
 // go through all hero items and sort items as they are sorted ingame
-console.info('Sorting hero items');
+console.info('Сортируем предметы героя...');
 forEach(heroes, hero => forEach(hero.items, (items, type) => {
   if (hero.id == 'all') {
     if (type == 'sprays') {
@@ -468,4 +468,4 @@ fs.writeFileSync(`${__dirname}/../data/items.json`, JSON.stringify(heroes, null,
 fs.writeFileSync(`${__dirname}/../data/events.json`, JSON.stringify(updates, null, 2), 'utf8');
 fs.writeFileSync(`${__dirname}/../data/master.json`, JSON.stringify(masterData), 'utf8');
 
-console.info("Finished");
+console.info("Формирование JSON-файлов завершено.");
