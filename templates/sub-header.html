@@ -3,6 +3,6 @@
     <img src="./resources/icons/currency.svg" /> <span count-to="{{cost.remaining}}" count-from="{{cost.prev}}"></span>
   </div>
   <script type="text/ng-template" id="costRemaining.html">
-      <span>Общая сумма <br/> оставшихся предметов — {{cost.total | number }}<br/>{{cost.selected | number}} для покупки отмеченных предметов</span>
+      <span>Для покупки оставшихся <br/>предметов вам понадобится <br/> {{cost.total | number }} кредитов.<br/><br/>В {{cost.selected | number}} кредитов оцениваются<br/>уже полученные предметы.</span>
     </script>
 </div>

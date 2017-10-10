@@ -67,7 +67,7 @@
         <input type="checkbox" id="fakecb" style="display:none">
         <label for="fakecb" id="fakecheckbox"></label><span> = Елочная игрушка</span>
       </span>
-      <span class="wot" tooltip-popup-delay="400" uib-tooltip="Для этого события были добавлены по два граффити для каждого персонажа. Обычные чекбоксы — для стандартных граффити, а круглые — для «елочных игрушек».">Что это?</span>
+      <span class="wot" tooltip-popup-delay="400" uib-tooltip="Для этого события были добавлены по два граффити для каждого персонажа.  Обычные чекбоксы — для стандартных граффити, а круглые — для «ёлочных игрушек».">Что это?</span>
     </div>
     <div class="items">
       <div class="item" ng-repeat="spray in ::data.items.sprays track by $index" ng-if="::!spray.id.includes('ornament')" achievement="{{::spray.achievement}}"  ng-mouseenter="showPreview(spray, 'spray')" ng-mouseleave="hidePreview()">

@@ -10,7 +10,7 @@ OWI.config(['$compileProvider', '$urlMatcherFactoryProvider', '$animateProvider'
 
 // Run migrations to convert data and stuff
 OWI.run(function() {
-  console.info("Starting Migrations");
+  console.info("Запускаем перенос данных...");
   var storedData = localStorage.getItem('data');
   var data = storedData ? JSON.parse(storedData) : false;
   var migrations = [
@@ -21,7 +21,7 @@ OWI.run(function() {
         var changedItems = {"SUMMER_GAMES_2016":{"sprays":{"summer-games":"summer-games-2016"},"icons":{"summer-games":"summer-games-2016","united-states":"united-states-of-america"}},"HALLOWEEN_2016":{"sprays":{"halloween-terror-2016":"halloween-terror","halloweenspecial":"halloween-special","junkensteinsrevenge":"junkensteins-revenge","riseofthezomnics":"rise-of-the-zomnics","thereapening":"the-reapening"},"icons":{"halloween-terror":"halloween-terror-2016"}},"WINTER_WONDERLAND_2016":{"icons":{"winter-wonderland":"winter-wonderland-2016"}},"YEAR_OF_THE_ROOSTER_2017":{"skinsEpic":{"mercy-golden": "mercy-fortune"},"icons":{"roadhog-piggy":"roadhog-pigsy","year-of-the-rooster":"year-of-the-rooster-2017"}}};
         for (var event in changedItems) {
           if (!data[event] || !Object.keys(data[event]).length) {
-            console.info("No data for", event, "skipping");
+            console.info("Отсутствуют данные для ", event, "skipping");
             continue;
           }
           for (var type in changedItems[event]) {
@@ -108,7 +108,7 @@ OWI.run(function() {
   var storedMigrations = localStorage.getItem('migrations');
   var completedMigrations = storedMigrations ? JSON.parse(storedMigrations) : [];
   if (!data) {
-    console.info("No data, no migrations needed");
+    console.info("Данные отстутствуют, нет необходимости в переносе данных.");
     completedMigrations = [];
     migrations.forEach(function(m) {
       completedMigrations.push(m.id);
@@ -117,28 +117,28 @@ OWI.run(function() {
     return;
   }
 
-  console.info("Running Migrations");
+  console.info("Запускаем перенос данных...");
   if (completedMigrations.length == migrations.length) {
-    console.info("No migrations needed");
+    console.info("Нет необходимости в переносе данных.");
     return;
   }
 
   localStorage.setItem('backup-data', JSON.stringify(data));
   migrations.forEach(function(mig) {
-    if (completedMigrations.includes(mig.id)) return console.info(mig.name, "already dun");
-    console.info("Running", mig.name, "migration");
+    if (completedMigrations.includes(mig.id)) return console.info(mig.name, "выполнена.");
+    console.info("Запускаем ", mig.name, "migration");
     mig.run();
     completedMigrations.push(mig.id);
   });
 
-  console.info("Finished Migrations");
+  console.info("Перенос данных завершён.");
   localStorage.setItem('data', JSON.stringify(data));
   localStorage.setItem('migrations', JSON.stringify(completedMigrations));
 });
 
 // This allows custom themes to be loaded
 OWI.run(function() {
-  console.info("Loading themes");
+  console.info("Загружаем темы...");
   var settings = angular.fromJson(localStorage.getItem('settings')) || {};
   var theme = settings.currentTheme || 'standard';
   var styles = ['events.css', 'heroes.css'];
