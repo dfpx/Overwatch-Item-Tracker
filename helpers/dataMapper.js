@@ -420,7 +420,7 @@ forEach(updates, update => forEach(update.items, (items, type) => {
 
 // Add allClassData (Sprays, Icons) to items.json file
 heroes["all"] = Object.assign({
-  name: 'Общие',
+  name: 'All Class',
   id: 'all'
 }, HERODATA['all'], {
   items: allClassData

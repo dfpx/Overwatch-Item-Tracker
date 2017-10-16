@@ -30,7 +30,7 @@ const EVENTNAMES = {
   [EVENTS.UPRISING17]: 'Мятеж 2017',
   [EVENTS.ANNIVERSARY17]: 'Годовщина 2017',
   [EVENTS.SUMMER]: 'Летние Игры',
-  [EVENTS.HALLOWEEN]: 'Ужасы на Хеллоуин 2016',
+  [EVENTS.HALLOWEEN]: 'Ужасы на Хеллоуин',
 };
 
 const EVENTTIMES = {
