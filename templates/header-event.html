@@ -1,6 +1,6 @@
 <div ng-show="$ctrl.item.dates.end > $ctrl.currentDate" class="event-active">
   <h2>Событие должно завершиться {{$ctrl.item.dates.end | date:'d MMMM'}} по местному времени</h2>
-  <h3>Убедитесь, что приобрели всё, что хотели до {{$ctrl.item.dates.end - 86400000 | date:'d MMMM'}}, на всякий случай!</h3>
+  <h3>Убедитесь, что приобрели всё что хотели до {{$ctrl.item.dates.end - 86400000 | date:'d MMMM'}}, на всякий случай!</h3>
 </div>
 <div ng-show="$ctrl.item.dates.end < $ctrl.currentDate" class="event-ended">
   <h2>Событие завершилось {{$ctrl.item.dates.end | date:'d MMMM yyyy'}} года <!--по местному времени--></h2>

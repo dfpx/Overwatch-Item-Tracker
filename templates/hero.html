@@ -53,12 +53,12 @@
         </ul>
       </div>
       <div class="toggle-grid btn btn-default" uib-tooltip="Переключить вид «Список» / «Миниатюры»" ng-click="hero.toggleGrid()" tooltip-append-to-body="true">Переключить сетку</div>
-      <div class="select-all btn btn-default" uib-tooltip="Select all items currently in view" ng-click="hero.selectModal(false, 'select')" tooltip-append-to-body="true">Выбрать все</div>
-      <div class="select-all btn btn-default" uib-tooltip="Unselect all items currently in view" ng-click="hero.selectModal(false, 'unselect')" tooltip-append-to-body="true">Сбросить выбор</div>
+      <div class="select-all btn btn-default" uib-tooltip="Выбрать все отображённые предметы" ng-click="hero.selectModal(false, 'select')" tooltip-append-to-body="true">Выбрать все</div>
+      <div class="select-all btn btn-default" uib-tooltip="Сбросить выбор с отображённых предметов" ng-click="hero.selectModal(false, 'unselect')" tooltip-append-to-body="true">Сбросить выбор</div>
     </div>
     <div class="hero-progress">
       <div class="hero-progress-bar" style="width: {{hero.totals.overall.percentage}}%; background-color: {{hero.colors.primary}}; border-top-color: {{hero.colors.highlight}}"></div>
-      <span>Разблокировано  {{hero.totals.overall.selected}} / {{hero.totals.overall.total}}</span>
+      <span>Разблокировано   {{hero.totals.overall.selected}} / {{hero.totals.overall.total}}</span>
     </div>
     <span class="currentfilter" ng-show="hero.filtering">Выбранный фильтр: {{hero.currentFilters}}</span>
   </div>
