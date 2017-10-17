@@ -75,7 +75,7 @@ things.forEach((thingy, i) => {
     }
 
     if (isEmpty(items)) {
-      console.warn(`${hero} has no items`);
+      console.warn(`У героя ${hero} нет предметов.`);
     }
 
     // if i == 1 we're on newRawData, add the new items on top of existing data
