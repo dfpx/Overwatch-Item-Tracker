@@ -38,7 +38,7 @@ OWI.controller('MainCtrl', ["$rootScope", "$q", "$document", "$uibModal", "DataS
     vm.showNav = false;
     var heroOrEventID = toParams.id;
     if (!heroOrEventID) {
-      vm.item = { name: 'Home' };
+      vm.item = { name: 'Главная' };
     } else {
       DataService.getHeroOrEventName(toState.name, heroOrEventID).then(function(data) {
         vm.item = data;
