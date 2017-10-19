@@ -38,14 +38,14 @@
 
 ###### Локальный запуск
 
-Для запуска вам понадобится веб-сервер с поддержкой AngularJS, например – [NodeJS](http://nodejs.org/dist/latest/).
-<code>
+Для запуска вам понадобится веб-сервер с поддержкой AngularJS, например – [NodeJS](http://nodejs.org/dist/latest/):
+````bash
 npm install
 npm install -g http-server
 http-server -o
-</code>
+````
 
 Или же встроенный веб-сервер [Python](https://www.python.org/downloads/windows/):
-<code>
+````bash
 python -m http.server
-</code>
+````
