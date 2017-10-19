@@ -9,7 +9,7 @@
     },
     "events": {
         "WINTER_WONDERLAND_2016": {
-            "name": "Winter Wonderland 2016",
+            "name": "Зимняя Сказка",
             "id": "WINTER_WONDERLAND_2016",
             "dates": {
                 "start": "1481652000000",
@@ -359,7 +359,7 @@
                     "ornamentID": "tracer-ornament",
                     "ornamentURL": "./resources/heroes/tracer/sprays/tracer-ornament.png"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Ornament",
                     "id": "widowmaker-ornament",
@@ -368,7 +368,7 @@
                     "ornamentID": "widowmaker-ornament",
                     "ornamentURL": "./resources/heroes/widowmaker/sprays/widowmaker-ornament.png"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Skiing",
                     "id": "widowmaker-skiing",
@@ -599,7 +599,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/tracer/voicelines/tracer-its-in-the-bag.ogg"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Exquisite",
                     "id": "widowmaker-exquisite",
@@ -795,7 +795,7 @@
                     "quality": "epic",
                     "url": "./resources/updates/WINTER_WONDERLAND_2016/intros/symmetra-snowflakes.webm"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Under the Mistletoe",
                     "id": "widowmaker-under-the-mistletoe",
@@ -940,7 +940,7 @@
             }
         },
         "YEAR_OF_THE_ROOSTER_2017": {
-            "name": "Year of the Rooster 2017",
+            "name": "Год Петуха",
             "id": "YEAR_OF_THE_ROOSTER_2017",
             "dates": {
                 "start": "1485280800000",
@@ -1333,7 +1333,7 @@
                     "dragonID": "tracer-dragon-dance",
                     "dragonURL": "./resources/heroes/tracer/sprays/tracer-dragon-dance.png"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Dragon Dance",
                     "id": "widowmaker-dragon-dance",
@@ -1342,7 +1342,7 @@
                     "dragonID": "widowmaker-dragon-dance",
                     "dragonURL": "./resources/heroes/widowmaker/sprays/widowmaker-dragon-dance.png"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Hairpin",
                     "id": "widowmaker-hairpin",
@@ -1577,7 +1577,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/tracer/voicelines/tracer-ready-for-some-fireworks.ogg"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "You have my attention",
                     "id": "widowmaker-you-have-my-attention",
@@ -1874,7 +1874,7 @@
             }
         },
         "UPRISING_2017": {
-            "name": "Uprising 2017",
+            "name": "Мятеж",
             "id": "UPRISING_2017",
             "dates": {
                 "start": "1491937200000",
@@ -1952,7 +1952,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/mercy/sprays/mercy-combat-medic.png"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Flower",
                     "id": "orisa-flower",
@@ -2022,7 +2022,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/tracer/sprays/tracer-slipstream.png"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Wedding",
                     "id": "widowmaker-wedding",
@@ -2239,14 +2239,14 @@
                     "quality": "common",
                     "url": "./resources/heroes/mercy/voicelines/mercy-take-care-of-yourself.ogg"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Error: division by 0",
                     "id": "orisa-error-division-by-0",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/voicelines/orisa-error-division-by-0.ogg"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Functionality still in beta",
                     "id": "orisa-functionality-still-in-beta",
@@ -2379,14 +2379,14 @@
                     "quality": "common",
                     "url": "./resources/heroes/tracer/voicelines/tracer-sorry-im-late.ogg"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "The performance begins",
                     "id": "widowmaker-the-performance-begins",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/voicelines/widowmaker-the-performance-begins.ogg"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Your emotions",
                     "id": "widowmaker-your-emotions",
@@ -2499,7 +2499,7 @@
                     "url": "./resources/updates/UPRISING_2017/skinsLegendary/mercy-combat-medic-ziegler.jpg",
                     "description": "When called upon, Mercy would don her Valkyrie swift-response suit to participate in Overwatch missions."
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Null Sector",
                     "id": "orisa-null-sector",
@@ -2530,7 +2530,7 @@
                     "url": "./resources/updates/UPRISING_2017/skinsLegendary/tracer-cadet-oxton.jpg",
                     "description": "Tracer was put into active duty as an Overwatch agent for the first time during the King's Row uprising."
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Talon",
                     "id": "widowmaker-talon",
@@ -2580,7 +2580,7 @@
                     "id": "drop-pod",
                     "url": "./resources/heroes/all/icons/drop-pod.png"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Lacroix",
                     "id": "widowmaker-lacroix",
@@ -2604,7 +2604,7 @@
                     "achievement": true,
                     "description": "Complete Uprising (All Heroes) with 8 different heroes."
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "OR14-NS",
                     "id": "orisa-or14ns",
@@ -2683,7 +2683,7 @@
             }
         },
         "ANNIVERSARY_2017": {
-            "name": "Anniversary 2017",
+            "name": "Годовщина",
             "id": "ANNIVERSARY_2017",
             "dates": {
                 "start": "1495551600000",
@@ -2761,7 +2761,7 @@
                     "quality": "epic",
                     "url": "./resources/updates/ANNIVERSARY_2017/emotes/mercy-hustle.webm"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Dance",
                     "id": "orisa-dance",
@@ -2831,7 +2831,7 @@
                     "quality": "epic",
                     "url": "./resources/updates/ANNIVERSARY_2017/emotes/tracer-charleston.webm"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Ballet",
                     "id": "widowmaker-ballet",
@@ -2920,7 +2920,7 @@
                     "id": "mercy-jahrestag",
                     "url": "./resources/heroes/mercy/icons/mercy-jahrestag.png"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Aurisa",
                     "id": "orisa-aurisa",
@@ -2980,7 +2980,7 @@
                     "id": "tracer-auxton",
                     "url": "./resources/heroes/tracer/icons/tracer-auxton.png"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "D'or",
                     "id": "widowmaker-dor",
@@ -3085,7 +3085,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/mercy/sprays/mercy-queen-of-clubs.png"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Nine of Spades",
                     "id": "orisa-nine-of-spades",
@@ -3155,7 +3155,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/tracer/sprays/tracer-ace-of-diamonds.png"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Queen of Hearts",
                     "id": "widowmaker-queen-of-hearts",
@@ -3330,14 +3330,14 @@
                     "quality": "common",
                     "url": "./resources/heroes/mercy/voicelines/mercy-youre-welcome.ogg"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Satisfied with protection",
                     "id": "orisa-satsified-with-protection",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/voicelines/orisa-satsified-with-protection.ogg"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Your Compliance",
                     "id": "orisa-your-compliance",
@@ -3470,14 +3470,14 @@
                     "quality": "common",
                     "url": "./resources/heroes/tracer/voicelines/tracer-too-slow.ogg"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Sorry",
                     "id": "widowmaker-sorry",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/voicelines/widowmaker-sorry.ogg"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "What a bore",
                     "id": "widowmaker-what-a-bore",
@@ -3607,7 +3607,7 @@
             }
         },
         "SUMMER_GAMES": {
-            "name": "Summer Games",
+            "name": "Летние Игры",
             "id": "SUMMER_GAMES",
             "dates": {
                 "start": "1502204400000",
@@ -3669,7 +3669,7 @@
                     "url": "./resources/heroes/dva/icons/dva-cycling.png",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "heroName": "Кулак Смерти",
+                    "heroName": "Громобой",
                     "hero": "doomfist",
                     "name": "Shotput",
                     "id": "doomfist-shotput",
@@ -3725,7 +3725,7 @@
                     "url": "./resources/heroes/mercy/icons/mercy-badminton.png",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Javelin",
                     "id": "orisa-javelin",
@@ -3795,7 +3795,7 @@
                     "url": "./resources/heroes/tracer/icons/tracer-track.png",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Gymnastics",
                     "id": "widowmaker-gymnastics",
@@ -3943,7 +3943,7 @@
                     "url": "./resources/heroes/dva/sprays/dva-cycling.png",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "heroName": "Кулак Смерти",
+                    "heroName": "Громобой",
                     "hero": "doomfist",
                     "name": "Shot Put",
                     "id": "doomfist-shot-put",
@@ -4007,7 +4007,7 @@
                     "url": "./resources/heroes/mercy/sprays/mercy-badminton.png",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Javelin",
                     "id": "orisa-javelin",
@@ -4087,7 +4087,7 @@
                     "url": "./resources/heroes/tracer/sprays/tracer-track.png",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Gymnastics",
                     "id": "widowmaker-gymnastics",
@@ -4202,7 +4202,7 @@
                     "url": "./resources/heroes/dva/voicelines/dva-scoreboard.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Кулак Смерти",
+                    "heroName": "Громобой",
                     "hero": "doomfist",
                     "name": "I make medicine sick",
                     "id": "doomfist-i-make-medicine-sick",
@@ -4210,7 +4210,7 @@
                     "url": "./resources/heroes/doomfist/voicelines/doomfist-i-make-medicine-sick.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Кулак Смерти",
+                    "heroName": "Громобой",
                     "hero": "doomfist",
                     "name": "Make you punch drunk",
                     "id": "doomfist-make-you-punch-drunk",
@@ -4330,7 +4330,7 @@
                     "url": "./resources/heroes/mercy/voicelines/mercy-sponge-or-spray.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Golden",
                     "id": "orisa-golden",
@@ -4338,7 +4338,7 @@
                     "url": "./resources/heroes/orisa/voicelines/orisa-golden.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Grease to your elbow",
                     "id": "orisa-grease-to-your-elbow",
@@ -4490,7 +4490,7 @@
                     "url": "./resources/heroes/tracer/voicelines/tracer-time-out.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "A perfect 10",
                     "id": "widowmaker-a-perfect-10",
@@ -4498,7 +4498,7 @@
                     "url": "./resources/heroes/widowmaker/voicelines/widowmaker-a-perfect-10.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "I don't miss",
                     "id": "widowmaker-i-dont-miss",
@@ -4659,7 +4659,7 @@
                     "url": "./resources/updates/SUMMER_GAMES/poses/tracer-medal.jpg",
                     "isNew": true
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Medal",
                     "id": "widowmaker-medal",
@@ -4726,7 +4726,7 @@
                     "url": "./resources/updates/SUMMER_GAMES/skins/torbjorn-tre-kronor.jpg",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Tricolore",
                     "id": "widowmaker-tricolore",
@@ -4877,7 +4877,7 @@
                     "url": "./resources/updates/SUMMER_GAMES/skinsLegendary/sombra-tulum.jpg",
                     "isNew": true
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Côte d'Azur",
                     "id": "widowmaker-cote-dazur",
@@ -5297,7 +5297,7 @@
                     "url": "./resources/heroes/dva/sprays/dva-trick-or-treat.png",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "heroName": "Кулак Смерти",
+                    "heroName": "Громобой",
                     "hero": "doomfist",
                     "name": "Trick or Treat",
                     "id": "doomfist-trick-or-treat",
@@ -5361,7 +5361,7 @@
                     "url": "./resources/heroes/mercy/sprays/mercy-trick-or-treat.png",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Trick or Treat",
                     "id": "orisa-trick-or-treat",
@@ -5441,7 +5441,7 @@
                     "url": "./resources/heroes/tracer/sprays/tracer-trick-or-treat.png",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Trick or Treat",
                     "id": "widowmaker-trick-or-treat",
@@ -5652,7 +5652,7 @@
                     "url": "./resources/heroes/dva/voicelines/dva-im-not-scared.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Кулак Смерти",
+                    "heroName": "Громобой",
                     "hero": "doomfist",
                     "name": "I have something for you",
                     "id": "doomfist-i-have-something-for-you",
@@ -5660,7 +5660,7 @@
                     "url": "./resources/heroes/doomfist/voicelines/doomfist-i-have-something-for-you.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Кулак Смерти",
+                    "heroName": "Громобой",
                     "hero": "doomfist",
                     "name": "You should be scared",
                     "id": "doomfist-you-should-be-scared",
@@ -5780,7 +5780,7 @@
                     "url": "./resources/heroes/mercy/voicelines/mercy-superstition.ogg",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Be careful",
                     "id": "orisa-be-careful",
@@ -5788,7 +5788,7 @@
                     "url": "./resources/heroes/orisa/voicelines/orisa-be-careful.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Your pulse has increased",
                     "id": "orisa-your-pulse-has-increased",
@@ -5940,7 +5940,7 @@
                     "url": "./resources/heroes/tracer/voicelines/tracer-ooh-scary.ogg",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "Morning spider...",
                     "id": "widowmaker-morning-spider",
@@ -5948,7 +5948,7 @@
                     "url": "./resources/heroes/widowmaker/voicelines/widowmaker-morning-spider.ogg",
                     "isNew": true
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "The party is over",
                     "id": "widowmaker-the-party-is-over",
@@ -6110,7 +6110,7 @@
                     "url": "./resources/updates/HALLOWEEN/poses/mercy-rip.jpg",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "heroName": "Orisa",
+                    "heroName": "Ориса",
                     "hero": "orisa",
                     "name": "Pumpkin Head",
                     "id": "orisa-pumpkin-head",
@@ -6198,7 +6198,7 @@
                     "url": "./resources/updates/HALLOWEEN/poses/tracer-rip.jpg",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "heroName": "Роковая Вдова",
+                    "heroName": "Вдова",
                     "hero": "widowmaker",
                     "name": "R.I.P.",
                     "id": "widowmaker-rip",
@@ -6328,7 +6328,7 @@
                     "event": "ANNIVERSARY_2017",
                     "hero": "pharah"
                 }, {
-                    "name": "Anniversary 2017",
+                    "name": "Годовщина",
                     "id": "anniversary-2017",
                     "event": "ANNIVERSARY_2017",
                     "url": "./resources/heroes/all/icons/anniversary-2017.png"
@@ -6614,7 +6614,7 @@
                     "id": "dominion",
                     "url": "./resources/heroes/all/icons/dominion.png"
                 }, {
-                    "name": "Кулак Смерти",
+                    "name": "Громобой",
                     "id": "doomfist-doomfist",
                     "url": "./resources/heroes/doomfist/icons/doomfist-doomfist.png",
                     "hero": "doomfist"
@@ -7205,7 +7205,7 @@
                     "event": "UPRISING_2017",
                     "hero": "orisa"
                 }, {
-                    "name": "Orisa",
+                    "name": "Ориса",
                     "id": "orisa-orisa",
                     "url": "./resources/heroes/orisa/icons/orisa-orisa.png",
                     "hero": "orisa"
@@ -7762,7 +7762,7 @@
                     "event": "SUMMER_GAMES",
                     "url": "./resources/heroes/all/icons/united-states-of-america.png"
                 }, {
-                    "name": "Uprising 2017",
+                    "name": "Мятеж",
                     "id": "uprising-2017",
                     "event": "UPRISING_2017",
                     "url": "./resources/heroes/all/icons/uprising-2017.png"
@@ -7847,7 +7847,7 @@
                     "hero": "zarya",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Роковая Вдова",
+                    "name": "Вдова",
                     "id": "widowmaker-widowmaker",
                     "url": "./resources/heroes/widowmaker/icons/widowmaker-widowmaker.png",
                     "hero": "widowmaker"
@@ -7857,7 +7857,7 @@
                     "url": "./resources/heroes/winston/icons/winston-winston.png",
                     "hero": "winston"
                 }, {
-                    "name": "Winter Wonderland 2016",
+                    "name": "Зимняя Сказка",
                     "id": "winter-wonderland-2016",
                     "event": "WINTER_WONDERLAND_2016",
                     "url": "./resources/heroes/all/icons/winter-wonderland-2016.png"
@@ -7897,7 +7897,7 @@
                     "hero": "reinhardt",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Year of the Rooster 2017",
+                    "name": "Год Петуха",
                     "id": "year-of-the-rooster-2017",
                     "event": "YEAR_OF_THE_ROOSTER_2017",
                     "url": "./resources/heroes/all/icons/year-of-the-rooster-2017.png"
@@ -8448,7 +8448,7 @@
                     "achievement": true,
                     "description": "Deliver the payload with over 80% health in Uprising on Hard difficulty."
                 }, {
-                    "name": "Anniversary 2017",
+                    "name": "Годовщина",
                     "id": "anniversary-2017",
                     "event": "ANNIVERSARY_2017",
                     "url": "./resources/heroes/all/sprays/anniversary-2017.png",
@@ -10260,7 +10260,7 @@
             }
         },
         "doomfist": {
-            "name": "Кулак Смерти",
+            "name": "Громобой",
             "id": "doomfist",
             "class": "Штурм",
             "description": "One of the leaders of Talon, Doomfist is determined to plunge the world into a new conflict that he believes will make humanity stronger.",
@@ -10383,7 +10383,7 @@
                     "url": "./resources/heroes/doomfist/intros/doomfist-uppercut.webm"
                 }],
                 "icons": [{
-                    "name": "Кулак Смерти",
+                    "name": "Громобой",
                     "id": "doomfist-doomfist",
                     "url": "./resources/heroes/doomfist/icons/doomfist-doomfist.png",
                     "hero": "doomfist"
@@ -14511,7 +14511,7 @@
             }
         },
         "orisa": {
-            "name": "Orisa",
+            "name": "Ориса",
             "id": "orisa",
             "class": "Танк",
             "description": "Built from parts of one of Numbani's short-lived OR15 defense robots, Orisa is the city's newest protector, though she still has much to learn.",
@@ -14651,7 +14651,7 @@
                     "url": "./resources/heroes/orisa/icons/orisa-efi.png",
                     "hero": "orisa"
                 }, {
-                    "name": "Orisa",
+                    "name": "Ориса",
                     "id": "orisa-orisa",
                     "url": "./resources/heroes/orisa/icons/orisa-orisa.png",
                     "hero": "orisa"
@@ -19939,7 +19939,7 @@
             }
         },
         "widowmaker": {
-            "name": "Роковая Вдова",
+            "name": "Вдова",
             "id": "widowmaker",
             "class": "Защита",
             "description": "Widowmaker is the perfect assassin: a patient, ruthlessly efficient killer who shows neither emotion nor remorse.",
@@ -20110,7 +20110,7 @@
                     "url": "./resources/heroes/widowmaker/icons/widowmaker-grappling-hook.png",
                     "hero": "widowmaker"
                 }, {
-                    "name": "Роковая Вдова",
+                    "name": "Вдова",
                     "id": "widowmaker-widowmaker",
                     "url": "./resources/heroes/widowmaker/icons/widowmaker-widowmaker.png",
                     "hero": "widowmaker"
