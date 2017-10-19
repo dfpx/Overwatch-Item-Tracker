@@ -4999,7 +4999,7 @@
                 "skinsLegendary": [{
                     "heroName": "Ана",
                     "hero": "ana",
-                    "name": "Corsair",
+                    "name": "Корсар",
                     "id": "ana-corsair",
                     "quality": "legendary",
                     "url": "./resources/updates/HALLOWEEN/skinsLegendary/ana-corsair.jpg",
@@ -5105,7 +5105,7 @@
                 "icons": [{
                     "heroName": "Ана",
                     "hero": "ana",
-                    "name": "Corsair",
+                    "name": "Корсар",
                     "id": "ana-corsair",
                     "url": "./resources/heroes/ana/icons/ana-corsair.png",
                     "isNew": true
@@ -6535,7 +6535,7 @@
                     "group": "competitive",
                     "description": "Unlocked by achieving top 500 ranking at the end of Copa Lúcioball"
                 }, {
-                    "name": "Corsair",
+                    "name": "Корсар",
                     "id": "ana-corsair",
                     "url": "./resources/heroes/ana/icons/ana-corsair.png",
                     "event": "HALLOWEEN",
@@ -8689,7 +8689,7 @@
                     "quality": "legendary",
                     "url": "./resources/heroes/ana/skins/ana-wasteland.jpg"
                 }, {
-                    "name": "Corsair",
+                    "name": "Корсар",
                     "id": "ana-corsair",
                     "quality": "legendary",
                     "url": "./resources/heroes/ana/skins/ana-corsair.jpg",
@@ -8799,7 +8799,7 @@
                     "event": "ANNIVERSARY_2017",
                     "hero": "ana"
                 }, {
-                    "name": "Corsair",
+                    "name": "Корсар",
                     "id": "ana-corsair",
                     "url": "./resources/heroes/ana/icons/ana-corsair.png",
                     "event": "HALLOWEEN",
