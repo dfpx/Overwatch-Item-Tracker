@@ -35,7 +35,7 @@ try {
   raw.rawData = fs.readFileSync(`${__dirname}/rawData.txt`, "utf8");
   
 } catch(e) {
-  console.error("Не найден файл allClassData или rawData!");
+  console.error("Не найден файл allClassItems или rawData!");
   process.exit();
 }
 
@@ -67,7 +67,7 @@ things.forEach((thingy, i) => {
     while ((itemMatch = itemGroupRegex.exec(rawItems)) !== null) { // Regex each group and it's items
       items[itemMatch[1].split(' ')[0]] = itemMatch[0].split(/\n\t\t(?!\t)/).slice(1).map(a => a.trim());
     }
-    
+
     // Filter out Uprising bots
     if (!items.COMMON && i == 0) {
       console.warn(`Skipping ${hero} as it has no items`);
@@ -141,7 +141,7 @@ allClassData = reduce(allClassData, (result, items, type) => {
     const isPachiItem = item.id.startsWith('pachi') || item.id.endsWith('mari') ? { group: 'pachi' } : undefined;
     const isStandard = defaultItems[type].includes(item.id) ? { standardItem: true } : undefined;
     const isAchievement = ((type == 'sprays' && achievementSprays.includes(item.id)) || isCompItem) ? { achievement: true } : blizzardItems[type].includes(item.id) ? { achievement: 'blizzard' } : undefined;
-    
+
     // Only purchasable items need a quality
     const quality = (type == 'sprays' && !isStandard && !isAchievement && !isCompItem) ? { quality: 'common' } : undefined;
     const url = getPreviewURL(type, item.id, 'all');
@@ -154,7 +154,7 @@ allClassData = reduce(allClassData, (result, items, type) => {
         description = { description: desc };
       }
     }
-    
+
     // Check for specific item groups
     var group = undefined;
     for (let g in specialItems) {
@@ -165,12 +165,12 @@ allClassData = reduce(allClassData, (result, items, type) => {
     if (isSeasonCompItem && type == 'sprays') {
       const id = `season-${isSeasonCompItem[1]}-hero`;
       const desc2 = getAchievementForItem(item.id);
-      newItems.push(Object.assign({}, { 
-        name: `Season ${isSeasonCompItem[1]} Hero`, 
+      newItems.push(Object.assign({}, {
+        name: `Season ${isSeasonCompItem[1]} Hero`,
         id: id,
         url: getPreviewURL(type, id, 'all'),
-        achievement: true, 
-        group: 'competitive' 
+        achievement: true,
+        group: 'competitive'
       }, desc2 ? { description: desc2 } : undefined));
     }
     return newItems;
