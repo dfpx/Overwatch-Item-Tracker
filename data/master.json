@@ -630,7 +630,7 @@
                 "poses": [{
                     "heroName": "Ана",
                     "hero": "ana",
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "ana-toast",
                     "quality": "rare",
                     "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/ana-toast.jpg"
@@ -651,28 +651,28 @@
                 }, {
                     "heroName": "Фарра",
                     "hero": "pharah",
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "pharah-toast",
                     "quality": "rare",
                     "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/pharah-toast.jpg"
                 }, {
                     "heroName": "Райнхардт",
                     "hero": "reinhardt",
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "reinhardt-toast",
                     "quality": "rare",
                     "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/reinhardt-toast.jpg"
                 }, {
                     "heroName": "Солдат-76",
                     "hero": "soldier-76",
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "soldier-76-toast",
                     "quality": "rare",
                     "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/soldier-76-toast.jpg"
                 }, {
                     "heroName": "Торбьорн",
                     "hero": "torbjorn",
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "torbjorn-toast",
                     "quality": "rare",
                     "url": "./resources/updates/WINTER_WONDERLAND_2016/poses/torbjorn-toast.jpg"
@@ -1254,7 +1254,7 @@
                 }, {
                     "heroName": "Солдат-76",
                     "hero": "soldier-76",
-                    "name": "Folded Hands",
+                    "name": "Сложенные руки",
                     "id": "soldier-76-folded-hands",
                     "quality": "common",
                     "url": "./resources/heroes/soldier-76/sprays/soldier-76-folded-hands.png",
@@ -1608,14 +1608,14 @@
                 "poses": [{
                     "heroName": "Ана",
                     "hero": "ana",
-                    "name": "Folded hands",
+                    "name": "Сложенные руки",
                     "id": "ana-folded-hands",
                     "quality": "rare",
                     "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/ana-folded-hands.jpg"
                 }, {
                     "heroName": "Бастион",
                     "hero": "bastion",
-                    "name": "Firework",
+                    "name": "Фейерверк",
                     "id": "bastion-firework",
                     "quality": "rare",
                     "url": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/bastion-firework.jpg"
@@ -4898,7 +4898,7 @@
                 "skins": [{
                     "heroName": "Ана",
                     "hero": "ana",
-                    "name": "Ghoul",
+                    "name": "Злой дух",
                     "id": "ana-ghoul",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/skins/ana-ghoul.jpg",
@@ -4906,7 +4906,7 @@
                 }, {
                     "heroName": "Бастион",
                     "hero": "bastion",
-                    "name": "Tombstone",
+                    "name": "Надгробие",
                     "id": "bastion-tombstone",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/skins/bastion-tombstone.jpg",
@@ -4914,7 +4914,7 @@
                 }, {
                     "heroName": "Хандзо",
                     "hero": "hanzo",
-                    "name": "Demon",
+                    "name": "Демон",
                     "id": "hanzo-demon",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/skins/hanzo-demon.jpg",
@@ -4922,7 +4922,7 @@
                 }, {
                     "heroName": "Фарра",
                     "hero": "pharah",
-                    "name": "Possessed",
+                    "name": "Одержимая",
                     "id": "pharah-possessed",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/skins/pharah-possessed.jpg",
@@ -4938,7 +4938,7 @@
                 }, {
                     "heroName": "Солдат-76",
                     "hero": "soldier-76",
-                    "name": "Immortal",
+                    "name": "Бессмертный",
                     "id": "soldier-76-immortal",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/skins/soldier-76-immortal.jpg",
@@ -4954,7 +4954,7 @@
                 }, {
                     "heroName": "Дзенъятта",
                     "hero": "zenyatta",
-                    "name": "Skullyatta",
+                    "name": "Тленъятта",
                     "id": "zenyatta-skullyatta",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/skins/zenyatta-skullyatta.jpg",
@@ -4989,7 +4989,7 @@
                 }, {
                     "heroName": "Турбосвин",
                     "hero": "roadhog",
-                    "name": "Junkenstein's Monster",
+                    "name": "Чудовище Крысенштейна",
                     "id": "roadhog-junkensteins-monster",
                     "quality": "legendary",
                     "url": "./resources/updates/HALLOWEEN/skins/roadhog-junkensteins-monster.jpg",
@@ -5047,7 +5047,7 @@
                 }, {
                     "heroName": "Заря",
                     "hero": "zarya",
-                    "name": "Восьмидесятые",
+                    "name": "80-е",
                     "id": "zarya-totally-80s",
                     "quality": "legendary",
                     "url": "./resources/updates/HALLOWEEN/skinsLegendary/zarya-totally-80s.jpg",
@@ -5055,7 +5055,7 @@
                 }, {
                     "heroName": "Дзенъятта",
                     "hero": "zenyatta",
-                    "name": "Cultist",
+                    "name": "Сектант",
                     "id": "zenyatta-cultist",
                     "quality": "legendary",
                     "url": "./resources/updates/HALLOWEEN/skinsLegendary/zenyatta-cultist.jpg",
@@ -5064,7 +5064,7 @@
                 "emotes": [{
                     "heroName": "Ана",
                     "hero": "ana",
-                    "name": "Candy",
+                    "name": "Держи конфетку!",
                     "id": "ana-candy",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/ana-candy.webm",
@@ -5072,7 +5072,7 @@
                 }, {
                     "heroName": "Мэй",
                     "hero": "mei",
-                    "name": "Hopping",
+                    "name": "Прыг... Прыг...",
                     "id": "mei-hopping",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/mei-hopping.webm",
@@ -5080,7 +5080,7 @@
                 }, {
                     "heroName": "Райнхардт",
                     "hero": "reinhardt",
-                    "name": "Pumpkin Smash",
+                    "name": "По тыкве!",
                     "id": "reinhardt-pumpkin-smash",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/reinhardt-pumpkin-smash.webm",
@@ -5088,7 +5088,7 @@
                 }, {
                     "heroName": "Торбьорн",
                     "hero": "torbjorn",
-                    "name": "Batter Up",
+                    "name": "А ну лови!",
                     "id": "torbjorn-batter-up",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/torbjorn-batter-up.webm",
@@ -5096,7 +5096,7 @@
                 }, {
                     "heroName": "Уинстон",
                     "hero": "winston",
-                    "name": "Shadow Puppets",
+                    "name": "Театр теней",
                     "id": "winston-shadow-puppets",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/winston-shadow-puppets.webm",
@@ -5175,14 +5175,14 @@
                 }, {
                     "heroName": "Заря",
                     "hero": "zarya",
-                    "name": "Восьмидесятые",
+                    "name": "80-е",
                     "id": "zarya-totally-80s",
                     "url": "./resources/heroes/zarya/icons/zarya-totally-80s.png",
                     "isNew": true
                 }, {
                     "heroName": "Дзенъятта",
                     "hero": "zenyatta",
-                    "name": "Cultist",
+                    "name": "Сектант",
                     "id": "zenyatta-cultist",
                     "url": "./resources/heroes/zenyatta/icons/zenyatta-cultist.png",
                     "isNew": true
@@ -5218,12 +5218,12 @@
                     "url": "./resources/heroes/all/icons/ghostymari.png"
                 }, {
                     "hero": "all",
-                    "name": "Halloween Terror 2016",
+                    "name": "Ужасы на Хеллоуин 2016",
                     "id": "halloween-terror-2016",
                     "url": "./resources/heroes/all/icons/halloween-terror-2016.png"
                 }, {
                     "hero": "all",
-                    "name": "Halloween Terror 2017",
+                    "name": "Ужасы на Хеллоуин 2017",
                     "id": "halloween-terror-2017",
                     "url": "./resources/heroes/all/icons/halloween-terror-2017.png"
                 }, {
@@ -5248,7 +5248,7 @@
                     "url": "./resources/heroes/all/icons/superstition.png"
                 }, {
                     "hero": "all",
-                    "name": "Tombstone",
+                    "name": "Надгробие",
                     "id": "tombstone",
                     "url": "./resources/heroes/all/icons/tombstone.png"
                 }, {
@@ -5275,7 +5275,7 @@
                 "sprays": [{
                     "heroName": "Ана",
                     "hero": "ana",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "ana-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/ana/sprays/ana-trick-or-treat.png",
@@ -5283,7 +5283,7 @@
                 }, {
                     "heroName": "Бастион",
                     "hero": "bastion",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "bastion-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/bastion/sprays/bastion-trick-or-treat.png",
@@ -5291,7 +5291,7 @@
                 }, {
                     "heroName": "D.Va",
                     "hero": "dva",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "dva-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/dva/sprays/dva-trick-or-treat.png",
@@ -5299,7 +5299,7 @@
                 }, {
                     "heroName": "Громобой",
                     "hero": "doomfist",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "doomfist-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/doomfist/sprays/doomfist-trick-or-treat.png",
@@ -5307,7 +5307,7 @@
                 }, {
                     "heroName": "Гэндзи",
                     "hero": "genji",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "genji-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/genji/sprays/genji-trick-or-treat.png",
@@ -5315,7 +5315,7 @@
                 }, {
                     "heroName": "Хандзо",
                     "hero": "hanzo",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "hanzo-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/hanzo/sprays/hanzo-trick-or-treat.png",
@@ -5323,7 +5323,7 @@
                 }, {
                     "heroName": "Крысавчик",
                     "hero": "junkrat",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "junkrat-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/junkrat/sprays/junkrat-trick-or-treat.png",
@@ -5331,7 +5331,7 @@
                 }, {
                     "heroName": "Лусио",
                     "hero": "lucio",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "lucio-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/lucio/sprays/lucio-trick-or-treat.png",
@@ -5339,7 +5339,7 @@
                 }, {
                     "heroName": "Маккри",
                     "hero": "mccree",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "mccree-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/mccree/sprays/mccree-trick-or-treat.png",
@@ -5347,7 +5347,7 @@
                 }, {
                     "heroName": "Мэй",
                     "hero": "mei",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "mei-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/mei/sprays/mei-trick-or-treat.png",
@@ -5355,7 +5355,7 @@
                 }, {
                     "heroName": "Ангел",
                     "hero": "mercy",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "mercy-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/sprays/mercy-trick-or-treat.png",
@@ -5363,7 +5363,7 @@
                 }, {
                     "heroName": "Ориса",
                     "hero": "orisa",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "orisa-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/sprays/orisa-trick-or-treat.png",
@@ -5371,7 +5371,7 @@
                 }, {
                     "heroName": "Фарра",
                     "hero": "pharah",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "pharah-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/pharah/sprays/pharah-trick-or-treat.png",
@@ -5379,7 +5379,7 @@
                 }, {
                     "heroName": "Жнец",
                     "hero": "reaper",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "reaper-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/reaper/sprays/reaper-trick-or-treat.png",
@@ -5387,7 +5387,7 @@
                 }, {
                     "heroName": "Райнхардт",
                     "hero": "reinhardt",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "reinhardt-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/reinhardt/sprays/reinhardt-trick-or-treat.png",
@@ -5395,7 +5395,7 @@
                 }, {
                     "heroName": "Турбосвин",
                     "hero": "roadhog",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "roadhog-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/roadhog/sprays/roadhog-trick-or-treat.png",
@@ -5403,7 +5403,7 @@
                 }, {
                     "heroName": "Солдат-76",
                     "hero": "soldier-76",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "soldier-76-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/soldier-76/sprays/soldier-76-trick-or-treat.png",
@@ -5411,7 +5411,7 @@
                 }, {
                     "heroName": "Сомбра",
                     "hero": "sombra",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "sombra-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/sombra/sprays/sombra-trick-or-treat.png",
@@ -5419,7 +5419,7 @@
                 }, {
                     "heroName": "Симметра",
                     "hero": "symmetra",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "symmetra-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/sprays/symmetra-trick-or-treat.png",
@@ -5427,7 +5427,7 @@
                 }, {
                     "heroName": "Торбьорн",
                     "hero": "torbjorn",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "torbjorn-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/torbjorn/sprays/torbjorn-trick-or-treat.png",
@@ -5435,7 +5435,7 @@
                 }, {
                     "heroName": "Трейсер",
                     "hero": "tracer",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "tracer-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/tracer/sprays/tracer-trick-or-treat.png",
@@ -5443,7 +5443,7 @@
                 }, {
                     "heroName": "Вдова",
                     "hero": "widowmaker",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "widowmaker-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/sprays/widowmaker-trick-or-treat.png",
@@ -5451,7 +5451,7 @@
                 }, {
                     "heroName": "Уинстон",
                     "hero": "winston",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "winston-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/winston/sprays/winston-trick-or-treat.png",
@@ -5459,7 +5459,7 @@
                 }, {
                     "heroName": "Заря",
                     "hero": "zarya",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "zarya-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/zarya/sprays/zarya-trick-or-treat.png",
@@ -5467,7 +5467,7 @@
                 }, {
                     "heroName": "Дзенъятта",
                     "hero": "zenyatta",
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "zenyatta-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/zenyatta/sprays/zenyatta-trick-or-treat.png",
@@ -5766,7 +5766,7 @@
                 }, {
                     "heroName": "Ангел",
                     "hero": "mercy",
-                    "name": "Sometimes you scare me",
+                    "name": "Иногда ты пугаешь",
                     "id": "mercy-sometimes-you-scare-me",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/voicelines/mercy-sometimes-you-scare-me.ogg",
@@ -5894,7 +5894,7 @@
                 }, {
                     "heroName": "Симметра",
                     "hero": "symmetra",
-                    "name": "A frightening thought",
+                    "name": "Пугающая мысль",
                     "id": "symmetra-a-frightening-thought",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/voicelines/symmetra-a-frightening-thought.ogg",
@@ -5902,7 +5902,7 @@
                 }, {
                     "heroName": "Симметра",
                     "hero": "symmetra",
-                    "name": "The treat is a lie",
+                    "name": "Конфета – это ложь",
                     "id": "symmetra-the-treat-is-a-lie",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/voicelines/symmetra-the-treat-is-a-lie.ogg",
@@ -5950,7 +5950,7 @@
                 }, {
                     "heroName": "Вдова",
                     "hero": "widowmaker",
-                    "name": "The party is over",
+                    "name": "Праздник окончен",
                     "id": "widowmaker-the-party-is-over",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/voicelines/widowmaker-the-party-is-over.ogg",
@@ -6007,7 +6007,7 @@
                 "poses": [{
                     "heroName": "Ана",
                     "hero": "ana",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "ana-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/ana-rip.jpg",
@@ -6015,7 +6015,7 @@
                 }, {
                     "heroName": "Бастион",
                     "hero": "bastion",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "bastion-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/bastion-rip.jpg",
@@ -6024,7 +6024,7 @@
                 }, {
                     "heroName": "D.Va",
                     "hero": "dva",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "dva-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/dva-rip.jpg",
@@ -6032,7 +6032,7 @@
                 }, {
                     "heroName": "Гэндзи",
                     "hero": "genji",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "genji-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/genji-rip.jpg",
@@ -6040,7 +6040,7 @@
                 }, {
                     "heroName": "Хандзо",
                     "hero": "hanzo",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "hanzo-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/hanzo-rip.jpg",
@@ -6048,7 +6048,7 @@
                 }, {
                     "heroName": "Хандзо",
                     "hero": "hanzo",
-                    "name": "Skewered",
+                    "name": "Как в тыкву",
                     "id": "hanzo-skewered",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/hanzo-skewered.jpg",
@@ -6056,7 +6056,7 @@
                 }, {
                     "heroName": "Крысавчик",
                     "hero": "junkrat",
-                    "name": "Тыквоголовый",
+                    "name": "Одно лицо!",
                     "id": "junkrat-pumpkin",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/junkrat-pumpkin.jpg",
@@ -6064,7 +6064,7 @@
                 }, {
                     "heroName": "Крысавчик",
                     "hero": "junkrat",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "junkrat-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/junkrat-rip.jpg",
@@ -6072,7 +6072,7 @@
                 }, {
                     "heroName": "Лусио",
                     "hero": "lucio",
-                    "name": "Pumpkin Control",
+                    "name": "Приём тыквы",
                     "id": "lucio-pumpkin-control",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/lucio-pumpkin-control.jpg",
@@ -6080,7 +6080,7 @@
                 }, {
                     "heroName": "Лусио",
                     "hero": "lucio",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "lucio-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/lucio-rip.jpg",
@@ -6088,7 +6088,7 @@
                 }, {
                     "heroName": "Маккри",
                     "hero": "mccree",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "mccree-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/mccree-rip.jpg",
@@ -6096,7 +6096,7 @@
                 }, {
                     "heroName": "Мэй",
                     "hero": "mei",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "mei-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/mei-rip.jpg",
@@ -6104,7 +6104,7 @@
                 }, {
                     "heroName": "Ангел",
                     "hero": "mercy",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "mercy-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/mercy-rip.jpg",
@@ -6112,7 +6112,7 @@
                 }, {
                     "heroName": "Ориса",
                     "hero": "orisa",
-                    "name": "Pumpkin Head",
+                    "name": "Тыквоголовая",
                     "id": "orisa-pumpkin-head",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/orisa-pumpkin-head.jpg",
@@ -6120,7 +6120,7 @@
                 }, {
                     "heroName": "Фарра",
                     "hero": "pharah",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "pharah-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/pharah-rip.jpg",
@@ -6128,7 +6128,7 @@
                 }, {
                     "heroName": "Жнец",
                     "hero": "reaper",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "reaper-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/reaper-rip.jpg",
@@ -6136,7 +6136,7 @@
                 }, {
                     "heroName": "Райнхардт",
                     "hero": "reinhardt",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "reinhardt-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/reinhardt-rip.jpg",
@@ -6144,7 +6144,7 @@
                 }, {
                     "heroName": "Турбосвин",
                     "hero": "roadhog",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "roadhog-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/roadhog-rip.jpg",
@@ -6152,7 +6152,7 @@
                 }, {
                     "heroName": "Солдат-76",
                     "hero": "soldier-76",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "soldier-76-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/soldier-76-rip.jpg",
@@ -6160,7 +6160,7 @@
                 }, {
                     "heroName": "Сомбра",
                     "hero": "sombra",
-                    "name": "Pumpkinette",
+                    "name": "Тыквомант",
                     "id": "sombra-pumpkinette",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/sombra-pumpkinette.jpg",
@@ -6168,7 +6168,7 @@
                 }, {
                     "heroName": "Симметра",
                     "hero": "symmetra",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "symmetra-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/symmetra-rip.jpg",
@@ -6176,7 +6176,7 @@
                 }, {
                     "heroName": "Торбьорн",
                     "hero": "torbjorn",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "torbjorn-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/torbjorn-rip.jpg",
@@ -6184,7 +6184,7 @@
                 }, {
                     "heroName": "Трейсер",
                     "hero": "tracer",
-                    "name": "Тыквоголовый",
+                    "name": "Тыковка",
                     "id": "tracer-pumpkin",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/tracer-pumpkin.jpg",
@@ -6192,7 +6192,7 @@
                 }, {
                     "heroName": "Трейсер",
                     "hero": "tracer",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "tracer-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/tracer-rip.jpg",
@@ -6200,7 +6200,7 @@
                 }, {
                     "heroName": "Вдова",
                     "hero": "widowmaker",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "widowmaker-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/widowmaker-rip.jpg",
@@ -6208,7 +6208,7 @@
                 }, {
                     "heroName": "Уинстон",
                     "hero": "winston",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "winston-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/winston-rip.jpg",
@@ -6216,7 +6216,7 @@
                 }, {
                     "heroName": "Заря",
                     "hero": "zarya",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "zarya-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/zarya-rip.jpg",
@@ -6224,7 +6224,7 @@
                 }, {
                     "heroName": "Дзенъятта",
                     "hero": "zenyatta",
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "zenyatta-rip",
                     "quality": "rare",
                     "url": "./resources/updates/HALLOWEEN/poses/zenyatta-rip.jpg",
@@ -6233,7 +6233,7 @@
                 "intros": [{
                     "heroName": "Гэндзи",
                     "hero": "genji",
-                    "name": "Pumpkin Carving",
+                    "name": "Резьба по тыкве",
                     "id": "genji-pumpkin-carving",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/intros/genji-pumpkin-carving.webm",
@@ -6241,7 +6241,7 @@
                 }, {
                     "heroName": "Мэй",
                     "hero": "mei",
-                    "name": "Ice Scream",
+                    "name": "Ужастик",
                     "id": "mei-ice-scream",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/intros/mei-ice-scream.webm",
@@ -6249,7 +6249,7 @@
                 }, {
                     "heroName": "Жнец",
                     "hero": "reaper",
-                    "name": "Eternal Rest",
+                    "name": "Привет с того света",
                     "id": "reaper-eternal-rest",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/intros/reaper-eternal-rest.webm",
@@ -6257,7 +6257,7 @@
                 }, {
                     "heroName": "Турбосвин",
                     "hero": "roadhog",
-                    "name": "Footsteps...",
+                    "name": "Поступь",
                     "id": "roadhog-footsteps",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/intros/roadhog-footsteps.webm",
@@ -6550,7 +6550,7 @@
                     "id": "crusader",
                     "url": "./resources/heroes/all/icons/crusader.png"
                 }, {
-                    "name": "Cultist",
+                    "name": "Сектант",
                     "id": "zenyatta-cultist",
                     "url": "./resources/heroes/zenyatta/icons/zenyatta-cultist.png",
                     "event": "HALLOWEEN",
@@ -6873,13 +6873,13 @@
                     "url": "./resources/heroes/mei/icons/mei-hairpin.png",
                     "hero": "mei"
                 }, {
-                    "name": "Halloween Terror 2016",
+                    "name": "Ужасы на Хеллоуин 2016",
                     "id": "halloween-terror-2016",
                     "event": "HALLOWEEN",
                     "url": "./resources/heroes/all/icons/halloween-terror-2016.png"
                 }, {
                     "id": "halloween-terror-2017",
-                    "name": "Halloween Terror 2017",
+                    "name": "Ужасы на Хеллоуин 2017",
                     "event": "HALLOWEEN",
                     "url": "./resources/heroes/all/icons/halloween-terror-2017.png"
                 }, {
@@ -7311,7 +7311,7 @@
                     "event": "WINTER_WONDERLAND_2016",
                     "url": "./resources/heroes/all/icons/present.png"
                 }, {
-                    "name": "Protector",
+                    "name": "Я вас прикрою",
                     "id": "orisa-protector",
                     "url": "./resources/heroes/orisa/icons/orisa-protector.png",
                     "hero": "orisa"
@@ -7709,7 +7709,7 @@
                     "hero": "mercy",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "name": "Tombstone",
+                    "name": "Надгробие",
                     "id": "tombstone",
                     "event": "HALLOWEEN",
                     "url": "./resources/heroes/all/icons/tombstone.png"
@@ -7725,7 +7725,7 @@
                     "url": "./resources/heroes/torbjorn/icons/torbjorn-torbjorn.png",
                     "hero": "torbjorn"
                 }, {
-                    "name": "Восьмидесятые",
+                    "name": "80-е",
                     "id": "zarya-totally-80s",
                     "url": "./resources/heroes/zarya/icons/zarya-totally-80s.png",
                     "event": "HALLOWEEN",
@@ -8654,26 +8654,26 @@
                     "url": "./resources/heroes/ana/skins/ana-shrike.jpg",
                     "description": "Recently, Ana has operated under the alias of \"Shrike\" and is wanted for espionage, assault, and theft in Egypt."
                 }, {
-                    "name": "Ghoul",
+                    "name": "Злой Дух",
                     "id": "ana-ghoul",
                     "quality": "epic",
                     "url": "./resources/heroes/ana/skins/ana-ghoul.jpg",
                     "event": "HALLOWEEN",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "name": "Tal",
+                    "name": "Тхаль",
                     "id": "ana-tal",
                     "quality": "epic",
                     "url": "./resources/heroes/ana/skins/ana-tal.jpg",
                     "event": "YEAR_OF_THE_ROOSTER_2017"
                 }, {
-                    "name": "Captain Amari",
+                    "name": "Капитан Амари",
                     "id": "ana-captain-amari",
                     "quality": "legendary",
                     "url": "./resources/heroes/ana/skins/ana-captain-amari.jpg",
-                    "description": "Captain Ana Amari was Strike Commander Morrison's second in command of Overwatch."
+                    "description": "В годы восстания машин, когда Ана служила в египетской армии, её позывным был «Гор»."
                 }, {
-                    "name": "Horus",
+                    "name": "Гор",
                     "id": "ana-horus",
                     "quality": "legendary",
                     "url": "./resources/heroes/ana/skins/ana-horus.jpg",
@@ -8684,7 +8684,7 @@
                     "quality": "legendary",
                     "url": "./resources/heroes/ana/skins/ana-wadjet.jpg"
                 }, {
-                    "name": "Wasteland",
+                    "name": "Пустоши",
                     "id": "ana-wasteland",
                     "quality": "legendary",
                     "url": "./resources/heroes/ana/skins/ana-wasteland.jpg"
@@ -8697,13 +8697,13 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "ana-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/ana/emotes/ana-heroic.webm",
                     "standardItem": true
                 }, {
-                    "name": "Disapproving",
+                    "name": "Неодобрение",
                     "id": "ana-disapproving",
                     "quality": "epic",
                     "url": "./resources/heroes/ana/emotes/ana-disapproving.webm"
@@ -8713,12 +8713,12 @@
                     "quality": "epic",
                     "url": "./resources/heroes/ana/emotes/ana-not-impressed.webm"
                 }, {
-                    "name": "Protector",
+                    "name": "Я вас прикрою",
                     "id": "ana-protector",
                     "quality": "epic",
                     "url": "./resources/heroes/ana/emotes/ana-protector.webm"
                 }, {
-                    "name": "Take a Knee",
+                    "name": "На колено",
                     "id": "ana-take-a-knee",
                     "quality": "epic",
                     "url": "./resources/heroes/ana/emotes/ana-take-a-knee.webm"
@@ -8728,7 +8728,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/ana/emotes/ana-tea-time.webm"
                 }, {
-                    "name": "Candy",
+                    "name": "Держи конфетку!",
                     "id": "ana-candy",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/ana-candy.webm",
@@ -8749,23 +8749,23 @@
                     "isNew": true
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "ana-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/ana/intros/ana-heroic.webm",
                     "standardItem": true
                 }, {
-                    "name": "Guardian",
+                    "name": "Всегда на страже",
                     "id": "ana-guardian",
                     "quality": "epic",
                     "url": "./resources/heroes/ana/intros/ana-guardian.webm"
                 }, {
-                    "name": "Locked On",
+                    "name": "Ты – моя цель",
                     "id": "ana-locked-on",
                     "quality": "epic",
                     "url": "./resources/heroes/ana/intros/ana-locked-on.webm"
                 }, {
-                    "name": "Shh...",
+                    "name": "ТС-С!",
                     "id": "ana-shh",
                     "quality": "epic",
                     "url": "./resources/heroes/ana/intros/ana-shh.webm"
@@ -8852,7 +8852,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/ana/sprays/ana-grenade.png"
                 }, {
-                    "name": "Guardian",
+                    "name": "Всегда на страже",
                     "id": "ana-guardian",
                     "quality": "common",
                     "url": "./resources/heroes/ana/sprays/ana-guardian.png"
@@ -8934,7 +8934,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "ana-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/ana/sprays/ana-trick-or-treat.png",
@@ -8977,14 +8977,14 @@
                     "url": "./resources/heroes/ana/sprays/ana-ace-of-hearts.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "ana-cute",
                     "quality": "common",
                     "url": "./resources/heroes/ana/sprays/ana-cute.png",
                     "achievement": true,
                     "description": "Get 4 kills or assists with a single use of Ana's Nano Boost in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "ana-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/ana/sprays/ana-pixel.png",
@@ -9113,41 +9113,41 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "ana-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/ana/poses/ana-heroic.jpg",
                     "standardItem": true
                 }, {
-                    "name": "Mission Complete",
+                    "name": "Задание выполнено",
                     "id": "ana-mission-complete",
                     "quality": "rare",
                     "url": "./resources/heroes/ana/poses/ana-mission-complete.jpg"
                 }, {
-                    "name": "Protector",
+                    "name": "Я вас прикрою",
                     "id": "ana-protector",
                     "quality": "rare",
                     "url": "./resources/heroes/ana/poses/ana-protector.jpg"
                 }, {
-                    "name": "Seated",
+                    "name": "Сидя",
                     "id": "ana-seated",
                     "quality": "rare",
                     "url": "./resources/heroes/ana/poses/ana-seated.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "ana-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/ana/poses/ana-rip.jpg",
                     "event": "HALLOWEEN",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "ana-toast",
                     "quality": "rare",
                     "url": "./resources/heroes/ana/poses/ana-toast.jpg",
                     "event": "WINTER_WONDERLAND_2016"
                 }, {
-                    "name": "Folded hands",
+                    "name": "Сложенные руки",
                     "id": "ana-folded-hands",
                     "quality": "rare",
                     "url": "./resources/heroes/ana/poses/ana-folded-hands.jpg",
@@ -9203,7 +9203,7 @@
                     "url": "./resources/heroes/bastion/skins/bastion-omnic-crisis.jpg",
                     "description": "During the Omnic Crisis, Bastion units fought against humans in battles around the world."
                 }, {
-                    "name": "Tombstone",
+                    "name": "Надгробие",
                     "id": "bastion-tombstone",
                     "quality": "epic",
                     "url": "./resources/heroes/bastion/skins/bastion-tombstone.jpg",
@@ -9263,7 +9263,7 @@
                     "achievement": "blizzard"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "bastion-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/bastion/emotes/bastion-heroic.webm",
@@ -9308,7 +9308,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "bastion-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/bastion/intros/bastion-heroic.webm",
@@ -9481,7 +9481,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "bastion-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/bastion/sprays/bastion-trick-or-treat.png",
@@ -9524,14 +9524,14 @@
                     "url": "./resources/heroes/bastion/sprays/bastion-ten-of-clubs.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "bastion-cute",
                     "quality": "common",
                     "url": "./resources/heroes/bastion/sprays/bastion-cute.png",
                     "achievement": true,
                     "description": "Kill 4 enemies with a single use of Bastion's Configuration: Tank in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "bastion-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/bastion/sprays/bastion-pixel.png",
@@ -9660,7 +9660,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "bastion-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/bastion/poses/bastion-heroic.jpg",
@@ -9681,7 +9681,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/bastion/poses/bastion-tank.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "bastion-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/bastion/poses/bastion-rip.jpg",
@@ -9799,7 +9799,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "dva-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/dva/emotes/dva-heroic.webm",
@@ -9843,7 +9843,7 @@
                     "url": "./resources/heroes/dva/emotes/dva-game-on.webm"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "dva-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/dva/intros/dva-heroic.webm",
@@ -10038,7 +10038,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "dva-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/dva/sprays/dva-trick-or-treat.png",
@@ -10081,14 +10081,14 @@
                     "url": "./resources/heroes/dva/sprays/dva-ten-of-hearts.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "dva-cute",
                     "quality": "common",
                     "url": "./resources/heroes/dva/sprays/dva-cute.png",
                     "achievement": true,
                     "description": "Kill 4 enemies with a single use of D.va's Self Destruct in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "dva-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/dva/sprays/dva-pixel.png",
@@ -10217,7 +10217,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "dva-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/dva/poses/dva-heroic.jpg",
@@ -10238,7 +10238,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/dva/poses/dva-sitting.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "dva-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/dva/poses/dva-rip.jpg",
@@ -10329,7 +10329,7 @@
                     "url": "./resources/heroes/doomfist/skins/doomfist-spirit.jpg"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "doomfist-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/doomfist/emotes/doomfist-heroic.webm",
@@ -10350,7 +10350,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/doomfist/emotes/doomfist-ready-for-battle.webm"
                 }, {
-                    "name": "Take a Knee",
+                    "name": "На колено",
                     "id": "doomfist-take-a-knee",
                     "quality": "epic",
                     "url": "./resources/heroes/doomfist/emotes/doomfist-take-a-knee.webm"
@@ -10361,7 +10361,7 @@
                     "url": "./resources/heroes/doomfist/emotes/doomfist-thumbs-down.webm"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "doomfist-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/doomfist/intros/doomfist-heroic.webm",
@@ -10528,21 +10528,21 @@
                     "event": "SUMMER_GAMES",
                     "isNew": true
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "doomfist-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/doomfist/sprays/doomfist-trick-or-treat.png",
                     "event": "HALLOWEEN",
                     "isNew": true
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "doomfist-cute",
                     "quality": "common",
                     "url": "./resources/heroes/doomfist/sprays/doomfist-cute.png",
                     "achievement": true,
                     "description": "Hit 6 enemies with a single use of Doomfist's Meteor Strike in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "doomfist-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/doomfist/sprays/doomfist-pixel.png",
@@ -10635,7 +10635,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "doomfist-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/doomfist/poses/doomfist-heroic.jpg",
@@ -10755,7 +10755,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "genji-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/genji/emotes/genji-heroic.webm",
@@ -10793,7 +10793,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "genji-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/genji/intros/genji-heroic.webm",
@@ -10814,7 +10814,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/genji/intros/genji-warriors-salute.webm"
                 }, {
-                    "name": "Pumpkin Carving",
+                    "name": "Резьба по тыкве",
                     "id": "genji-pumpkin-carving",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/intros/genji-pumpkin-carving.webm",
@@ -10989,7 +10989,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "genji-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/genji/sprays/genji-trick-or-treat.png",
@@ -11032,14 +11032,14 @@
                     "url": "./resources/heroes/genji/sprays/genji-jack-of-clubs.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "genji-cute",
                     "quality": "common",
                     "url": "./resources/heroes/genji/sprays/genji-cute.png",
                     "achievement": true,
                     "description": "Kill 4 enemies with a single use of Genji's Dragonblade in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "genji-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/genji/sprays/genji-pixel.png",
@@ -11168,7 +11168,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "genji-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/genji/poses/genji-heroic.jpg",
@@ -11189,7 +11189,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/genji/poses/genji-sword-stance.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "genji-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/genji/poses/genji-rip.jpg",
@@ -11251,7 +11251,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/hanzo/skins/hanzo-dragon.jpg"
                 }, {
-                    "name": "Demon",
+                    "name": "Демон",
                     "id": "hanzo-demon",
                     "quality": "epic",
                     "url": "./resources/heroes/hanzo/skins/hanzo-demon.jpg",
@@ -11287,7 +11287,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "hanzo-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/hanzo/emotes/hanzo-heroic.webm",
@@ -11331,7 +11331,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "hanzo-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/hanzo/intros/hanzo-heroic.webm",
@@ -11511,7 +11511,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "hanzo-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/hanzo/sprays/hanzo-trick-or-treat.png",
@@ -11554,14 +11554,14 @@
                     "url": "./resources/heroes/hanzo/sprays/hanzo-king-of-diamonds.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "hanzo-cute",
                     "quality": "common",
                     "url": "./resources/heroes/hanzo/sprays/hanzo-cute.png",
                     "achievement": true,
                     "description": "Kill 4 enemies with one of Hanzo's Spirit Dragons in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "hanzo-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/hanzo/sprays/hanzo-pixel.png",
@@ -11690,7 +11690,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "hanzo-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/hanzo/poses/hanzo-heroic.jpg",
@@ -11711,7 +11711,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/hanzo/poses/hanzo-over-the-shoulder.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "hanzo-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/hanzo/poses/hanzo-rip.jpg",
@@ -11725,7 +11725,7 @@
                     "event": "SUMMER_GAMES",
                     "isNew": true
                 }, {
-                    "name": "Skewered",
+                    "name": "Как в тыкву",
                     "id": "hanzo-skewered",
                     "quality": "rare",
                     "url": "./resources/heroes/hanzo/poses/hanzo-skewered.jpg",
@@ -11828,7 +11828,7 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "junkrat-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/junkrat/emotes/junkrat-heroic.webm",
@@ -11872,7 +11872,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "junkrat-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/junkrat/intros/junkrat-heroic.webm",
@@ -12059,7 +12059,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "junkrat-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/junkrat/sprays/junkrat-trick-or-treat.png",
@@ -12102,14 +12102,14 @@
                     "url": "./resources/heroes/junkrat/sprays/junkrat-joker.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "junkrat-cute",
                     "quality": "common",
                     "url": "./resources/heroes/junkrat/sprays/junkrat-cute.png",
                     "achievement": true,
                     "description": "Kill 4 enemies with a single use of Junkrat's RIP-Tire in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "junkrat-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/junkrat/sprays/junkrat-pixel.png",
@@ -12238,7 +12238,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "junkrat-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/junkrat/poses/junkrat-heroic.jpg",
@@ -12259,7 +12259,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/junkrat/poses/junkrat-nyah-nyah.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "junkrat-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/junkrat/poses/junkrat-rip.jpg",
@@ -12279,7 +12279,7 @@
                     "event": "SUMMER_GAMES",
                     "isNew": true
                 }, {
-                    "name": "Тыквоголовый",
+                    "name": "Одно лицо!",
                     "id": "junkrat-pumpkin",
                     "quality": "rare",
                     "url": "./resources/heroes/junkrat/poses/junkrat-pumpkin.jpg",
@@ -12387,7 +12387,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "lucio-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/lucio/emotes/lucio-heroic.webm",
@@ -12432,7 +12432,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "lucio-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/lucio/intros/lucio-heroic.webm",
@@ -12612,7 +12612,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "lucio-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/lucio/sprays/lucio-trick-or-treat.png",
@@ -12655,14 +12655,14 @@
                     "url": "./resources/heroes/lucio/sprays/lucio-jack-of-diamonds.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "lucio-cute",
                     "quality": "common",
                     "url": "./resources/heroes/lucio/sprays/lucio-cute.png",
                     "achievement": true,
                     "description": "Block 1000 damage with a single use of Lúcio's Sound Barrier in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "lucio-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/lucio/sprays/lucio-pixel.png",
@@ -12791,7 +12791,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "lucio-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/lucio/poses/lucio-heroic.jpg",
@@ -12812,7 +12812,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/lucio/poses/lucio-ready-for-action.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "lucio-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/lucio/poses/lucio-rip.jpg",
@@ -12825,7 +12825,7 @@
                     "url": "./resources/heroes/lucio/poses/lucio-handstand.jpg",
                     "event": "UPRISING_2017"
                 }, {
-                    "name": "Pumpkin Control",
+                    "name": "Приём тыквы",
                     "id": "lucio-pumpkin-control",
                     "quality": "rare",
                     "url": "./resources/heroes/lucio/poses/lucio-pumpkin-control.jpg",
@@ -12936,7 +12936,7 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "mccree-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/mccree/emotes/mccree-heroic.webm",
@@ -12980,7 +12980,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "mccree-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/mccree/intros/mccree-heroic.webm",
@@ -13166,7 +13166,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "mccree-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/mccree/sprays/mccree-trick-or-treat.png",
@@ -13209,14 +13209,14 @@
                     "url": "./resources/heroes/mccree/sprays/mccree-jack-of-spades.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "mccree-cute",
                     "quality": "common",
                     "url": "./resources/heroes/mccree/sprays/mccree-cute.png",
                     "achievement": true,
                     "description": "Get 4 killing blows with a single use of McCree's Deadeye in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "mccree-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/mccree/sprays/mccree-pixel.png",
@@ -13345,7 +13345,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "mccree-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/mccree/poses/mccree-heroic.jpg",
@@ -13366,7 +13366,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/mccree/poses/mccree-take-it-easy.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "mccree-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/mccree/poses/mccree-rip.jpg",
@@ -13482,7 +13482,7 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "mei-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/mei/emotes/mei-heroic.webm",
@@ -13531,7 +13531,7 @@
                     "url": "./resources/updates/ANNIVERSARY_2017/emotes/mei-sunny-dance.webm",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Hopping",
+                    "name": "Прыг... Прыг...",
                     "id": "mei-hopping",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/mei-hopping.webm",
@@ -13539,7 +13539,7 @@
                     "isNew": true
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "mei-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/mei/intros/mei-heroic.webm",
@@ -13560,7 +13560,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/mei/intros/mei-skating-around.webm"
                 }, {
-                    "name": "Ice Scream",
+                    "name": "Ужастик",
                     "id": "mei-ice-scream",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/intros/mei-ice-scream.webm",
@@ -13732,7 +13732,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "mei-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/mei/sprays/mei-trick-or-treat.png",
@@ -13775,14 +13775,14 @@
                     "url": "./resources/heroes/mei/sprays/mei-ten-of-diamonds.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "mei-cute",
                     "quality": "common",
                     "url": "./resources/heroes/mei/sprays/mei-cute.png",
                     "achievement": true,
                     "description": "Freeze 4 enemies at once with Mei in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "mei-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/mei/sprays/mei-pixel.png",
@@ -13911,7 +13911,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "mei-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/mei/poses/mei-heroic.jpg",
@@ -13939,7 +13939,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "mei-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/mei/poses/mei-rip.jpg",
@@ -14058,7 +14058,7 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "mercy-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/emotes/mercy-heroic.webm",
@@ -14096,7 +14096,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "mercy-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/intros/mercy-heroic.webm",
@@ -14288,7 +14288,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "mercy-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/sprays/mercy-trick-or-treat.png",
@@ -14331,14 +14331,14 @@
                     "url": "./resources/heroes/mercy/sprays/mercy-queen-of-clubs.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "mercy-cute",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/sprays/mercy-cute.png",
                     "achievement": true,
                     "description": "Resurrect 4 players at once with Mercy in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "mercy-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/sprays/mercy-pixel.png",
@@ -14362,7 +14362,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/mercy/voicelines/mercy-doctors-orders.ogg"
                 }, {
-                    "name": "How Barbaric",
+                    "name": "Ну и варварство",
                     "id": "mercy-how-barbaric",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/voicelines/mercy-how-barbaric.ogg"
@@ -14459,7 +14459,7 @@
                     "event": "SUMMER_GAMES",
                     "isNew": true
                 }, {
-                    "name": "Sometimes you scare me",
+                    "name": "Иногда ты пугаешь",
                     "id": "mercy-sometimes-you-scare-me",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/voicelines/mercy-sometimes-you-scare-me.ogg",
@@ -14467,7 +14467,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "mercy-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/mercy/poses/mercy-heroic.jpg",
@@ -14488,7 +14488,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/mercy/poses/mercy-ready-for-battle.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "mercy-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/mercy/poses/mercy-rip.jpg",
@@ -14573,7 +14573,7 @@
                     "quality": "legendary",
                     "url": "./resources/heroes/orisa/skins/orisa-megasoma.jpg"
                 }, {
-                    "name": "Protector",
+                    "name": "Я вас прикрою",
                     "id": "orisa-protector",
                     "quality": "legendary",
                     "url": "./resources/heroes/orisa/skins/orisa-protector.jpg"
@@ -14586,7 +14586,7 @@
                     "event": "UPRISING_2017"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "orisa-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/emotes/orisa-heroic.webm",
@@ -14624,7 +14624,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "orisa-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/intros/orisa-heroic.webm",
@@ -14656,7 +14656,7 @@
                     "url": "./resources/heroes/orisa/icons/orisa-orisa.png",
                     "hero": "orisa"
                 }, {
-                    "name": "Protector",
+                    "name": "Я вас прикрою",
                     "id": "orisa-protector",
                     "url": "./resources/heroes/orisa/icons/orisa-protector.png",
                     "hero": "orisa"
@@ -14731,7 +14731,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/orisa/sprays/orisa-drumming.png"
                 }, {
-                    "name": "Guardian",
+                    "name": "Всегда на страже",
                     "id": "orisa-guardian",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/sprays/orisa-guardian.png"
@@ -14756,7 +14756,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/orisa/sprays/orisa-kick.png"
                 }, {
-                    "name": "Protector",
+                    "name": "Я вас прикрою",
                     "id": "orisa-protector",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/sprays/orisa-protector.png"
@@ -14815,21 +14815,21 @@
                     "event": "SUMMER_GAMES",
                     "isNew": true
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "orisa-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/sprays/orisa-trick-or-treat.png",
                     "event": "HALLOWEEN",
                     "isNew": true
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "orisa-cute",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/sprays/orisa-cute.png",
                     "achievement": true,
                     "description": "Amplify 900 damage with a single use of Orisa's Supercharger in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "orisa-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/sprays/orisa-pixel.png",
@@ -14946,7 +14946,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "orisa-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/orisa/poses/orisa-heroic.jpg",
@@ -14967,7 +14967,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/orisa/poses/orisa-halt.jpg"
                 }, {
-                    "name": "Pumpkin Head",
+                    "name": "Тыквоголовая",
                     "id": "orisa-pumpkin-head",
                     "quality": "rare",
                     "url": "./resources/heroes/orisa/poses/orisa-pumpkin-head.jpg",
@@ -15024,7 +15024,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/pharah/skins/pharah-jackal.jpg"
                 }, {
-                    "name": "Possessed",
+                    "name": "Одержимая",
                     "id": "pharah-possessed",
                     "quality": "epic",
                     "url": "./resources/heroes/pharah/skins/pharah-possessed.jpg",
@@ -15071,7 +15071,7 @@
                     "achievement": "blizzard"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "pharah-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/pharah/emotes/pharah-heroic.webm",
@@ -15115,7 +15115,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "pharah-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/pharah/intros/pharah-heroic.webm",
@@ -15126,7 +15126,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/pharah/intros/pharah-barrage.webm"
                 }, {
-                    "name": "Mission Complete",
+                    "name": "Задание выполнено",
                     "id": "pharah-mission-complete",
                     "quality": "epic",
                     "url": "./resources/heroes/pharah/intros/pharah-mission-complete.webm"
@@ -15198,7 +15198,7 @@
                     "quality": "common",
                     "url": "./resources/heroes/pharah/sprays/pharah-concussive-blast.png"
                 }, {
-                    "name": "Guardian",
+                    "name": "Всегда на страже",
                     "id": "pharah-guardian",
                     "quality": "common",
                     "url": "./resources/heroes/pharah/sprays/pharah-guardian.png"
@@ -15295,7 +15295,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "pharah-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/pharah/sprays/pharah-trick-or-treat.png",
@@ -15338,14 +15338,14 @@
                     "url": "./resources/heroes/pharah/sprays/pharah-queen-of-diamonds.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "pharah-cute",
                     "quality": "common",
                     "url": "./resources/heroes/pharah/sprays/pharah-cute.png",
                     "achievement": true,
                     "description": "Kill 4 enemies in a row without touching the ground as Pharah in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "pharah-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/pharah/sprays/pharah-pixel.png",
@@ -15474,13 +15474,13 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "pharah-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/pharah/poses/pharah-heroic.jpg",
                     "standardItem": true
                 }, {
-                    "name": "Guardian",
+                    "name": "Всегда на страже",
                     "id": "pharah-guardian",
                     "quality": "rare",
                     "url": "./resources/heroes/pharah/poses/pharah-guardian.jpg"
@@ -15502,14 +15502,14 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "pharah-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/pharah/poses/pharah-rip.jpg",
                     "event": "HALLOWEEN",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "pharah-toast",
                     "quality": "rare",
                     "url": "./resources/heroes/pharah/poses/pharah-toast.jpg",
@@ -15621,7 +15621,7 @@
                     "achievement": "blizzard"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "reaper-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/reaper/emotes/reaper-heroic.webm",
@@ -15664,7 +15664,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "reaper-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/reaper/intros/reaper-heroic.webm",
@@ -15685,7 +15685,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/reaper/intros/reaper-shadow-step.webm"
                 }, {
-                    "name": "Eternal Rest",
+                    "name": "Привет с того света",
                     "id": "reaper-eternal-rest",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/intros/reaper-eternal-rest.webm",
@@ -15863,7 +15863,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "reaper-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/reaper/sprays/reaper-trick-or-treat.png",
@@ -15906,14 +15906,14 @@
                     "url": "./resources/heroes/reaper/sprays/reaper-ace-of-clubs.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "reaper-cute",
                     "quality": "common",
                     "url": "./resources/heroes/reaper/sprays/reaper-cute.png",
                     "achievement": true,
                     "description": "Kill 4 enemies with a single use of Reaper's Death Blossom in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "reaper-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/reaper/sprays/reaper-pixel.png",
@@ -16042,7 +16042,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "reaper-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/reaper/poses/reaper-heroic.jpg",
@@ -16075,7 +16075,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "reaper-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/reaper/poses/reaper-rip.jpg",
@@ -16185,7 +16185,7 @@
                     "event": "YEAR_OF_THE_ROOSTER_2017"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "reinhardt-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/reinhardt/emotes/reinhardt-heroic.webm",
@@ -16216,7 +16216,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/reinhardt/emotes/reinhardt-warriors-salute.webm"
                 }, {
-                    "name": "Pumpkin Smash",
+                    "name": "По тыкве!",
                     "id": "reinhardt-pumpkin-smash",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/reinhardt-pumpkin-smash.webm",
@@ -16230,7 +16230,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "reinhardt-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/reinhardt/intros/reinhardt-heroic.webm",
@@ -16415,7 +16415,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "reinhardt-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/reinhardt/sprays/reinhardt-trick-or-treat.png",
@@ -16458,14 +16458,14 @@
                     "url": "./resources/heroes/reinhardt/sprays/reinhardt-king-of-hearts.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "reinhardt-cute",
                     "quality": "common",
                     "url": "./resources/heroes/reinhardt/sprays/reinhardt-cute.png",
                     "achievement": true,
                     "description": "Land Reinhardt's Fire Strike and Charge after an Earthshatter stun in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "reinhardt-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/reinhardt/sprays/reinhardt-pixel.png",
@@ -16594,7 +16594,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "reinhardt-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/reinhardt/poses/reinhardt-heroic.jpg",
@@ -16615,14 +16615,14 @@
                     "quality": "rare",
                     "url": "./resources/heroes/reinhardt/poses/reinhardt-legendary.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "reinhardt-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/reinhardt/poses/reinhardt-rip.jpg",
                     "event": "HALLOWEEN",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "reinhardt-toast",
                     "quality": "rare",
                     "url": "./resources/heroes/reinhardt/poses/reinhardt-toast.jpg",
@@ -16703,7 +16703,7 @@
                     "quality": "legendary",
                     "url": "./resources/heroes/roadhog/skins/roadhog-toa.jpg"
                 }, {
-                    "name": "Junkenstein's Monster",
+                    "name": "Чудовище Крысенштейна",
                     "id": "roadhog-junkensteins-monster",
                     "quality": "legendary",
                     "url": "./resources/heroes/roadhog/skins/roadhog-junkensteins-monster.jpg",
@@ -16718,7 +16718,7 @@
                     "event": "YEAR_OF_THE_ROOSTER_2017"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "roadhog-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/roadhog/emotes/roadhog-heroic.webm",
@@ -16756,7 +16756,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "roadhog-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/roadhog/intros/roadhog-heroic.webm",
@@ -16783,7 +16783,7 @@
                     "url": "./resources/heroes/roadhog/intros/roadhog-feast.webm",
                     "event": "YEAR_OF_THE_ROOSTER_2017"
                 }, {
-                    "name": "Footsteps...",
+                    "name": "Поступь",
                     "id": "roadhog-footsteps",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/intros/roadhog-footsteps.webm",
@@ -16955,7 +16955,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "roadhog-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/roadhog/sprays/roadhog-trick-or-treat.png",
@@ -16998,14 +16998,14 @@
                     "url": "./resources/heroes/roadhog/sprays/roadhog-joker.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "roadhog-cute",
                     "quality": "common",
                     "url": "./resources/heroes/roadhog/sprays/roadhog-cute.png",
                     "achievement": true,
                     "description": "Knock 2 enemies to their deaths with one use of Roadhog's Whole Hog in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "roadhog-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/roadhog/sprays/roadhog-pixel.png",
@@ -17134,7 +17134,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "roadhog-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/roadhog/poses/roadhog-heroic.jpg",
@@ -17162,7 +17162,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "roadhog-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/roadhog/poses/roadhog-rip.jpg",
@@ -17224,7 +17224,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/soldier-76/skins/soldier-76-golden.jpg"
                 }, {
-                    "name": "Immortal",
+                    "name": "Бессмертный",
                     "id": "soldier-76-immortal",
                     "quality": "epic",
                     "url": "./resources/heroes/soldier-76/skins/soldier-76-immortal.jpg",
@@ -17274,7 +17274,7 @@
                     "achievement": "blizzard"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "soldier-76-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/soldier-76/emotes/soldier-76-heroic.webm",
@@ -17300,7 +17300,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/soldier-76/emotes/soldier-76-locked-and-loaded.webm"
                 }, {
-                    "name": "Take a Knee",
+                    "name": "На колено",
                     "id": "soldier-76-take-a-knee",
                     "quality": "epic",
                     "url": "./resources/heroes/soldier-76/emotes/soldier-76-take-a-knee.webm"
@@ -17318,7 +17318,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "soldier-76-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/soldier-76/intros/soldier-76-heroic.webm",
@@ -17491,7 +17491,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "soldier-76-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/soldier-76/sprays/soldier-76-trick-or-treat.png",
@@ -17516,7 +17516,7 @@
                     "url": "./resources/heroes/soldier-76/sprays/soldier-76-dragon-dance.png",
                     "event": "YEAR_OF_THE_ROOSTER_2017"
                 }, {
-                    "name": "Folded Hands",
+                    "name": "Сложенные руки",
                     "id": "soldier-76-folded-hands",
                     "quality": "common",
                     "url": "./resources/heroes/soldier-76/sprays/soldier-76-folded-hands.png",
@@ -17534,14 +17534,14 @@
                     "url": "./resources/heroes/soldier-76/sprays/soldier-76-ace-of-spades.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "soldier-76-cute",
                     "quality": "common",
                     "url": "./resources/heroes/soldier-76/sprays/soldier-76-cute.png",
                     "achievement": true,
                     "description": "Kill 4 enemies with a single use of Soldier: 76's Tactical Visor in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "soldier-76-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/soldier-76/sprays/soldier-76-pixel.png",
@@ -17670,7 +17670,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "soldier-76-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/soldier-76/poses/soldier-76-heroic.jpg",
@@ -17698,14 +17698,14 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "soldier-76-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/soldier-76/poses/soldier-76-rip.jpg",
                     "event": "HALLOWEEN",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "soldier-76-toast",
                     "quality": "rare",
                     "url": "./resources/heroes/soldier-76/poses/soldier-76-toast.jpg",
@@ -17796,7 +17796,7 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "sombra-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/sombra/emotes/sombra-heroic.webm",
@@ -17834,7 +17834,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "sombra-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/sombra/intros/sombra-heroic.webm",
@@ -18058,21 +18058,21 @@
                     "event": "SUMMER_GAMES",
                     "isNew": true
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "sombra-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/sombra/sprays/sombra-trick-or-treat.png",
                     "event": "HALLOWEEN",
                     "isNew": true
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "sombra-cute",
                     "quality": "common",
                     "url": "./resources/heroes/sombra/sprays/sombra-cute.png",
                     "achievement": true,
                     "description": "Hack 6 enemies at once as Sombra in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "sombra-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/sombra/sprays/sombra-pixel.png",
@@ -18206,7 +18206,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "sombra-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/sombra/poses/sombra-heroic.jpg",
@@ -18240,7 +18240,7 @@
                     "event": "SUMMER_GAMES",
                     "isNew": true
                 }, {
-                    "name": "Pumpkinette",
+                    "name": "Тыквомант",
                     "id": "sombra-pumpkinette",
                     "quality": "rare",
                     "url": "./resources/heroes/sombra/poses/sombra-pumpkinette.jpg",
@@ -18346,7 +18346,7 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "symmetra-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/emotes/symmetra-heroic.webm",
@@ -18391,7 +18391,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "symmetra-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/intros/symmetra-heroic.webm",
@@ -18577,7 +18577,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "symmetra-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/sprays/symmetra-trick-or-treat.png",
@@ -18620,14 +18620,14 @@
                     "url": "./resources/heroes/symmetra/sprays/symmetra-nine-of-diamonds.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "symmetra-cute",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/sprays/symmetra-cute.png",
                     "achievement": true,
                     "description": "Teleport 20 players in a single Quick or Competitive Play game as Symmetra."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "symmetra-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/sprays/symmetra-pixel.png",
@@ -18698,7 +18698,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "A frightening thought",
+                    "name": "Пугающая мысль",
                     "id": "symmetra-a-frightening-thought",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/voicelines/symmetra-a-frightening-thought.ogg",
@@ -18748,7 +18748,7 @@
                     "event": "SUMMER_GAMES",
                     "isNew": true
                 }, {
-                    "name": "The treat is a lie",
+                    "name": "Конфета – это ложь",
                     "id": "symmetra-the-treat-is-a-lie",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/voicelines/symmetra-the-treat-is-a-lie.ogg",
@@ -18756,7 +18756,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "symmetra-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/symmetra/poses/symmetra-heroic.jpg",
@@ -18777,7 +18777,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/symmetra/poses/symmetra-dance.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "symmetra-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/symmetra/poses/symmetra-rip.jpg",
@@ -18900,7 +18900,7 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "torbjorn-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/torbjorn/emotes/torbjorn-heroic.webm",
@@ -18937,7 +18937,7 @@
                     "url": "./resources/updates/ANNIVERSARY_2017/emotes/torbjorn-dance.webm",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Batter Up",
+                    "name": "А ну лови!",
                     "id": "torbjorn-batter-up",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/torbjorn-batter-up.webm",
@@ -18945,7 +18945,7 @@
                     "isNew": true
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "torbjorn-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/torbjorn/intros/torbjorn-heroic.webm",
@@ -19143,7 +19143,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "torbjorn-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/torbjorn/sprays/torbjorn-trick-or-treat.png",
@@ -19186,14 +19186,14 @@
                     "url": "./resources/heroes/torbjorn/sprays/torbjorn-king-of-clubs.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "torbjorn-cute",
                     "quality": "common",
                     "url": "./resources/heroes/torbjorn/sprays/torbjorn-cute.png",
                     "achievement": true,
                     "description": "Kill 4 enemies during a single use of Torbjörn's Molten Core in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "torbjorn-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/torbjorn/sprays/torbjorn-pixel.png",
@@ -19322,7 +19322,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "torbjorn-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/torbjorn/poses/torbjorn-heroic.jpg",
@@ -19350,14 +19350,14 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "torbjorn-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/torbjorn/poses/torbjorn-rip.jpg",
                     "event": "HALLOWEEN",
                     "group": "HALLOWEEN_2016"
                 }, {
-                    "name": "Toast",
+                    "name": "Тост!",
                     "id": "torbjorn-toast",
                     "quality": "rare",
                     "url": "./resources/heroes/torbjorn/poses/torbjorn-toast.jpg",
@@ -19479,7 +19479,7 @@
                     "achievement": "blizzard"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "tracer-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/tracer/emotes/tracer-heroic.webm",
@@ -19517,7 +19517,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "tracer-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/tracer/intros/tracer-heroic.webm",
@@ -19715,7 +19715,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "tracer-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/tracer/sprays/tracer-trick-or-treat.png",
@@ -19758,14 +19758,14 @@
                     "url": "./resources/heroes/tracer/sprays/tracer-ace-of-diamonds.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "tracer-cute",
                     "quality": "common",
                     "url": "./resources/heroes/tracer/sprays/tracer-cute.png",
                     "achievement": true,
                     "description": "Stick 4 of Tracer's Pulse Bombs onto enemies in a single Quick or Competitive Play game."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "tracer-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/tracer/sprays/tracer-pixel.png",
@@ -19894,7 +19894,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "tracer-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/tracer/poses/tracer-heroic.jpg",
@@ -19915,7 +19915,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/tracer/poses/tracer-sitting.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "tracer-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/tracer/poses/tracer-rip.jpg",
@@ -19929,7 +19929,7 @@
                     "event": "SUMMER_GAMES",
                     "isNew": true
                 }, {
-                    "name": "Тыквоголовый",
+                    "name": "Тыковка",
                     "id": "tracer-pumpkin",
                     "quality": "rare",
                     "url": "./resources/heroes/tracer/poses/tracer-pumpkin.jpg",
@@ -20034,7 +20034,7 @@
                     "achievement": "blizzard"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "widowmaker-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/emotes/widowmaker-heroic.webm",
@@ -20072,7 +20072,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "widowmaker-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/intros/widowmaker-heroic.webm",
@@ -20257,7 +20257,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "widowmaker-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/sprays/widowmaker-trick-or-treat.png",
@@ -20300,14 +20300,14 @@
                     "url": "./resources/heroes/widowmaker/sprays/widowmaker-queen-of-hearts.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "widowmaker-cute",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/sprays/widowmaker-cute.png",
                     "achievement": true,
                     "description": "Kill an enemy with a scoped headshot while airborne as Widowmaker in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "widowmaker-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/sprays/widowmaker-pixel.png",
@@ -20378,7 +20378,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "The party is over",
+                    "name": "Праздник окончен",
                     "id": "widowmaker-the-party-is-over",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/voicelines/widowmaker-the-party-is-over.ogg",
@@ -20436,7 +20436,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "widowmaker-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/widowmaker/poses/widowmaker-heroic.jpg",
@@ -20464,7 +20464,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "widowmaker-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/widowmaker/poses/widowmaker-rip.jpg",
@@ -20560,7 +20560,7 @@
                     "event": "YEAR_OF_THE_ROOSTER_2017"
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "winston-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/winston/emotes/winston-heroic.webm",
@@ -20591,7 +20591,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/winston/emotes/winston-sitting-around.webm"
                 }, {
-                    "name": "Shadow Puppets",
+                    "name": "Театр теней",
                     "id": "winston-shadow-puppets",
                     "quality": "epic",
                     "url": "./resources/updates/HALLOWEEN/emotes/winston-shadow-puppets.webm",
@@ -20605,7 +20605,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "winston-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/winston/intros/winston-heroic.webm",
@@ -20790,7 +20790,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "winston-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/winston/sprays/winston-trick-or-treat.png",
@@ -20833,14 +20833,14 @@
                     "url": "./resources/heroes/winston/sprays/winston-jack-of-hearts.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "winston-cute",
                     "quality": "common",
                     "url": "./resources/heroes/winston/sprays/winston-cute.png",
                     "achievement": true,
                     "description": "Damage 6 enemies during a single use of Winston's Primal Rage in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "winston-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/winston/sprays/winston-pixel.png",
@@ -20969,7 +20969,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "winston-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/winston/poses/winston-heroic.jpg",
@@ -20997,7 +20997,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "winston-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/winston/poses/winston-rip.jpg",
@@ -21109,7 +21109,7 @@
                     "url": "./resources/heroes/zarya/skins/zarya-cyberian.jpg",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Восьмидесятые",
+                    "name": "80-е",
                     "id": "zarya-totally-80s",
                     "quality": "legendary",
                     "url": "./resources/heroes/zarya/skins/zarya-totally-80s.jpg",
@@ -21117,7 +21117,7 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "zarya-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/zarya/emotes/zarya-heroic.webm",
@@ -21143,7 +21143,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/zarya/emotes/zarya-pumping-iron.webm"
                 }, {
-                    "name": "Take a Knee",
+                    "name": "На колено",
                     "id": "zarya-take-a-knee",
                     "quality": "epic",
                     "url": "./resources/heroes/zarya/emotes/zarya-take-a-knee.webm"
@@ -21161,7 +21161,7 @@
                     "event": "WINTER_WONDERLAND_2016"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "zarya-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/zarya/intros/zarya-heroic.webm",
@@ -21211,7 +21211,7 @@
                     "event": "ANNIVERSARY_2017",
                     "hero": "zarya"
                 }, {
-                    "name": "Восьмидесятые",
+                    "name": "80-е",
                     "id": "zarya-totally-80s",
                     "url": "./resources/heroes/zarya/icons/zarya-totally-80s.png",
                     "event": "HALLOWEEN",
@@ -21341,7 +21341,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "zarya-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/zarya/sprays/zarya-trick-or-treat.png",
@@ -21384,14 +21384,14 @@
                     "url": "./resources/heroes/zarya/sprays/zarya-ten-of-spades.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "zarya-cute",
                     "quality": "common",
                     "url": "./resources/heroes/zarya/sprays/zarya-cute.png",
                     "achievement": true,
                     "description": "Capture 5 enemies in a single use of Zarya's Graviton Surge in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "zarya-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/zarya/sprays/zarya-pixel.png",
@@ -21520,7 +21520,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "zarya-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/zarya/poses/zarya-heroic.jpg",
@@ -21541,7 +21541,7 @@
                     "quality": "rare",
                     "url": "./resources/heroes/zarya/poses/zarya-flexing.jpg"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "zarya-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/zarya/poses/zarya-rip.jpg",
@@ -21603,7 +21603,7 @@
                     "quality": "epic",
                     "url": "./resources/heroes/zenyatta/skins/zenyatta-harmonious.jpg"
                 }, {
-                    "name": "Skullyatta",
+                    "name": "Тленъятта",
                     "id": "zenyatta-skullyatta",
                     "quality": "epic",
                     "url": "./resources/heroes/zenyatta/skins/zenyatta-skullyatta.jpg",
@@ -21642,7 +21642,7 @@
                     "url": "./resources/heroes/zenyatta/skins/zenyatta-sanzang.jpg",
                     "event": "YEAR_OF_THE_ROOSTER_2017"
                 }, {
-                    "name": "Cultist",
+                    "name": "Сектант",
                     "id": "zenyatta-cultist",
                     "quality": "legendary",
                     "url": "./resources/heroes/zenyatta/skins/zenyatta-cultist.jpg",
@@ -21650,7 +21650,7 @@
                     "isNew": true
                 }],
                 "emotes": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "zenyatta-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/zenyatta/emotes/zenyatta-heroic.webm",
@@ -21688,7 +21688,7 @@
                     "event": "ANNIVERSARY_2017"
                 }],
                 "intros": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "zenyatta-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/zenyatta/intros/zenyatta-heroic.webm",
@@ -21756,7 +21756,7 @@
                     "event": "ANNIVERSARY_2017",
                     "hero": "zenyatta"
                 }, {
-                    "name": "Cultist",
+                    "name": "Сектант",
                     "id": "zenyatta-cultist",
                     "url": "./resources/heroes/zenyatta/icons/zenyatta-cultist.png",
                     "event": "HALLOWEEN",
@@ -21886,7 +21886,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "Trick or Treat",
+                    "name": "Конфета или жизнь",
                     "id": "zenyatta-trick-or-treat",
                     "quality": "common",
                     "url": "./resources/heroes/zenyatta/sprays/zenyatta-trick-or-treat.png",
@@ -21929,14 +21929,14 @@
                     "url": "./resources/heroes/zenyatta/sprays/zenyatta-king-of-spades.png",
                     "event": "ANNIVERSARY_2017"
                 }, {
-                    "name": "Cute",
+                    "name": "Милашка",
                     "id": "zenyatta-cute",
                     "quality": "common",
                     "url": "./resources/heroes/zenyatta/sprays/zenyatta-cute.png",
                     "achievement": true,
                     "description": "Restore 1500 health with a single use of Zenyatta's Transcendence in Quick or Competitive Play."
                 }, {
-                    "name": "Pixel",
+                    "name": "Пиксель-арт",
                     "id": "zenyatta-pixel",
                     "quality": "common",
                     "url": "./resources/heroes/zenyatta/sprays/zenyatta-pixel.png",
@@ -22065,7 +22065,7 @@
                     "isNew": true
                 }],
                 "poses": [{
-                    "name": "Heroic",
+                    "name": "По умолчанию",
                     "id": "zenyatta-heroic",
                     "quality": "common",
                     "url": "./resources/heroes/zenyatta/poses/zenyatta-heroic.jpg",
@@ -22093,7 +22093,7 @@
                     "event": "SUMMER_GAMES",
                     "group": "SUMMER_GAMES_2016"
                 }, {
-                    "name": "R.I.P.",
+                    "name": "Покойся с миром",
                     "id": "zenyatta-rip",
                     "quality": "rare",
                     "url": "./resources/heroes/zenyatta/poses/zenyatta-rip.jpg",

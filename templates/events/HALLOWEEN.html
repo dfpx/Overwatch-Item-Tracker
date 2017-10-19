@@ -64,7 +64,7 @@
         tooltip-placement="bottom auto">
         <input type="checkbox" id="{{type + item.id + $index}}" ng-model="checked[item.hero][type][item.id]" ng-change="onSelect(item, type)">
         <label for="{{type + item.id + $index}}">
-          <h4>{{::item.heroName || 'All'}}</h4>
+          <h4>{{::item.heroName || 'Все'}}</h4>
           <h3 class="{{::item.quality || 'common'}}">{{::item.name}} <small class="color-cost">{{ ::item | itemPrice:type:true }}</small></h3>
         </label>
       </div>
@@ -156,7 +156,7 @@
         tooltip-placement="bottom auto">
         <input type="checkbox" id="{{type + item.id + $index}}" ng-model="checked[item.hero][type][item.id]" ng-change="onSelect(item, type)">
         <label for="{{type + item.id + $index}}">
-          <h4>{{::item.heroName || 'All'}}</h4>
+          <h4>{{::item.heroName || 'Все'}}</h4>
           <h3 class="{{::item.quality || 'common'}}">{{::item.name}} <small class="color-cost">{{ ::item | itemPrice:type:true }}</small></h3>
         </label>
       </div>
